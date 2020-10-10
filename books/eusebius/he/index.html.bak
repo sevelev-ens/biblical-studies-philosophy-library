@@ -1,0 +1,15 @@
+<!-- http://khazarzar.skeptik.net/books/eusebius/he/ -->
+
+<html>
+<head>
+<title>Евсевий Кесарийский. Церковная история</title>
+<meta name="author" content="Руслан Хазарзар">
+<meta name="keywords" content="Library of Ruslan Khazarzar, Библиотека Руслана Хазарзара">
+<meta name="description" content="Eusebius, Historia ecclesiastica, Евсевий Кесарийский, Памфил, Церковная история">
+</head>
+
+<frameset cols="13%,87%">
+ <frame src="nav.html" name="nav" marginwidth="5" marginheight="15" scrolling="no" noresize frameborder="1">
+ <frame src="title.html" name="title" marginwidth="10" marginheight="1" noresize frameborder="0">
+</frameset>
+</html>

@@ -1,0 +1,2153 @@
+<!-- http://khazarzar.skeptik.net/books/anisov03.htm -->
+
+<html>
+
+<head>
+<title>А.М.Анисов. Логика неопределенности и неопределенности во времени</title>
+<meta content="text/html; charset=windows-1251" http-equiv="Content-Type">
+<meta content="Руслан Хазарзар" name="author">
+<meta content="Library of Ruslan Khazarzar, Библиотека Руслана Хазарзара, Познание, Анисов, Логика, Время" name="keywords">
+<meta content="А.М.Анисов. Логика неопределенности и неопределенности во времени" name="description">
+
+<style type="text/css">
+<!--
+h1   {font-size:24pt;margin-bottom:24pt;margin-top:24pt;text-align:center}
+h2   {font-size:20pt;margin-bottom:20pt;margin-top:20pt;text-align:center}
+h3   {font-size:16pt;margin-bottom:16pt;margin-top:16pt;text-align:center}
+h4   {font-size:15pt;margin-bottom:0pt;margin-top:0pt;text-align:center;text-indent:0pt}
+p    {font-family:"Times New Roman";font-size:14pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:35pt}
+p.m  {font-size:13pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:35pt}
+p.r  {font-size:13pt;margin-bottom:0pt;margin-top:0pt;text-align:right;text-indent:0pt}
+p.a  {font-size:13pt;margin-bottom:0pt;margin-top:0pt;margin-right:0cm;margin-left:10.0cm;text-align:justify;text-indent:20pt}
+p.s  {font-size:12pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:35pt}
+p.p  {font-size:12pt;margin-top:0pt;margin-bottom:0pt;margin-right:0cm;margin-left:5.0cm;text-align:left;text-indent:0pt}
+p.l  {font-size:14pt;margin-top:0pt;margin-bottom:0pt;text-align:justify;text-indent:0pt}
+p.r  {font-size:13pt;margin-top:0pt;margin-bottom:0pt;text-align:right;text-indent:0pt}
+p.ss {font-size:13pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:35pt;margin-left:3.5cm}
+p.c  {font-size:13pt;margin-bottom:3pt;margin-top:3pt;text-align:center;text-indent:0pt}
+//-->
+</style>
+
+</head>
+
+<body bgcolor="#ffffff" text="#000000">
+
+<a name=top></a>
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tr>
+<td align="left" bgcolor="#0000ee" valign="top" width="10%">
+<a href="index_ph.htm" target="_top" title="Библиотека Руслана Хазарзара">
+<img border="0" src="img/strel1.gif"></a>
+</td>
+<td align="middle" bgcolor="#0000ee" width="80%">
+<a href="index_ph.htm" target="_top" title="Библиотека Руслана Хазарзара">
+<img border="0" src="img/t.gif"></a>
+</td>
+<td align="middle" bgcolor="#0000ee" width="10%">&nbsp;
+</td>
+</tr>
+</table>
+
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tr>
+<td align="middle" bgcolor="#0000ee" valign="top" width="3%">
+<img src="img/lent.gif">
+</td>
+<td width="2%">&nbsp;
+</td>
+<td width="90%">
+
+<p>&nbsp;</p>
+
+<h2>А.&nbsp;М.&nbsp;Анисов</h2>
+
+<h1>Логика неопределенности<br>
+и неопределенности во времени<a href="#prim0" name="0">[*]</a></h1>
+
+<p>В классической логике <i>высказываниями</i> называют предложения, которые
+оцениваются либо как истинные, либо как ложные, но не то и другое одновременно.
+Даже если для конкретного высказывания ни один из людей не в состоянии
+доказательно обосновать его истинность или ложность, высказывание считается <i>объективно</i>
+имеющим одну, и ровно одну, из указанных истинностных характеристик. Например,
+знаменитая гипотеза Ферма в настоящее время является таким высказыванием. Но
+остается надежда, что ответ на вопрос об истинности или ложности данного
+высказывания может быть получен в будущем. И, хотя у нас нет и быть не может
+(согласно одной из ограничительных теорем К.&nbsp;Геделя) эффективного метода
+перечисления арифметических истин, каждое арифметическое высказывание считается
+наделенным одним из двух истинностных значений безотносительно к тому, умеет
+или нет познающий субъект это значение установить.<u1:p></u1:p></p>
+
+<p>Сказанное касается не только арифметики и даже не только математики, а
+относится к любым предметным областям вообще. Классическая логика
+распространяет <i>принцип бивалентности</i> на любой универсум рассуждений:
+всякое высказывание, о чем бы оно ни было, является либо истинным, либо ложным,
+но не тем и другим сразу. Если же некоторое предложение, по виду напоминающее
+высказывание, не имеет одной из двух возможных истинностных характеристик, то
+это не высказывание, а бессмысленное выражение.<u1:p></u1:p></p>
+
+<p>Такой подход, развиваемый классической логикой, влечет определенные
+представления о реальности. Извинимся за невольный каламбур: высказав это
+утверждение, далее следовало бы сказать, что данные определенные представления
+основываются на идее тотальной определенности всего сущего. Но так оно и есть.
+Классическая логика принимает фундаментальную онтологическую предпосылку об
+определенности реальности любого рода. Не потому реальность определенна, что
+высказывания о ней всегда либо истинны, либо ложны, а, наоборот, высказывания
+всегда либо истинны, либо ложны потому, что реальность полностью определенна.
+Если возникают проблемы с определенностью высказываний, то ответственность за
+это возлагается не на описываемую ими предметную область, а на эти
+высказывания. Предложение “Сократ сидит” лишь по виду высказывание. Оно не
+истинно и не ложно, ибо иногда Сократ сидит, а иногда нет. В полностью
+определенном универсуме классической логики необходимо указать момент (или
+интервал) времени, в который происходит описываемое событие: “Сократ сидит в
+момент времени <i><span style='mso-fareast-language:EN-US'>t</span></i>”. А это
+уже матрица для получения высказываний, истинных для одних конкретных моментов
+времени и ложное для других. Теперь высказывание типа “Сократ сидит 1&nbsp;мая
+399&nbsp;г. до н.&nbsp;э. в 8&nbsp;часов 5&nbsp;минут 16&nbsp;секунд” навечно
+либо истинно, либо ложно, даже если никто ни сейчас, ни когда-либо в будущем не
+сможет надежно установить его истинность или ложность.<u1:p></u1:p></p>
+
+<p>Мы с легкостью смиряемся с идеей определенности событий прошлого. Другое
+дело, что предикаты событий могут требовать уточнения. В рассматриваемом случае
+слово “сидит” двусмысленно: Сократ в мае 399&nbsp;г. до н.&nbsp;э. находился в
+тюрьме (“сидел”, так сказать), но мог в некоторый момент этого интервала
+времени сидеть или не сидеть в смысле занятой им позы. Но двусмысленности
+всегда можно устранить. А уж если при этом указано еще точное время и место
+свершения события, то последние сомнения в его определенности отпадают. Таково
+господствующее мнение.<u1:p></u1:p></p>
+
+<p>Мало кто задумывается, что уточнения пространственно-временных характеристик
+событий прошлого могут вести к недопустимому переходу от заведомо истинных
+высказываний к весьма проблематичным суждениям. Утверждения “Заратустра основал
+зороастризм в VI&nbsp;в. до н.&nbsp;э.” и “Заратустра основал зороастризм в
+XVI&nbsp;в. до н.&nbsp;э.” не могут быть вместе истинными, но каждое принимается
+каким-либо специалистом. Следовательно, от практически несомненного “Заратустра
+основал зороастризм” приходим к определенным во времени, но сомнительным
+утверждениям, поскольку “расхождения в датировке, достигающие у современных
+исследователей тысячи лет и более, отражают и подчеркивают то обстоятельство,
+что в дошедших до нас источниках нет надежных конкретных данных для определения
+времени жизни Заратуштры” [9.&nbsp;С.<span style='mso-fareast-language:EN-US'>&nbsp;</span>289].
+Вряд ли нужно настаивать, что затруднения подобного рода в высшей степени
+характерны для исторического познания, занимающегося изучением универсума
+прошлого.<u1:p></u1:p></p>
+
+<p>Сомнения в определенности будущего возникали и возникают гораздо чаще. Еще
+основатель логики Аристотель столкнулся с проблемой истинностной оценки
+высказываний о случайных будущих событиях. В подтверждение сказанного обратимся
+к знаменитому фрагменту из трактата Аристотеля «Об истолковании» –
+главе&nbsp;9, в которой обсуждается проблема эпистемологического статуса
+высказываний о будущих случайных событиях&nbsp;[5]. Этот небольшой
+аристотелевский текст вызвал появление несоизмеримо большого числа статей и
+даже книг, посвященных анализу содержащихся в нем идей. (См., напр., [11].
+Здесь же можно найти библиографию по рассматриваемому вопросу.) В чем причина
+такого интереса к фрагменту? Скорее всего, в том, что эти идеи совершенно не
+вписываются в господствующую логическую парадигму, основанную на статической
+концепции времени, в которой время по сути полностью определенно и неизменно во
+всех его частях&nbsp;[1]. Аристотель же, вне всяких сомнений, был сторонником динамической
+концепции, утверждающей, в частности, нефиксированность (и потому
+неопределенность) будущего [1.&nbsp;С.&nbsp;36-37].<u1:p></u1:p></p>
+
+<p>Отсюда фундаментальное различие, проведенное Аристотелем между
+высказываниями о прошлом и настоящем, с одной стороны, и будущим – с другой: “Итак,
+относительно того, чт<span style='mso-char-type:symbol;mso-symbol-font-family:
+"Times New Roman"'><span style='mso-char-type:symbol;mso-symbol-font-family:
+"Times New Roman"'>&oacute;</span></span> есть и чт<span style='mso-char-type:
+symbol;mso-symbol-font-family:"Times New Roman"'><span style='mso-char-type:
+symbol;mso-symbol-font-family:"Times New Roman"'>&oacute;</span></span> стало,
+утверждение или отрицание необходимо должно быть истинным или ложным... Однако
+не так обстоит дело с единичным и с тем, чт<span style='mso-char-type:symbol;
+mso-symbol-font-family:"Times New Roman"'><span style='mso-char-type:symbol;
+mso-symbol-font-family:"Times New Roman"'>&oacute;</span></span> будет”
+[5,&nbsp;18<span style='mso-fareast-language:EN-US'>a</span>28-33]. Единичное
+случайное событие, если оно уже совершилось, позволяет формулировать о нем либо
+истинные, либо ложные высказывания. Если же оно относится к несуществующему
+будущему, ему только еще предстоит произойти или не произойти. Поэтому в момент
+настоящего высказывание о том, произошло ли будущее случайное событие или нет,
+еще <i>не стало</i> истинным или ложным, “ибо с тем, чт<span style='mso-char-type:
+symbol;mso-symbol-font-family:"Times New Roman"'><span style='mso-char-type:
+symbol;mso-symbol-font-family:"Times New Roman"'>&oacute;</span></span> не
+есть, но может быть и не быть, дело обстоит не так, как с тем, чт<span
+style='mso-char-type:symbol;mso-symbol-font-family:"Times New Roman"'><span
+style='mso-char-type:symbol;mso-symbol-font-family:"Times New Roman"'>&oacute;</span></span>
+есть” [5,&nbsp;19<span style='mso-fareast-language:EN-US'>b</span>2-4]. В
+качестве примера такого события Аристотель разбирает завтрашнее морское
+сражение. Необходимо лишь то, что оно будет или не будет, но не то, что оно
+необходимо будет или необходимо не будет [5,&nbsp;19<span style='mso-fareast-language:
+EN-US'>a</span>30-33]. Высказывания “Завтра произойдет морское сражение” и
+“Завтра морское сражение не произойдет” пока не истинны и не ложны, или, как
+говорит Аристотель о суждениях такого типа, “не немедля” истинны или ложны
+[5,&nbsp;19<span style='mso-fareast-language:EN-US'>a</span>38].<u1:p></u1:p></p>
+
+<p>Речь идет именно о случайных будущих событиях, поскольку высказывания о том,
+что совершается по необходимости, будут истинны или ложны независимо от момента
+их произнесения или написания. В результате центр тяжести падает не на
+разделение темпоральных высказываний на датированные (и потому якобы
+определенные во времени) и не содержащие даты, а на разделение их на
+определенные во времени и неопределенные во времени. Определенные во времени
+высказывания, согласно Аристотелю, описывают либо то, что стало, либо то, что
+вообще не знает становления. Если морское сражение случайно состоялось, то
+высказывания о нем будут истинны или ложны на все оставшиеся времена. Еще
+лучше, когда положение дел не может быть иным, когда оно воплощает в себе
+необходимость. Примером необходимо истинного высказывания является закон
+исключенного третьего. Каким бы ни было событие, оно в каждый момент времени
+либо существует, либо не существует, либо будет, либо нет, ибо “все необходимо
+есть или не есть, а также будет или не будет” [5,&nbsp;19<span
+style='mso-fareast-language:EN-US'>a</span>28]. То есть закон исключенного
+третьего действует независимо от типа событий, о которых высказываются.
+Дизъюнкция “Завтра произойдет морское сражение или Завтра морское сражение не
+произойдет” истинна несмотря на то, что входящие в нее суждения пока не истинны
+и не ложны. Что касается суждений о не ставшем, о подверженном изменению
+существовании, то подобные суждения вообще не допускают приписывания
+определенного истинностного значения из альтернативы “истина – ложь”. В таком
+случае получает объяснение настойчивое стремление ряда античных мыслителей
+найти неподверженное всеразрушающему потоку времени стабильное бытие,
+относительно которого можно сказать либо что оно было или есть, либо что оно
+было, есть и будет.<u1:p></u1:p></p>
+
+<p>Анализируя аристотелевскую проблему, выдающийся польский логик
+Я.&nbsp;Лукасевич пришел к идее третьего истинностного значения. Ни одно из
+противоречащих друг другу высказываний о завтрашнем сражении сегодня не истинно
+и не ложно. Эти высказывания лишь впоследствии обретут привычные значения
+истины или лжи&nbsp;[14].<u1:p></u1:p></p>
+
+<p>Бурно развивающиеся в наше время исследования в области многозначных логик
+не касаются проблемы прошлых случайных событий. Точнее говоря, тут вообще не
+усматривают проблемы. Действительно, если каждое высказывание об актуальном
+событии либо истинно, либо ложно, и если прошлое неизменно, то при переходе в
+прошлое и во все более далекое прошлое эти высказывания сохранят свой
+истинностный статус. Например, если 15&nbsp;мая 1591&nbsp;года было истинно
+высказывание “Царевич Дмитрий убит”, то оно будет (в силу неизменности
+прошлого) истинным и 15&nbsp;мая 2002&nbsp;года и во все последующие времена.
+Установить истинностную характеристику данного высказывания легче, конечно, по
+горячим следам. Сейчас это сделать труднее ввиду отдаленности события. Но, коль
+скоро истинностная характеристика со временем не изменилась, трудности
+преодолимы, по крайней мере, в принципе.<u1:p></u1:p></p>
+
+<p>Так или примерно так рассуждают сторонники тезиса о неизменности прошлого.
+Но на практике историки часто говорят о невозможности верификации или
+фальсификации определенных высказываний о прошлом. Могут возразить, что точно
+так же зачастую невозможно установить истинностные значения высказываний об
+актуальных событиях, происходящих в отдаленных от нас областях Вселенной. Это
+возражение бьет мимо цели, так как с точки зрения современной физики вследствие
+конечной скорости распространения взаимодействий последствия этих событий могут
+быть обнаружены лишь в будущем. В этом смысле события, которые мы наблюдали бы,
+если бы мгновенно перенеслись в какую-нибудь другую звездную систему, реально
+могут себя обнаружить для познающего субъекта только как прошлые события. Так
+что пространственно удаленные события на самом деле познаются как события
+прошлого, поэтому перед нами встают те же самые проблемы объяснения
+особенностей ретроспективного познания.<u1:p></u1:p></p>
+
+<p>Правда, сказанное выше не следует возводить в абсолют, как это сделал
+Ю.&nbsp;Б.&nbsp;Молчанов, утверждая, что все познаваемые нами события – это
+“события прошлого, которые произошли на столько раньше, сколько времени
+требуется тому или иному сигналу, чтобы преодолеть расстояние от места их
+свершения до моих рецепторов и моего мозга” [15.&nbsp;С.&nbsp;125]. Ошибочность
+этого рассуждения в том, что настоящее в реальной познавательной практике
+длится. Так, никому и в голову не придет считать себя старше своего отражения в
+зеркале, историк не будет называть настоящим промежуток времени в
+1&nbsp;секунду, настоящее расположение материков для геолога длится годами и
+так далее. Прошлое начинается за рамками интервала настоящего, имеющего
+различную продолжительность для разных областей реальности (в зависимости от
+характерной скорости изменения наполняющих время событий).<u1:p></u1:p></p>
+
+<p>Возвращаясь к основной линии изложения, отметим, что факт невозможности
+установления истинностных значений некоторых осмысленных высказываний о прошлом
+при том условии, что эти же высказывания легко верифицируемы или
+фальсифицируемы в случае актуально происходящих событий (представим, например,
+что мы наблюдаем за царевичем Дмитрием в течение суток 15&nbsp;мая 1591&nbsp;г.
+и затем верифицируем высказывание о причине его смерти), свидетельствует об
+особом статусе прошлого в сравнении с настоящим. Реальность прошлого – это не
+то же самое, что реальность актуального настоящего. Это реальности разных
+видов, различающиеся способом существования.<u1:p></u1:p></p>
+
+<p>К пониманию этого подходил Я.&nbsp;Лукасевич, утверждая, что “и к прошлому
+мы должны относиться точно так же, как и к будущему”. Даже “всевидящий разум” о
+некоторых событиях прошлого не мог бы утверждать, “что они были, но лишь, что
+они были возможны” [14.&nbsp;<span style='mso-fareast-language:EN-US'>C</span>.&nbsp;205].
+Сказанное означает, что <i>для описания прошлого (как и будущего) нам
+недостаточно традиционных истинностных характеристик</i>. Вряд ли в самой
+действительности остались следы угличских событий полутысячелетней давности, которые
+позволили бы нам или нашим потомкам разрешить загадку смерти царевича. Слишком
+фрагментарны эти следы. По сути, след события всегда фрагментарен и неполно
+характеризует событие, его оставившее. Но историческая реальность – это
+реальность совокупности следов. Обязательно найдутся такие свойства событий,
+которые будут отсутствовать в совокупности соответствующих следов.
+“Отсутствовать” в смысле невозможности обоснованно утверждать ни то, что эти
+свойства были, ни то, что их не было. Поэтому некоторые осмысленные
+высказывания о существовавшем в прошлом объекте неизбежно будут иметь третье,
+неопределенное истинностное значение.<u1:p></u1:p></p>
+
+<p>Так, химические методы в ряде случаев позволяют установить, что содержание
+ядовитых веществ в останках людей в несколько раз выше нормы. Например, в
+волосах Наполеона обнаружили повышенное содержание мышьяка и сурьмы. Однако это
+не позволяет сделать однозначный вывод о том, что превышение нормы произошло
+вследствие отравления бывшего императора злоумышленниками. При отсутствии в самой
+реальности других значимых следов версия об отравлении Наполеона останется
+недоказанной&nbsp;[12]. В этом случае высказывание “Наполеон был отравлен”
+получает неопределенную истинностную оценку.<u1:p></u1:p></p>
+
+<p>Следует различать <i>онтологическую</i> и <i>гносеологическую</i>
+неопределенность, когда мы говорим о третьем истинностном значении. Так, с
+определенностью можно утверждать, что среди теорем, которые ученые считают
+доказанными в настоящее время, имеются ложные высказывания. Но принятие данного
+утверждения в качестве истинного не специфицирует ни одной теоремы, ошибочно
+относимой к доказанным истинам. Про любую теорему t мы можем либо утверждать,
+что она доказана, либо указать, что некоторые ученые считают ее доказанной,
+либо сослаться на то, что никому не удалось показать ее ошибочность. В любом
+случае, если <i>t</i>&nbsp;<span style='font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&Icirc;</span></span>&nbsp;<i>T</i>, где <i>T</i> – класс всех теорем,
+принятых в настоящее время в качестве доказанных, то не обязательно мы будем
+настаивать на несомненной истинности&nbsp;<i>t</i>. А вдруг ошибочность <i>t</i>
+просто не заметили, или эта ошибочность проистекает из нетривиальных
+соображений? Представим себе, что ошибочное приписывание значения “истинно”
+теореме <i>t</i>&nbsp;<span style='font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&Icirc;</span></span>&nbsp;<i>T</i> карается смертью. Не окажется ли в
+этом случае список истинных теорем слишком коротким? Я, пожалуй, рискну на этих
+условиях утверждать, что в арифметике Пеано 2<span style='font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&acute;</span></span>2=4, что А<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>®</span></span>А
+доказуемо в классическом исчислении высказываний и т.&nbsp;п. Но вряд ли я
+решусь утверждать, что для раскраски любой карты достаточно четырех цветов или
+что арифметика Пеано непротиворечива. А вдруг четырех цветов недостаточно, а
+вдруг арифметика противоречива – не расставаться же из-за этого с жизнью!<u1:p></u1:p></p>
+
+<p>С другой стороны, для любой теоремы <i>t</i>&nbsp;<span style='font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Icirc;</span></span>&nbsp;<i>T</i> не
+подходит и характеристика “ложно”, поскольку, по определению, <i>T</i>
+составляют лишь такие утверждения, про которые думают, что они истинны. В этих
+условиях для каждого <i>t</i>&nbsp;<span style='font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&Icirc;</span></span>&nbsp;<i>T</i> неизбежно либо принятие
+утверждения, что <i>t</i> истинна, либо утверждения, что <i>t</i> неопределенна
+(т.&nbsp;е. может оказаться истинной, но может быть и ложной, хотя последнее
+менее вероятно в общем случае). Ясно, что принятие теоремы, на истинности
+которой мы не настаиваем категорически, имеет гносеологический характер. Если
+завтра для некоторой теоремы <i>t</i>&nbsp;<span style='font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Icirc;</span></span>&nbsp;<i>T</i> будет
+показано, что <i>t</i> ложно, то это не потому, что <i>t</i> сегодня была
+истинной, а завтра стала ложной. Утверждение <i>t</i> и сегодня было ложным, но
+мы этого не знали. Но данное незнание действительно имело место, так что (за
+вычетом тех, кто лишился жизни за принятие <i>t</i> в качестве истины) правы
+были эксперты, приписавшие утверждению <i>t</i> неопределенное истинностное
+значение. Таким образом, в приведенном примере мы имели дело с гносеологической
+неопределенностью.<u1:p></u1:p></p>
+
+<p>С иным положением дел сталкивается исследователь прошлого и будущего. В
+момент “теперь” онтологически уже не существует части прошлой жизни и
+онтологически еще не существует будущей истории во всех ее деталях. Если
+истинность или ложность утверждения теоремы остается неизменной в веках, то для
+событий, зависящих от времени, дело обстоит противоположным образом. Не думаете
+ли вы, что в эпоху существования динозавров уже существовала объективная
+возможность появления этих строк? Равным образом, не думаете ли вы, что любой
+из существовавших динозавров оставил в самой реальности неизгладимый след? –
+Нет, возникновение этих строк, а также читающих их, было творческим актом
+Вселенной, отнюдь не заложенным в ней от начала времен. Точно так же неизбежно
+с течением времени исчезнет наша эпоха, оставив в лучшем случае какие-либо
+следы. Но что-то из нашей жизни исчезнет без следа. В отношении таких процессов
+возникновения и исчезновения во времени имеет место онтологическая
+неопределенность.<u1:p></u1:p></p>
+
+<p>Традиционные истинностные значения 1 (истина) или 0 (ложь) высказывания А
+выражаются в языке посредством утверждения либо А, либо <span style='font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А. Соответственно,
+в языке должна иметься возможность выражать неопределенность, которую обозначим
+знаком 1/0. Введем для этого новую унарную логическую связку “н”: нА будем
+читать как “неопределенно&nbsp;А”, “А не определено” и т.&nbsp;п. Теперь в
+случае ¦А¦&nbsp;=&nbsp;1 утверждаем А, в случае ¦А¦&nbsp;=&nbsp;0 утверждаем <span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А,
+и в случае ¦А¦&nbsp;=&nbsp;1/0 утверждаем нА (здесь ¦...¦ – функция
+истинностной оценки высказываний).<u1:p></u1:p></p>
+
+<p>В согласии с аристотелевским подходом к неопределенности будем считать, что
+закон исключенного третьего по-прежнему действует и формула А&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А
+истинна при любом А, но теперь из А&nbsp;<span style='font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А
+уже не следует, что либо ¦А¦&nbsp;=&nbsp;1, либо ¦<span style='font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А¦&nbsp;=&nbsp;1
+(или что либо ¦А¦&nbsp;=&nbsp;0, либо ¦<span style='font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А¦&nbsp;=&nbsp;0),
+поскольку не исключено, что ¦А¦&nbsp;=&nbsp;1/0 и ¦<span style='font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А¦&nbsp;=&nbsp;1/0.
+С интуитивной точки зрения, неопределенность высказывания А влечет
+неопределенность его отрицания <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span>А, и наоборот. Поэтому примем также, что нА&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>«</span></span>&nbsp;н<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А,
+т.&nbsp;е. А не определено тогда и только тогда, когда <span style='font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А не определено.
+Если же высказывание А определенно, то по-прежнему из двух противоречащих
+высказываний А и <span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А
+одно является истинным, а другое ложным. Например, суждение “Клеопатра –
+женщина” определенно истинно, и, значит, его отрицание ложно, тогда как
+суждение “Клеопатра – красавица” может вызвать споры, во избежание которых
+этому суждению припишем неопределенное истинностное значение, откуда его
+отрицание также неопределенно.<u1:p></u1:p></p>
+
+<p>В работах [2], [3], [4,&nbsp;гл.&nbsp;9] нами была предложена и исследована
+формальная семантика для языка логики предикатов первого порядка, пополненного
+оператором неопределенности “н”. В построенной семантической теории
+неопределенности, которая была названа <i>н-семантикой</i>, неопределенность
+задается набором возможных миров вида &lt;U,{F<sub>i</sub>} i<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Icirc;</span></span>J&gt;
+(где U – единый для всех миров непустой универсум, F<sub>i</sub> – функция
+интерпретации, а J – множество индексов числом не менее двух), попарно
+отличающихся интерпретацией хотя бы одного предикатного символа. То есть при <span
+style='mso-fareast-language:EN-US'>i </span><span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>&sup1;</span><span
+style='mso-fareast-language:EN-US'> j</span> найдется такой предикат Р, что F<sub>i</sub>(Р)
+<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&sup1;</span> F<sub><span
+style='mso-fareast-language:EN-US'>j</span></sub>(Р). При этом для любой
+индивидной константы <i>с</i> принимается F<sub>i</sub>(<i>с</i>)&nbsp;=&nbsp;F<sub><span
+style='mso-fareast-language:EN-US'>j</span></sub>(<i>с</i>). Иными словами,
+имена индивидов считаются <i>твердыми десигнаторами</i> (имеющими одинаковый
+денотат во всех возможных мирах), а ответственность за неопределенность
+возлагается на <i>мягкие десигнаторы</i> – предикаты (которые могут иметь
+разные денотаты в разных мирах). Отношение достижимости на мирах отсутствует.
+Под неопределенностью высказывания в самом общем плане понимается ситуация, в
+которой высказывание истинно в одних мирах и ложно в других. Эта простая
+семантическая идея привела к неожиданным следствиям. Множество общезначимых
+формул н-семантики оказалось рекурсивно перечислимым, однако было доказано, что
+понятие естественным образом заданного логического следования в ней не
+формализуемо, а теорема компактности не верна.<u1:p></u1:p></p>
+
+<p>Два последних свойства (а также некоторые другие особенности н-семантики)
+нежелательны. Они излишне усложняют формальные семантические характеристики
+неопределенности, тогда как с содержательных позиций все относительно просто:
+есть <i>определенные</i> высказывания, истинные во всех мирах или ложные во
+всех мирах, и есть <i>неопределенные</i> высказывания, истинные в одних мирах и
+ложные в других. Законы классической логики истинны во всех возможных мирах, а
+противоречия ложны во всех мирах. Поэтому, в частности, А&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А –
+определенное высказывание (и при том истинное), и <span style='font-family:
+Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>(А&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А) –
+также определенное высказывание (но ложное).<u1:p></u1:p></p>
+
+<p>Стало быть, высказывания А&nbsp;<span style='font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&Uacute;</span></span>&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span>А и <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span>(А&nbsp;<span style='font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&Uacute;</span></span>&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span>А) остаются определенными независимо от того, является
+ли исходное высказывание&nbsp;А определенным или неопределенным. Эта,
+восходящая к Аристотелю, позиция для нас принципиальна. Но именно она
+заставляет говорить о простоте семантической идеи неопределенности в
+относительном смысле. Ведь при таком подходе истинностное значение сложного
+выражения не является, в общем случае, функцией от истинностных значений его
+частей. И тут ничего не поделаешь. Что приписать дизъюнкции А&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;В,
+если ¦А¦&nbsp;=&nbsp;1/0 и ¦В¦&nbsp;=&nbsp;1/0? Максимум? – Тогда ¦А&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;В¦&nbsp;=&nbsp;1/0.
+Но если В есть <span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А?
+– Тогда ¦А&nbsp;<span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;В¦&nbsp;=&nbsp;1.
+Аналогичные трудности возникают в отношении конъюнкции, импликации и
+эквивалентности – для них тоже не существует адекватных трехзначных таблиц.
+Например, рассмотрим высказывание А&nbsp;<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol'>«&nbsp;</span>В. Пусть ¦А¦&nbsp;=&nbsp;1/0 и
+¦В¦&nbsp;=&nbsp;1/0. Но не спешите приписывать ¦А&nbsp;<span style='font-family:
+Symbol;mso-bidi-font-family:Symbol'>«</span>&nbsp;В¦&nbsp;=&nbsp;1. Если В есть
+<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А,
+то ¦А&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>«</span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А¦&nbsp;=&nbsp;0,
+поскольку А&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>«</span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А
+противоречиво и, значит, А&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>«</span>&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span>А ложно во всех мирах. Если же истинностное
+значение&nbsp;А совпадает с истинностным значением&nbsp;В в мире <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol'>a</span>, но не совпадает
+в мире <span style='mso-bidi-font-size:12.0pt;font-family:Symbol'>b</span>, то
+А&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>«</span>&nbsp;В
+истинно в <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:
+symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;
+mso-symbol-font-family:Symbol'>a</span></span> и ложно в <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>b</span></span>. Отсюда ¦А&nbsp;<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol'>«</span>&nbsp;В¦&nbsp;=&nbsp;1/0. И т.&nbsp;п.
+Однако это так только для бинарных логических связок. Унарные логические связки
+“<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>”
+и “н” составляют исключение, поскольку определяются следующей таблицей.<o:p></o:p></p>
+
+<u1:p></u1:p>
+
+<p>&nbsp;</p>
+
+<div align=center>
+
+<table border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;
+ border:none;mso-border-alt:solid windowtext .75pt;mso-padding-alt:0cm 3.55pt 0cm 3.55pt'>
+ <tr>
+  <td width=38 valign=top style='width:1.0cm;border:solid windowtext .75pt;
+  padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>А<u1:p></u1:p></p>
+  </td>
+  <td width=38 valign=top style='width:1.0cm;border:solid windowtext .75pt;
+  border-left:none;mso-border-left-alt:solid windowtext .75pt;padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+  mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+  Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А<u1:p></u1:p></p>
+  </td>
+  <td width=43 valign=top style='width:32.6pt;border:solid windowtext .75pt;
+  border-left:none;mso-border-left-alt:solid windowtext .75pt;padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>нА<u1:p></u1:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=38 valign=top style='width:1.0cm;border:solid windowtext .75pt;
+  border-top:none;mso-border-top-alt:solid windowtext .75pt;padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>1<u1:p></u1:p></p>
+  </td>
+  <td width=38 valign=top style='width:1.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext .75pt;border-right:solid windowtext .75pt;
+  mso-border-top-alt:solid windowtext .75pt;mso-border-left-alt:solid windowtext .75pt;
+  padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>0<u1:p></u1:p></p>
+  </td>
+  <td width=43 valign=top style='width:32.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext .75pt;border-right:solid windowtext .75pt;
+  mso-border-top-alt:solid windowtext .75pt;mso-border-left-alt:solid windowtext .75pt;
+  padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>0<u1:p></u1:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=38 valign=top style='width:1.0cm;border:solid windowtext .75pt;
+  border-top:none;mso-border-top-alt:solid windowtext .75pt;padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>1/0<u1:p></u1:p></p>
+  </td>
+  <td width=38 valign=top style='width:1.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext .75pt;border-right:solid windowtext .75pt;
+  mso-border-top-alt:solid windowtext .75pt;mso-border-left-alt:solid windowtext .75pt;
+  padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>1/0<u1:p></u1:p></p>
+  </td>
+  <td width=43 valign=top style='width:32.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext .75pt;border-right:solid windowtext .75pt;
+  mso-border-top-alt:solid windowtext .75pt;mso-border-left-alt:solid windowtext .75pt;
+  padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>1<u1:p></u1:p></p>
+  </td>
+ </tr>
+ <tr>
+  <td width=38 valign=top style='width:1.0cm;border:solid windowtext .75pt;
+  border-top:none;mso-border-top-alt:solid windowtext .75pt;padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>0<u1:p></u1:p></p>
+  </td>
+  <td width=38 valign=top style='width:1.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext .75pt;border-right:solid windowtext .75pt;
+  mso-border-top-alt:solid windowtext .75pt;mso-border-left-alt:solid windowtext .75pt;
+  padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>1<u1:p></u1:p></p>
+  </td>
+  <td width=43 valign=top style='width:32.6pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext .75pt;border-right:solid windowtext .75pt;
+  mso-border-top-alt:solid windowtext .75pt;mso-border-left-alt:solid windowtext .75pt;
+  padding:0cm 3.55pt 0cm 3.55pt'>
+  <p class=c>0<u1:p></u1:p></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p>&nbsp;</p>
+
+<p>Действительно, если высказывание&nbsp;А истинно (ложно) во всех мирах, то
+его отрицание будет ложным (истинным) также во всех мирах. В любом случае А и <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А
+определенны, поэтому приписывание им неопределенности ложно. Если же А истинно
+в мире <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:
+symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;
+mso-symbol-font-family:Symbol'>a</span></span> и ложно в мире <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>b</span></span>, т.&nbsp;е. если ¦А¦&nbsp;=&nbsp;1/0, то, конечно,
+высказывание “А неопределенно”, т.&nbsp;е. высказывание нА, будет истинным.
+После того как высказывание нА получило истинностную оценку, оказывается, что
+оно стало либо ложным, либо истинным, т.&nbsp;е. превратилось в определенное
+высказывание. Поэтому, в соответствии с таблицей, любое высказывание вида ннА
+окажется ложным, так что формула <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span>ннА является первым примером специфического логического
+закона <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&uacute;</span></span>= <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span>ннА, связанного с оператором неопределенности “н”.<u1:p></u1:p></p>
+
+<p>В целом можно сказать, что вместо принципа бивалентности нами принимается
+семантический <i>принцип тривалентности</i>, согласно которому любое
+высказывание либо истинно, либо ложно, либо неопределенно. Четвертого не дано.
+Однако принцип тривалентности здесь не ведет к отбрасыванию закона исключенного
+третьего (А&nbsp;<span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А) и
+принятию вместо него закона исключенного четвертого в форме (А&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;нА).
+Разумеется, последняя формула является законом, т.&nbsp;е. <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=
+(А&nbsp;<span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;нА),
+но, тем не менее, законом остается и первая формула, т.&nbsp;е. <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=
+(А&nbsp;<span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А). Зато
+формулы (А&nbsp;<span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;нА)
+и (<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;нА)
+законами не являются. Тут отсутствует какая-либо непоследовательность в
+рассуждениях. Все дело в том, как добываются истинностные значения. А они
+получаются в зависимости от положения дел в возможных мирах. При нашем подходе
+возможные миры существуют не наряду с действительным миром, а в совокупности
+его составляют. Действительный мир распадается на возможные миры потому, что
+ему объективно присуща неопределенность. Точнее говоря, возможные миры в нашем
+смысле совпадают друг с другом в определенной части реального мира, и
+различаются лишь в отношении его неопределенной части. Она потому и
+неопределенна, что в реальности ее нельзя свести к чему-то одному. Законы
+классической логики описывают определенную часть реальности, поэтому они
+сохраняются в любом возможном мире. Что же касается неопределенностей, то у них
+свои законы, которые должны ужиться с законами классики.<u1:p></u1:p></p>
+
+<p>Иными словами, логика неопределенности должна быть консервативным
+расширением логики классической. Лишь в этом случае есть надежда, что она будет
+не просто еще одним добавлением к многочисленному семейству абстрактных
+неклассических логик, представляющих только теоретический интерес, но на самом
+деле будет логикой, т.&nbsp;е. основой для реальных рассуждений. Ведь, как
+известно, чаще всего даже авторы неклассических систем в действительности не
+рассуждают в соответствии с построенными ими же исчислениями и семантиками.
+Бывает забавно наблюдать, как поборник какой-нибудь неклассической логики,
+основанной на отбрасывании некоторых законов классики, и таким образом, не
+являющейся ее расширением, доказывает метатеоремы для своей “логики”, пользуясь
+исключительно логикой классической.</p>
+
+<p>Приведенные рассуждения подводят к очень важному для дальнейшего заключению.
+Во всех ситуациях определенность имела место тогда и только тогда, когда
+какое-то положение дел&nbsp;<i>А</i> было одинаковым во всех возможных мирах.
+Для возникновения неопределенности в отношении&nbsp;<i>А</i> требовалось
+наличие <i>двух</i> миров <span style='mso-bidi-font-size:12.0pt;font-family:
+Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>a</span></span> и <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>b</span></span> таких, что <i>А</i> имело место в <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>a</span></span> и не имело места в <span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>b</span></span> или
+наоборот. Что делается в других мирах, отличных от <span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>a</span></span> и <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>b</span></span>, – уже не существенно в том смысле, что ситуация в них
+никак не способна повлиять на неопределенность&nbsp;<i>А</i>. Это наблюдение
+приводит к выводу, что <i>с логической точки зрения для описания свойств
+неопределенности достаточно двух возможных миров</i>. Третий, четвертый и
+последующие миры могут нести дополнительную информацию фактического характера,
+но ничего не добавят к логическим характеристикам определенности или
+неопределенности, подобно тому, как в классической логике любые дескриптивные
+особенности высказываний элиминируются стягиванием их всех к двум полюсам –
+истина и ложь. В отличие от классики, теперь в целом перед нами не два, а <i>три</i>
+варианта: <i>А</i> выполнено во всех мирах, <i>А</i> не выполнено во всех
+мирах, и <i>А</i> выполнено в одном мире и не выполнено в другом. Но в
+последнем случае достаточно опять-таки двух вариантов или двух миров для
+возникновения неопределенности в отношении&nbsp;<i>А</i>. Это позволяет свести
+рассуждения о неопределенности к двум возможным мирам, что, как можно
+надеяться, значительно упростит логическую теорию неопределенности без потери
+каких бы то ни было существенных характеристик исследуемого феномена.<u1:p></u1:p></p>
+
+<p>Как уже говорилось, идея неопределенности была нами развита на основе
+неклассической логики. Тривиально ясно, что логика, содержащая третье
+истинностное значение и новый логический оператор “н”, не может быть
+классической. Однако нельзя ли как-нибудь приблизить неклассическую логику
+неопределенности к классике таким образом, чтобы избавить ее хотя бы от части
+нежелательных свойств, о которых упоминалось выше? Мы предлагаем весьма
+радикальный вариант решения поставленной проблемы. Его суть состоит в
+предложении развивать логику неопределенности как бы <i>внутри</i> классической
+логики.<u1:p></u1:p></p>
+
+<p>Основная идея следующая. Каждый согласится, что бывает так, что Р(<i><span
+style='mso-fareast-language:EN-US'>c</span></i>), но <span style='font-family:
+Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span style='mso-fareast-language:
+EN-US'>Q</span>(<i><span style='mso-fareast-language:EN-US'>c</span></i>),
+т.&nbsp;е. индивид <i>с</i> обладает свойством&nbsp;Р, но не обладает
+свойством&nbsp;<span style='mso-fareast-language:EN-US'>Q</span>. При этом все
+полностью определенно. Для возникновения неопределенности в отношении Р и <i>с</i>,
+надо, чтобы в некотором мире <span style='mso-bidi-font-size:12.0pt;font-family:
+Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>a</span></span> было
+Р(<i><span style='mso-fareast-language:EN-US'>c</span></i>), а в мире <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>b</span></span> – <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span>Р(<i><span style='mso-fareast-language:EN-US'>c</span></i>).
+Тогда можно утверждать, что нР(<i>с</i>). Однако введение этих миров сделает
+семантику неклассической. А что, если в качестве <span style='font-family:Symbol;
+mso-bidi-font-family:Symbol'>&Oslash;</span>Р(<i><span style='mso-fareast-language:
+EN-US'>c</span></i>) использовать <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span><span style='mso-fareast-language:EN-US'>Q</span>(<i><span
+style='mso-fareast-language:EN-US'>c</span></i>)? Обоснованно возразят, что Р и
+<span style='mso-fareast-language:EN-US'>Q</span> являются <i>разными</i>
+предикатами. Как же можно в этих условиях утверждать нР(<i>с</i>)? Но что
+означает различие в предикатах – только ли различие в написании? Нет, не
+только. Главным является как раз не это, а то, как <i>определяются</i>
+предикаты. При аксиоматическом подходе, например, мы можем принять некоторые
+утверждения про Р и <span style='mso-fareast-language:EN-US'>Q</span> в
+качестве аксиом, приняв, допустим, что <span style='font-family:Symbol;
+mso-bidi-font-family:Symbol'>&quot;</span>хР(х) и <span style='font-family:
+Symbol;mso-bidi-font-family:Symbol'>&Oslash;&quot;</span>х<span
+style='mso-fareast-language:EN-US'>Q</span>(х). Тут различие между Р и <span
+style='mso-fareast-language:EN-US'>Q</span> действительно очевидно и речь в
+самом деле идет о разных свойствах. Однако предположим, что Р и <span
+style='mso-fareast-language:EN-US'>Q </span><i>определяются одинаково</i>,
+т.&nbsp;е. всякая аксиома для Р превращается в аксиому для <span
+style='mso-fareast-language:EN-US'>Q</span> посредством замены Р на <span
+style='mso-fareast-language:EN-US'>Q</span> и, наоборот, всякая аксиома для <span
+style='mso-fareast-language:EN-US'>Q</span> превращается в аксиому для <span
+style='mso-fareast-language:EN-US'>P</span> посредством замены <span
+style='mso-fareast-language:EN-US'>Q</span> на <span style='mso-fareast-language:
+EN-US'>P</span>. Какие теперь есть основания утверждать, что Р и <span
+style='mso-fareast-language:EN-US'>Q</span> различны? Основания эти вытекают из
+того, что одни и те же аксиомы можно иногда интерпретировать по-разному. Если
+принимаются высказывания <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&quot;</span>хР(х) и <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&quot;</span>х<span style='mso-fareast-language:EN-US'>Q</span>(х), то
+предикаты Р и <span style='mso-fareast-language:EN-US'>Q</span> в рамках
+классики совпадут в любом универсуме при любой интерпретации. Но если в
+качестве аксиом принимаются формулы <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>$</span>хР(х) и <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>$</span>х<span style='mso-fareast-language:EN-US'>Q</span>(х), то
+интерпретации данных предикатов могут быть различны. Однако додумаем
+высказанную мысль до конца. <i>При совпадении аксиом для Р и </i><i><span
+style='mso-fareast-language:EN-US'>Q</span> мы имеем право в любом случае вести
+речь если и не о совпадении, то, по крайней мере, о <b>сходстве</b> Р и </i><i><span
+style='mso-fareast-language:EN-US'>Q</span></i>. Здесь больше оснований
+говорить о сходстве, чем в той ситуации, когда интерпретации одного и того же
+предиката Р в мирах <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>a</span></span> и <span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>b</span></span>
+никак не связаны. И именно опираясь на это сходство, мы получаем полное право
+при наличии Р(<i><span style='mso-fareast-language:EN-US'>c</span></i>) и <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>Q</span>(<i><span style='mso-fareast-language:
+EN-US'>c</span></i>) не только утверждать, что нР(<i>с</i>), но и (поскольку
+отношение сходства симметрично) утверждать н<span style='mso-fareast-language:
+EN-US'>Q</span>(<i><span style='mso-fareast-language:EN-US'>c</span></i>).<u1:p></u1:p></p>
+
+<p>Обсуждаемое сходство можно подкрепить психологически, сделав похожими
+начертания сходных предикатов. Удобнее вместо <span style='mso-fareast-language:
+EN-US'>Q</span> использовать, допустим, Р*. Важно подчеркнуть, что суть идеи
+сходства не в этом. Мы называем <span style='mso-fareast-language:EN-US'>n</span>-<i>местные
+атомарные предикаты</i> Р(х<sub>1</sub>, ..., x<sub>n</sub>) <i>и</i> <span
+style='mso-fareast-language:EN-US'>Q</span>(х<sub>1</sub>, ..., x<sub>n</sub>) <b><i>сходными</i></b><i>
+в теории</i> Т, <i>если любая аксиома </i>Т, <i>содержащая эти предикаты или
+один из них, остается аксиомой данной теории</i> Т <i>после одновременной
+замены каждого вхождения</i> Р(х<sub>1</sub>, ..., x<sub>n</sub>) <i>на</i> <span
+style='mso-fareast-language:EN-US'>Q</span>(х<sub>1</sub>, ..., x<sub>n</sub>) <i>и
+каждого вхождения</i> <span style='mso-fareast-language:EN-US'>Q</span>(х<sub>1</sub>,
+..., x<sub>n</sub>) <i>на</i> Р(х<sub>1</sub>, ..., x<sub>n</sub>). Аналогичным
+образом определяется сходство в теории Т функциональных символов.<u1:p></u1:p></p>
+
+<p>Перейдем к более детальным построениям. Пусть Т – аксиоматическая теория в
+языке <span style='mso-fareast-language:EN-US'>L</span> классического
+исчисления предикатов первого порядка. Сопоставим каждому <span
+style='mso-fareast-language:EN-US'>n</span>-местному атомарному предикатному символу
+Р(х<sub>1</sub>,&nbsp;...,&nbsp;x<sub>n</sub>) языка <span style='mso-fareast-language:
+EN-US'>L n</span>-местный атомарный предикатный символ Р*(х<sub>1</sub>,&nbsp;...,&nbsp;x<sub>n</sub>),
+а каждому <span style='mso-fareast-language:EN-US'>n</span>-местному
+функциональному символу <span style='mso-fareast-language:EN-US'>t</span>(х<sub>1</sub>,&nbsp;...,&nbsp;x<sub>n</sub>)
+– n-местный функциональный символ <span style='mso-fareast-language:EN-US'>t</span>*(х<sub>1</sub>,&nbsp;...,&nbsp;x<sub>n</sub>).
+Индивидные константы (если они вообще имеются) оставим без изменений<a
+href="#prim1" name="1">[1]</a>.
+Получим язык L*. Теперь заменим в аксиомах теории Т каждое вхождение
+предикатных и функциональных символов на соответствующие символы со звездочкой.
+Результат описанной замены для аксиомы&nbsp;А обозначим через&nbsp;А*. В итоге
+получим теорию&nbsp;Т* в языке&nbsp;L*, содержащую в качестве аксиом только
+формулы вида&nbsp;А*.</p>
+
+<p>Объединим полученные теории в одну. Получим теорию Т&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Egrave;</span>&nbsp;Т*
+в языке <span style='mso-fareast-language:EN-US'>L&nbsp;</span><span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Egrave;</span><span style='mso-fareast-language:EN-US'>&nbsp;L</span>*.
+Теория Т&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Egrave;</span>&nbsp;Т*
+вряд ли может кого-то заинтересовать. Просто она содержит два параллельных ряда
+аксиом, отличающихся лишь наличием или отсутствием звездочек в их
+формулировках. Однако понятие формулы претерпело существенное изменение.
+Формулами теории Т&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Egrave;</span>&nbsp;Т* отныне являются не только формулы языка&nbsp;<span
+style='mso-fareast-language:EN-US'>L</span> и формулы языка&nbsp;<span
+style='mso-fareast-language:EN-US'>L</span>* по отдельности, но и <i>смешанные</i>
+формулы, содержащие как символы без звездочек, так и символы со звездочками.
+Пусть А – какая-либо формула языка <span style='mso-fareast-language:EN-US'>L&nbsp;</span><span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Egrave;</span><span style='mso-fareast-language:EN-US'>&nbsp;L</span>*.
+<i>Через </i>А*<i> обозначим результат одновременной замены в </i>А<i> каждого
+предикатного или функционального символа без звездочки на соответствующий
+символ со звездочкой, а каждого предикатного или функционального символа со
+звездочкой на соответствующий символ без звездочки</i>.<u1:p></u1:p></p>
+
+<p>Так определенная операция * на формулах обладает следующим очевидным
+свойством.<u1:p></u1:p></p>
+
+<p><b>Предложение 1</b>. Любая формула А графически совпадает с А**, но ни одна
+формула А не совпадает с&nbsp;А*.<u1:p></u1:p></p>
+
+<p>По аналогии с атомарными формулами, произвольные формулы А и А* также будем
+называть <b><i>сходными</i></b> в теории Т&nbsp;<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol'>&Egrave;</span>&nbsp;Т*.<u1:p></u1:p></p>
+
+<p>Положим <span style='mso-fareast-language:EN-US'>L</span>н&nbsp;= <span
+style='mso-fareast-language:EN-US'>L&nbsp;</span><span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>&Egrave;</span><span
+style='mso-fareast-language:EN-US'>&nbsp;L</span>*&nbsp;<span style='font-family:
+Symbol;mso-bidi-font-family:Symbol'>&Egrave;</span>&nbsp;{н}, где “н” – символ
+новой унарной логической связки.<u1:p></u1:p></p>
+
+<p>Добавим к Т&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Egrave;</span>&nbsp;Т*
+важное определение. Точнее, схему определений. Для <i>любой</i> формулы&nbsp;А
+языка&nbsp;<span style='mso-fareast-language:EN-US'>L</span>н аксиомой является
+следующая формула:<u1:p></u1:p></p>
+
+<p>нА&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>«</span>&nbsp;((А&nbsp;&amp;&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Oslash;</span><span style='mso-fareast-language:EN-US'>A</span>*)&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>A&nbsp;</span>&amp;&nbsp;<span
+style='mso-fareast-language:EN-US'>A</span>*)).<u1:p></u1:p></p>
+
+<p>Содержательный смысл данного определения должен быть ясен из вышесказанного.
+В частности, если А – формула языка <span style='mso-fareast-language:EN-US'>L&nbsp;</span><span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Egrave;</span><span style='mso-fareast-language:EN-US'>&nbsp;L</span>*
+(это означает, что в А нет вхождений оператора “н”), то А неопределенна тогда и
+только тогда, когда она выполнена в модели теории Т&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Egrave;</span>&nbsp;Т*,
+а сходная с ней формула&nbsp;А* не выполнена в той же модели, или, наоборот, А
+не выполнена, но А* выполнена.<u1:p></u1:p></p>
+
+<p>Теорию Т&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Egrave;</span>&nbsp;Т*
+с присоединенной схемой определений <u1:p></u1:p></p>
+
+<p>нА&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:Symbol'>«</span>&nbsp;((А&nbsp;&amp;&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Oslash;</span><span style='mso-fareast-language:EN-US'>A</span>*)&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>A&nbsp;</span>&amp;&nbsp;<span
+style='mso-fareast-language:EN-US'>A</span>*)) в качестве новой аксиомной схемы
+назовем <i>минимальной</i> <i>теорией с неопределенностью</i> Тн в языке <span
+style='mso-fareast-language:EN-US'>L</span>н. Короче, минимальная Тн&nbsp;=&nbsp;Т&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Egrave;</span>&nbsp;Т*&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Egrave;</span>&nbsp;{нА&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>«</span>&nbsp;((А&nbsp;&amp;&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Oslash;</span><span style='mso-fareast-language:EN-US'>A</span>*)&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>A&nbsp;</span>&amp;&nbsp;<span
+style='mso-fareast-language:EN-US'>A</span>*))}.<u1:p></u1:p></p>
+
+<p>Интересно обсудить вопрос: относится ли предложенная конструкция к чистой
+логике, или она является частью прикладных построений? Уточним постановку
+вопроса. Пусть исходная теория Т – это просто одна из аксиоматических
+формулировок чистого исчисления предикатов первого порядка без равенства. Нет
+никаких причин сомневаться, что Т* тогда тоже относится к чистой логике. Но как
+быть в этом случае с минимальной Тн? Является ли Тн прикладной теорией (вроде
+арифметики или теории множеств), или ее все еще можно считать принадлежащей к
+чистой логике? Представляется убедительным следующий аргумент. Аксиомы
+прикладных теорий истинны не во всех универсумах, тогда как логические аксиомы
+верны при любых интерпретациях во всех непустых универсумах. Аксиомную схему нА&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>«</span>&nbsp;((А&nbsp;&amp;&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Oslash;</span><span style='mso-fareast-language:EN-US'>A</span>*)&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>A&nbsp;</span>&amp;&nbsp;<span
+style='mso-fareast-language:EN-US'>A</span>*)) невозможно провалить по той же
+самой причине, по какой нельзя опровергнуть, например, сокращение (А&nbsp;&amp;&nbsp;В)&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>«</span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>(А&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>®</span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>В),
+добавленное к исчислению, сформулированному в языке {<span style='font-family:
+Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>,&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>®</span>}. Так и в
+рассматриваемом случае. Формула нА&nbsp;<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol'>«</span>&nbsp;((А&nbsp;&amp;&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Oslash;</span><span style='mso-fareast-language:EN-US'>A</span>*)&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>A&nbsp;</span>&amp;&nbsp;<span
+style='mso-fareast-language:EN-US'>A</span>*)) по сути является сокращением,
+позволяющем в более компактном виде представлять некоторые формулы. Можно,
+конечно, принять закон <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span>((А&nbsp;&amp;&nbsp;В)&nbsp;<span style='font-family:
+Symbol;mso-bidi-font-family:Symbol'>«</span>&nbsp;<span style='font-family:
+Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>(А&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>®</span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>В)<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>),</span> но это будет
+какая-то другая, неклассическая логика. Также можно придать унарной логической
+связке “н” какой-то другой смысл. Но это тоже будет уже другая логика.<u1:p></u1:p></p>
+
+<p>Придадим сказанному формальный смысл. Пусть &lt;U,&nbsp;F&gt; – структура
+для языка <span style='mso-fareast-language:EN-US'>L&nbsp;</span><span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Egrave;</span><span style='mso-fareast-language:EN-US'>&nbsp;L</span>*.
+Поскольку язык <span style='mso-fareast-language:EN-US'>L&nbsp;</span><span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Egrave;</span><span style='mso-fareast-language:EN-US'>&nbsp;L</span>*
+является языком исчисления предикатов первого порядка, функция интерпретации <span
+style='mso-fareast-language:EN-US'>F</span> предикатных, функциональных и
+индивидных констант из <span style='mso-fareast-language:EN-US'>L&nbsp;</span><span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Egrave;</span><span style='mso-fareast-language:EN-US'>&nbsp;L</span>*
+на непустом универсуме <span style='mso-fareast-language:EN-US'>U</span>
+стандартна. Все, что требуется для того, чтобы сделать &lt;U,&nbsp;F&gt;
+структурой для языка&nbsp;<span style='mso-fareast-language:EN-US'>L</span>н, –
+это определить условие выполнимости для формул вида&nbsp;нА. Это условие
+очевидно: <i>формула</i> нА <b><i>выполнена</i></b><i> в структуре</i> &lt;U,&nbsp;F&gt;
+<i>при оценке </i><i><span style='mso-fareast-language:EN-US'>v</span></i><span
+style='mso-fareast-language:EN-US'> </span><i>тогда и только тогда, когда в</i>
+&lt;U,&nbsp;F&gt; <i>при оценке </i><i><span style='mso-fareast-language:EN-US'>v</span></i><span
+style='mso-fareast-language:EN-US'> </span><i>выполнена формула</i> ((А&nbsp;&amp;&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Oslash;</span><span style='mso-fareast-language:EN-US'>A</span>*)&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>A&nbsp;</span>&amp;&nbsp;<span
+style='mso-fareast-language:EN-US'>A</span>*)). Тогда верно следующее
+утверждение (в котором знак логического закона “&nbsp;<span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=
+” имеет обычное классическое значение).<u1:p></u1:p></p>
+
+<p><b>Предложение 2</b>. &nbsp;<span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=
+(нА <span style='font-family:Symbol;mso-bidi-font-family:Symbol'>«</span> ((А
+&amp; <span style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Oslash;</span><span style='mso-fareast-language:EN-US'>A</span>*) <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&#142;</span> (<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>A</span> &amp; <span style='mso-fareast-language:
+EN-US'>A</span>*))).<u1:p></u1:p></p>
+
+<p>Однако чисто логическая теория&nbsp;Тн моментально превратится в прикладную,
+как только мы примем аксиому о том, что <i>конкретная</i> <i>выполнимая</i> формула
+А является неопределенной. Аксиома нА для такой формулы может выполняться в
+одних интерпретациях и не выполняться в других, как и положено аксиомам
+прикладных теорий. Но в этом случае теория Тн перестанет быть минимальной.<u1:p></u1:p></p>
+
+<p><b>Предложение 3</b>. Для любой теории Т теория Т&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Egrave;</span>&nbsp;Т*
+является ее консервативным расширением, а минимальная теория&nbsp;Тн является
+консервативным расширением Т&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Egrave;</span>&nbsp;Т* (и, значит, также&nbsp;Т).<u1:p></u1:p></p>
+
+<p>Как и всякую теорию, минимальную теорию Тн можно расширять, причем не
+обязательно формулами, содержащими оператор “н”. В качестве новой аксиомы к Тн
+разрешается добавлять любую формулу языка&nbsp;<span style='mso-fareast-language:
+EN-US'>L</span>н. Разумеется, в результате расширение уже не обязано быть
+консервативным. Тем не менее, каковы бы ни были теории с неопределенностью Тн,
+для них верны все стандартные метатеоремы о первопорядковых теориях
+классической логики. Иными словами, выполняется своего рода <i>принцип переноса</i>.
+Данный факт имеет место потому, что по сути дела теории Тн не выводят нас за
+рамки классической логики. В частности, каждую формулу теории Тн, содержащую
+оператор “н”, можно заменить эквивалентной ей формулой без этого оператора,
+элиминировав, таким образом, оператор неопределенности “н”.<u1:p></u1:p></p>
+
+<p>Зато введение этого оператора позволяет в компактном виде сформулировать ряд
+неклассических идей, связанных с неопределенностью. Начнем с семантики. Будем
+использовать понятие выполнимости в обычном смысле с учетом расширения его на
+формулы вида&nbsp;нА, как было определено выше. Пусть А – формула языка&nbsp;<span
+style='mso-fareast-language:EN-US'>L</span>н и &lt;U,&nbsp;F&gt; – структура
+для языка&nbsp;<span style='mso-fareast-language:EN-US'>L</span>н. А <i>определенно</i>
+<i>выполнена</i> в структуре &lt;U,&nbsp;F&gt; при оценке <span
+style='mso-fareast-language:EN-US'>v</span>, если как А, так и А* выполнена в
+структуре &lt;U,&nbsp;F&gt; при оценке <span style='mso-fareast-language:EN-US'>v</span>.
+А <i>определенно</i> <i>не выполнена</i> в структуре &lt;U,&nbsp;F&gt; при
+оценке <span style='mso-fareast-language:EN-US'>v</span>, если как А, так и А*
+не выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span style='mso-fareast-language:
+EN-US'>v</span>. Если в классическом случае любая формула либо выполнена, либо
+не выполнена, то здесь появляется третья возможность. Формула А <i>неопределенно
+выполнена</i> в структуре &lt;U,&nbsp;F&gt; при оценке <span style='mso-fareast-language:
+EN-US'>v</span>, если либо А выполнена в структуре &lt;U,&nbsp;F&gt; при оценке
+<span style='mso-fareast-language:EN-US'>v</span>, но А* не выполнена в
+структуре &lt;U,&nbsp;F&gt; при оценке <span style='mso-fareast-language:EN-US'>v</span>,
+либо А не выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span
+style='mso-fareast-language:EN-US'>v</span>, но А* выполнена в структуре &lt;U,&nbsp;F&gt;
+при оценке <span style='mso-fareast-language:EN-US'>v</span>.<u1:p></u1:p></p>
+
+<p><b>Предложение 4</b>. Формула нА определенно выполнена в структуре &lt;U,&nbsp;F&gt;
+при оценке <span style='mso-fareast-language:EN-US'>v</span> тогда и только
+тогда, когда А неопределенно выполнена в структуре &lt;U,&nbsp;F&gt; при оценке
+<span style='mso-fareast-language:EN-US'>v</span>.<u1:p></u1:p></p>
+
+<p>Докажем это утверждение. Пусть нА определенно выполнена в структуре &lt;U,&nbsp;F&gt;
+при оценке <span style='mso-fareast-language:EN-US'>v</span>. Значит, как нА,
+так и нА* выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span
+style='mso-fareast-language:EN-US'>v</span>. Согласно определению выполнимости
+для формул вида нА, получаем, что в структуре &lt;U,&nbsp;F&gt; при оценке <span
+style='mso-fareast-language:EN-US'>v</span> выполнена формула ((А&nbsp;&amp;&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Oslash;</span><span style='mso-fareast-language:EN-US'>A</span>*)&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>A&nbsp;</span>&amp;&nbsp;<span
+style='mso-fareast-language:EN-US'>A</span>*)). Дизъюнкция <span
+style='mso-fareast-language:EN-US'>C&nbsp;</span><span style='font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;<span
+style='mso-fareast-language:EN-US'>D</span> выполнена, если выполнена формула С
+или выполнена формула <span style='mso-fareast-language:EN-US'>D</span>.
+Допустим, (А&nbsp;&amp;&nbsp;<span style='font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-fareast-language:EN-US'>&Oslash;</span><span style='mso-fareast-language:
+EN-US'>A</span>*) выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span
+style='mso-fareast-language:EN-US'>v</span>. Тогда и А, и <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А*
+выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span style='mso-fareast-language:
+EN-US'>v</span>. Раз <span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А*
+выполнена, то А* не выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span
+style='mso-fareast-language:EN-US'>v</span>, т.&nbsp;е. А неопределенно
+выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span style='mso-fareast-language:
+EN-US'>v</span>, что и требовалось. Случай (<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol'>&Oslash;</span><span style='mso-fareast-language:
+EN-US'>A&nbsp;</span>&amp;&nbsp;<span style='mso-fareast-language:EN-US'>A</span>*)
+рассматривается аналогично.<u1:p></u1:p></p>
+
+<p>Пусть теперь А неопределенно выполнена в структуре &lt;U,&nbsp;F&gt; при
+оценке <span style='mso-fareast-language:EN-US'>v</span>. Тогда либо А
+выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span style='mso-fareast-language:
+EN-US'>v</span>, но А* не выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span
+style='mso-fareast-language:EN-US'>v</span>, либо А не выполнена в структуре
+&lt;U,&nbsp;F&gt; при оценке <span style='mso-fareast-language:EN-US'>v</span>,
+но А* выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span
+style='mso-fareast-language:EN-US'>v</span>. Рассмотрим первую возможность. Так
+как А* не выполнена в структуре &lt;U,&nbsp;F&gt; при оценке <span
+style='mso-fareast-language:EN-US'>v</span>, <span style='font-family:Symbol;
+mso-bidi-font-family:Symbol'>&Oslash;</span>А* выполнена в структуре &lt;U,&nbsp;F&gt;
+при оценке <span style='mso-fareast-language:EN-US'>v</span>. Значит, в
+структуре &lt;U,&nbsp;F&gt; при оценке <span style='mso-fareast-language:EN-US'>v</span>
+выполнена конъюнкция (А&nbsp;&amp;&nbsp;<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>A</span>*) и, следовательно, дизъюнкция ((А&nbsp;&amp;&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>&Oslash;</span><span style='mso-fareast-language:EN-US'>A</span>*)&nbsp;<span
+style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span>&nbsp;(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span><span
+style='mso-fareast-language:EN-US'>A&nbsp;</span>&amp;&nbsp;<span
+style='mso-fareast-language:EN-US'>A</span>*)), что и требовалось. Вторая
+возможность рассматривается аналогичным образом.<u1:p></u1:p></p>
+
+<p>Формула&nbsp;А принимает значение 1 (<i>определенно</i> <i>истинно</i>) в
+структуре &lt;U,&nbsp;F&gt;, если А определенно выполнена структуре &lt;U,&nbsp;F&gt;
+при всех оценках <span style='mso-fareast-language:EN-US'>v</span>. Формула А
+принимает значение 0 (<i>определенно</i> <i>ложно</i>) в структуре &lt;U,&nbsp;F&gt;,
+если А определенно не выполнена структуре &lt;U,&nbsp;F&gt; при всех оценках <span
+style='mso-fareast-language:EN-US'>v</span>. Формула А принимает истинностное
+значение 1/0 (<i>неопределенность</i>), если А неопределенно выполнена
+структуре &lt;U,&nbsp;F&gt; при всех оценках <span style='mso-fareast-language:
+EN-US'>v</span>.</p>
+
+<p>Разумеется (как и в классическом случае, когда незамкнутая формула может
+быть ни истинной, ни ложной), незамкнутая формула может быть ни истинной, ни
+ложной, ни неопределенной. Зато каждая замкнутая формула в семантике
+неопределенности получит какое-то из трех истинностных значений.</p>
+
+<p><b>Предложение 5</b>. Если А – замкнутая формула языка&nbsp;<span
+style='mso-fareast-language:EN-US'>L</span>н, то в любой структуре &lt;U,&nbsp;F&gt;
+для языка&nbsp;<span style='mso-fareast-language:EN-US'>L</span>н А получит
+одно и только одно из трех истинностных значений: либо ¦А¦&nbsp;=&nbsp;1, либо
+¦А¦&nbsp;=&nbsp;0, либо ¦А¦&nbsp;=&nbsp;1/0.<u1:p></u1:p></p>
+
+<p>Еще одним очевидным следствием принятых определений является следующее
+утверждение.<u1:p></u1:p></p>
+
+<p><b>Предложение 6</b>. Унарные связки “<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol'>&Oslash;</span>” и “н” подчиняются вышеприведенной
+таблице истинности, тогда как бинарные связки не могут быть заданы конечной
+таблицей истинности.<u1:p></u1:p></p>
+
+<p><b>Предложение 7</b>. Пусть А – замкнутая формула. Тогда ¦нА¦&nbsp;=&nbsp;¦нА*¦&nbsp;=&nbsp;¦н<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А¦&nbsp;=&nbsp;¦н<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А*¦. При
+этом либо ¦нА¦&nbsp;=&nbsp;1, либо ¦нА¦&nbsp;=&nbsp;0.<u1:p></u1:p></p>
+
+<p>Для доказательства данного утверждения достаточно обратить внимание, что
+условия выполнимости для нА и нА* эквивалентны ввиду того, что А неопределенно
+выполнена тогда и только тогда, когда А* неопределенно выполнена. Аналогичным
+образом, если формула А неопределенно выполнена, то и <span style='font-family:
+Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А также неопреде­ленно
+выполнена, и наоборот. Поэтому можно было бы сказать, что если А неопределенно
+не выполнена, то и <span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>А
+также неопределенно не выполнена. То есть в условиях неопределенности выполнимость
+и невыполнимость совпадают. В случае неопределенности А формула нА будет
+определенно истинной, а в случае опре­деленной истинности или определенной
+ложности А формула нА окажется определенно ложной. Случай ¦нА¦ = 1/0 поэтому
+исключается. С философской точки зрения это означает, что утверждение
+неопределенности или, равным образом, отрицание неопределенности, само вполне
+определенно. Но так и должно быть. Либо неопределенность есть, либо ее нет.
+Словосочетание “неопределенная неопределенность”, на наш взгляд, лишено смысла.<u1:p></u1:p></p>
+
+<p>Стандартное понятие общезначимой формулы распространя­ется на построенную
+трехзначную семантику естественным образом: вместо <i>истинно</i> надо сказать <i>определенно
+истинно</i>. Точнее, формула А языка <span style='mso-fareast-language:EN-US'>L</span>н
+является н-<i>общезначимой</i>, если А определенно истинна в любой структуре
+для языка&nbsp;<span style='mso-fareast-language:EN-US'>L</span>н. Для обычной
+общезначимости пишем <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А, а для
+н-общезначимости будем использовать запись н<span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А.<u1:p></u1:p></p>
+
+<p>Принципиальное значение имеет следующее утверждение.<u1:p></u1:p></p>
+
+<p><b>Предложение 8</b>. Для любой формулы&nbsp;А языка&nbsp;<span
+style='mso-fareast-language:EN-US'>L</span>н <span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А
+тогда и только тогда, когда н<span style='mso-bidi-font-size:12.0pt;font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А.<u1:p></u1:p></p>
+
+<p>Из определений ясно, что если н<span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А,
+то не только <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А, но и <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А*.
+Доказательство в обратную сторону основывается на том факте, что <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Ucirc;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А*
+(ведь формулы А и А* имеют одинаковую структуру). Рутинные детали опустим.<u1:p></u1:p></p>
+
+<p>Осуществив столь же естественное распространение на семан­тику
+неопределенности понятия логического следования (снова достаточно в нужных
+местах добавить слово “определенно”), получим более общее утверждение.<u1:p></u1:p></p>
+
+<p><b>Предложение 9</b>. Г&nbsp;<span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=
+А&nbsp;<span style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&Ucirc;</span></span><span style='mso-bidi-font-size:12.0pt'>&nbsp;</span>Г&nbsp;н<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А.<u1:p></u1:p></p>
+
+<p>Наконец, используя теорему полноты для классической логики, получаем
+следующее утверждение.<u1:p></u1:p></p>
+
+<p><b>Предложение 10</b>. Тн&nbsp;<span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&divide;</span></span><span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&frac34;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span>А&nbsp;<span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Ucirc;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span>н<span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&uacute;</span></span>=&nbsp;А.<u1:p></u1:p></p>
+
+<p>Пора проиллюстрировать логическую теорию неопределенности конкретными
+примерами рассуждений в неопределенных условиях. Лучше всего это сделать,
+обратившись к логике исторических рассуждений, поскольку именно исследователям
+уже исчезнувших событий прошлого приходится сталкиваться с неопределенностями
+там, где аналогичные события, будь мы их очевидцами, не вызвали бы вопросов.<u1:p></u1:p></p>
+
+<p>Более конкретно, мы займемся проблемой прямого правила удаления квантора
+существования в рассуждениях историков. Но вначале необходимо показать, как эта
+проблема решалась в классической и интуиционистской (ставшей уже почти
+классической) логике. Одним из способов решения было ведение <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>-оператора. Как известно, идея исчисления с <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>-термином принадлежит Д.&nbsp;Гильберту. Смысл выражения вида <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>хА(х) состоит в указании на некий индивид, обладающий свойством
+А(х), если такой индивид существует. Знаки индивидов называются именами, однако
+в рассматриваемом случае мы имеем дело с именем не конкретного, а
+неопределенного индивида, произвольно выбранного среди объектов,
+удовлетворяющих свойству А(х), если таковые вообще найдутся. Поэтому оператор <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span> получил название оператора <i>неопределенной дескрипции</i>.
+Существует также оператор <i>определенной дескрипции</i>, обычно обозначаемый
+символом <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:
+symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;
+mso-symbol-font-family:Symbol'>i</span></span>, который указывает на индивид
+однозначным образом. В трактовке Д.&nbsp;Гильберта требование однозначности
+обеспечивается доказательством существования и единственности введенного с
+помощью <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:
+symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;
+mso-symbol-font-family:Symbol'>i</span></span>-оператора объекта. Выражение <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>i</span></span>хА(х) имеет смысл тогда и только тогда, когда <i>предварительно</i>
+доказано, во-первых, что <span style='mso-bidi-font-size:12.0pt;font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х) (объект существует)
+и, во-вторых, что <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>х<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>у((А(х)&nbsp;&amp;&nbsp;А(у))&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>®</span></span>&nbsp;х&nbsp;=&nbsp;у)
+(объект единственен)&nbsp;[7], или, в сокращенной форме, <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>!хА(х).
+Отказываясь от слишком обременительного условия доказательства единственности и
+оставляя требование доказательства существования, приходим к <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>h</span></span>-оператору, который (так же, как и&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span><span style='font-family:Symbol;mso-bidi-font-family:Symbol'>)</span>
+оказывается оператором неопределенной дескрипции, поскольку указывает на произвольный
+объект, удовлетворяющий свойству&nbsp;А(х): <span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>h</span></span>хА(х)
+означает результат выбора некоторого индивида, выполняющего свойство&nbsp;А(х).<u1:p></u1:p></p>
+
+<p>Необходимость перехода к оператору неопределенной дескрипции В.&nbsp;А.&nbsp;Смирнов
+иллюстрирует на следующем примере&nbsp;[16]. Рассмотрим предложение “Семен
+видел верблюда”. Здесь “Семен” – имя индивида, а термин “верблюд” указывает на
+класс индивидных объектов. Однако интуитивное понимание данного предложения не
+совместимо с утверждением “Семен видел класс верблюдов”. Имеется в виду, что
+Семен видел некоторого представителя класса верблюдов, а не сам класс. Уточнить
+сказанное позволяет оператор неопределенной дескрипции: “(Семен)&nbsp;Видел&nbsp;(<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>h</span></span>х&nbsp;Верблюд&nbsp;(х))”. Но выражение вида <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>h</span></span>хА(х) имеет смысл тогда и только тогда, когда доказано <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х),
+что также накладывает излишне строгие ограничения на использование оператора
+неопределенной дескрипции. Верблюды существуют, а динозавры нет. Поэтому
+утверждение “(Семен)&nbsp;Видел&nbsp;(<span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>h</span></span>х&nbsp;Динозавр&nbsp;(х))”
+оказывается просто неправильно построенным, хотя оно имеет точно такую же
+форму, как и в предыдущем примере.<u1:p></u1:p></p>
+
+<p>Выходом из этого затруднения является отказ от обязательного доказательства
+существования объектов, обладающих некоторым свойством, в утверждениях с
+использованием оператора неопределенной дескрипции. Гильберт и Бернайс
+следующим образом обобщают идею неопределенной дескрипции, вводя <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>-оператор&nbsp;[8]. Принимается аксиома:<u1:p></u1:p></p>
+
+<p><span style='mso-tab-count:1'>     </span>А(<span style='mso-fareast-language:
+EN-US'>t</span>) <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>®</span></span><span style='mso-fareast-language:
+EN-US'> A</span>(<span style='font-family:Symbol;mso-bidi-font-family:Symbol;
+mso-fareast-language:EN-US'>e</span><span style='mso-fareast-language:EN-US'>xA</span>(<span
+style='mso-fareast-language:EN-US'>x</span>))&nbsp; (где <span
+style='mso-fareast-language:EN-US'>t</span> – терм).<u1:p></u1:p></p>
+
+<p>Кванторы общности и существования вводятся определениями:<u1:p></u1:p></p>
+
+<p><span style='mso-tab-count:1'>     </span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span><span
+style='mso-fareast-language:EN-US'>xA(x)&nbsp;=&nbsp;<sub>Df</sub>&nbsp;A(</span><span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span><span style='mso-fareast-language:EN-US'>xA(x)),&nbsp; </span><span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span><span
+style='mso-fareast-language:EN-US'>xA(x)&nbsp;=&nbsp;<sub>Df</sub>&nbsp;A(</span><span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span><span style='mso-fareast-language:EN-US'>x</span><span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span><span
+style='mso-fareast-language:EN-US'>A(x)).<u1:p></u1:p></span></p>
+
+<p>Теперь формулы вида В(<span style='font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-fareast-language:EN-US'>e</span><span style='mso-fareast-language:
+EN-US'>xA</span>(<span style='mso-fareast-language:EN-US'>x</span>)) можно
+вводить без каких-либо ограничений, связанных с предварительным доказательством
+существования индивидов, обладающих свойством А(х). С семантической точки
+зрения, общезначимость выше приведенной аксиомы можно обосновать следующим
+рассуждением. Пусть значением выражения <span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span><span
+style='mso-fareast-language:EN-US'>xA</span>(<span style='mso-fareast-language:
+EN-US'>x</span>) будет произвольный индивид, удовлетворяющий свойству А(х),
+если предикат А(х) проинтерпретирован на непустой области объектов. Если же при
+данной интерпретации предикат А(х) пуст, то выражению <span style='font-family:
+Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span><span
+style='mso-fareast-language:EN-US'>xA</span>(<span style='mso-fareast-language:
+EN-US'>x</span>) сопоставляем любой индивид из универсума рассуждений. Пусть
+теперь формула А(<span style='mso-fareast-language:EN-US'>t</span>) выполнена в
+интерпретации <span style='mso-fareast-language:EN-US'>F</span> при некоторой
+оценке <span style='mso-fareast-language:EN-US'>f</span>. Это означает, что
+предикат А(х) не пуст в интерпретации <span style='mso-fareast-language:EN-US'>F</span>.
+Ясно, что формула <span style='mso-fareast-language:EN-US'>A</span>(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span><span style='mso-fareast-language:EN-US'>xA</span>(<span
+style='mso-fareast-language:EN-US'>x</span>)) также будет выполнена при данной
+интерпретации и оценке <span style='mso-fareast-language:EN-US'>f</span>. На
+самом деле <span style='mso-fareast-language:EN-US'>A</span>(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span><span style='mso-fareast-language:EN-US'>xA</span>(<span
+style='mso-fareast-language:EN-US'>x</span>)) в рассматриваемом случае будет
+выполнена при любой оценке&nbsp;<span style='mso-fareast-language:EN-US'>g</span>.
+Если же формула А(<span style='mso-fareast-language:EN-US'>t</span>) не
+выполнена в данной интерпретации ни при какой оценке, <span style='font-family:
+Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span><span
+style='mso-fareast-language:EN-US'>xA</span>(<span style='mso-fareast-language:
+EN-US'>x</span>) сопоставим <span style='mso-fareast-language:EN-US'>b</span>,
+где <span style='mso-fareast-language:EN-US'>b</span> – произвольный индивид из
+универсума рассуждений. Поскольку формула А(<span style='mso-fareast-language:
+EN-US'>t</span>) не выполнена ни при какой оценке, формула <span
+style='mso-fareast-language:EN-US'>A</span>(<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span><span
+style='mso-fareast-language:EN-US'>xA</span>(<span style='mso-fareast-language:
+EN-US'>x</span>)) также не будет выполнена, какую бы оценку мы ни взяли, что и
+требовалось. В частности, если А(<span style='mso-fareast-language:EN-US'>t</span>)
+истинна, то <span style='mso-fareast-language:EN-US'>A</span>(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span><span style='mso-fareast-language:EN-US'>xA</span>(<span
+style='mso-fareast-language:EN-US'>x</span>)) также будет истинна, а если А(<span
+style='mso-fareast-language:EN-US'>t</span>) ложна, то <span style='mso-fareast-language:
+EN-US'>A</span>(<span style='font-family:Symbol;mso-bidi-font-family:Symbol;
+mso-fareast-language:EN-US'>e</span><span style='mso-fareast-language:EN-US'>xA</span>(<span
+style='mso-fareast-language:EN-US'>x</span>)) также будет ложна. Фактически,
+именно такое понимание смысла оператора <span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span> было
+предложено Гильбертом и Бернайсом&nbsp;[8.&nbsp;<span style='mso-fareast-language:
+EN-US'>C</span>.&nbsp;30].<u1:p></u1:p></p>
+
+<p>Существенно, что построенное Гильбертом и Бернайсом исчисление предикатов,
+содержащее оператор <span style='font-family:Symbol;mso-bidi-font-family:Symbol;
+mso-fareast-language:EN-US'>e</span>, не ведет к расширению класса формул,
+доказуемых в обычном исчислении предикатов. Точнее, если некоторая формула&nbsp;А,
+не содержащая символа <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-fareast-language:EN-US'>e</span>, доказуема в гильбертовском <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>-исчислении, то она будет доказуема и в исчислении предикатов
+первого порядка, не содержащем символа <span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span>. Иначе говоря,
+<span style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>-исчисление является консервативным расширением обычного
+исчисления предикатов. Исследования <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-fareast-language:EN-US'>e</span>-оператора В.&nbsp;А.&nbsp;Смирновым
+позволили распространить полученные школой Гильберта результаты на исчисления
+иных типов и на интуиционистскую логику. Эти новые, далеко идущие обобщения
+первоначально были изложены в седьмой, заключительной главе книги&nbsp;[16]. В
+дальнейшем В.&nbsp;А.&nbsp;Смирнов неоднократно обращался к проблематике <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>-исчислений, развивая и уточняя предложенный им подход.<u1:p></u1:p></p>
+
+<p>Нас здесь будет интересовать, в первую очередь, сформулированное В.&nbsp;А.&nbsp;Смирновым
+несеквенциальное натуральное исчисление предикатов второго типа, предполагающее
+наличие прямых правил удаления для каждого логического знака, в том числе для
+квантора существования [16.&nbsp;<span style='mso-fareast-language:EN-US'>C</span>.&nbsp;217].
+Введение такого правила для квантора существования порождает проблему,
+связанную с обеспечением логического следования. Такого рода проблема возникает
+и в случае прямого правила введения квантора всеобщности. Переход (при линейном
+способе записи) А(х)&nbsp;<span style='mso-bidi-font-size:12.0pt;font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&THORN;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>хА(х)
+нарушает логическое следование: А(х) может оказаться истинным при каком-то
+конкретном значении х, тогда как утверждение <span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>хА(х)
+окажется ложным. Однако общезначимость формулы А(х) в каком-либо универсуме
+рассуждений гарантирует общезначимость и формулы <span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>хА(х)
+в том же универсуме.<u1:p></u1:p></p>
+
+<p>С квантором существования дело обстоит сложнее. Прямое правило удаления
+квантора существования <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х)&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&THORN;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span>А(<span style='mso-fareast-language:
+EN-US'>t</span>) не воспроизводит отношение логического следования и в том
+случае, когда формула <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х) является
+универсально общезначимой. Например, формула <span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>х(Р(х)&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>®</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>уР(у))
+универсально общезначима, но формула (Р(<span style='mso-fareast-language:EN-US'>t</span>)&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>®</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>уР(у))
+не общезначима. Неформальное доказательство общезначимости первой формулы
+заключается в следующем простом рассуждении. Свойство Р(х) выполняется либо для
+всех объектов универсума, либо не для всех. В первом случае в качестве
+индивида, существование которого утверждается, возьмем произвольный объект
+универсума, скажем, <span style='mso-fareast-language:EN-US'>b</span>.
+Поскольку Р(<span style='mso-fareast-language:EN-US'>b</span>) истинно и <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>уР(у)
+истинно, импликация также Р(<span style='mso-fareast-language:EN-US'>b</span>)&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>®</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>уР(у)
+истинна, а вместе с ней истинна и формула <span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>х(Р(х)&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>®</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>уР(у)).
+Например, в универсуме людей истинно утверждение “Все люди смертны”. Отсюда
+истинно “Если Сократ смертен, то и все смертны” и, следовательно, истинно
+“Существует такой человек, что если он смертен, то и все смертны”. Если же
+свойство Р(х) выполняется не для всех индивидов рассматриваемой области, то в
+качестве объекта, существование которого утверждается, возьмем любой из тех
+индивидов, который не удовлетворяет свойству Р(х). Например, пусть Р(х)
+означает “Добрый(х)”. Но не все люди добры. Так, маркиз де Сад не является
+добрым. Отсюда импликация “Если уж и маркиз де Сад добр, то тогда все добры”
+будет истинна в силу ложности антецедента. Следовательно, истинно
+экзистенциальное обобщение “Существует такой человек, что если он добр, то все
+добры”.<u1:p></u1:p></p>
+
+<p>Решить задачу формулировки прямого правила удаления квантора существования
+можно с помощью <span style='font-family:Symbol;mso-bidi-font-family:Symbol;
+mso-fareast-language:EN-US'>e</span>-символа. Примем правило <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х)&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&THORN;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span>А(<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span>хА(х)), где А(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>хА(х)) есть результат замены каждого свободного вхождения
+переменной х в формуле А(х) на выражение <span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span>хА(х). Такое
+правило, учитывая сказанное выше о семантике выражений с <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>-символом, воспроизводит отношение логического следования.
+Истинность посылки <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х) гарантирует
+истинность заключения А(<span style='font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-fareast-language:EN-US'>e</span>хА(х)) [13.&nbsp;<span
+style='mso-fareast-language:EN-US'>C</span>.&nbsp;139-140]. В.&nbsp;А.&nbsp;Смирнов
+построил и исследовал различные классические и интуиционистские варианты
+натурального <span style='font-family:Symbol;mso-bidi-font-family:Symbol;
+mso-fareast-language:EN-US'>e</span>-исчисления с прямыми правилами введения и
+удаления логических знаков. При этом более ранний интуиционистский вариант
+основывался на требовании, чтобы <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-fareast-language:EN-US'>e</span>-термы не входили в устраняемые
+допущения и в заключение вывода&nbsp;[16,&nbsp;гл.&nbsp;7]. Впоследствии он
+применил иной, более элегантный подход, использующий введение в систему предиката
+существования&nbsp;[17]. Таким образом, удалось рассмотреть с единых позиций и
+классическую, и интуиционистскую логики предикатов, представив их в виде <span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>-исчислений натурального вывода второго типа.<u1:p></u1:p></p>
+
+<p>В данной работе будет показано, что трудности, связанные с принятием прямого
+правила удаления квантора существования, появляются вновь, если попытаться
+распространить его на область существенно неконструктивных рассуждений. Прежде
+всего поясним на примерах, что имеется в виду под неконструктивными рассуждениями.
+Всем известна загадочная история человека по имени Каспар Гаузер. Тайна его
+происхождения так и осталась нераскрытой. Кто были его родители? Несомненно,
+что таковые существовали, поскольку каждый человек имеет родителей. Зафиксируем
+это в символической форме: <span style='mso-bidi-font-size:12.0pt;font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>у<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>хР(х,у),
+где Р(х,у) читается “х родитель у”. Представим себе, однако, что следы
+существования родителей Каспара Гаузера начисто исчезли, что их нет в сам<span
+style='mso-bidi-font-size:12.0pt;mso-char-type:symbol;mso-symbol-font-family:
+"Times New Roman"'><span style='mso-char-type:symbol;mso-symbol-font-family:
+"Times New Roman"'>&oacute;</span></span>м существующем в настоящее время
+универсуме. Заметим, что мы не утверждаем, что следы <i>действительно</i>
+исчезли. <i>Предположим</i>, что они исчезли. В таком предположении нет ничего
+невероятного. Более того, в трудах историков нередко можно встретить
+аналогичные утверждения о безвозвратной утрате источников и следов некоторых
+исторических событий. В рассматриваемой ситуации мы располагаем конечным
+множеством людей, которые могли бы быть родителями Каспара Гаузера. Претенденты
+на эту роль известны. Так, в одной из версий родителями Каспара Гаузера были
+герцог Баденский Карл и его жена Стефания де Богарне, удочеренная в свое время
+Наполеоном. Согласно еще одной гипотезе, Каспар Гаузер родился в семье
+простолюдинов Блохманнов [6,&nbsp;<span style='mso-fareast-language:EN-US'>C</span>.&nbsp;334-340].
+Но при отсутствии следов ни одно из утверждений вида Р(<span style='mso-fareast-language:
+EN-US'>b</span>,&nbsp;КГ), где <span style='mso-fareast-language:EN-US'>b</span>
+– имя конкретного претендента и КГ – имя Каспар Гаузер, не может быть
+верифицировано в принципе. Хотя, конечно, многие люди (например, наши
+современники или далекие предки) заведомо не могли быть родителями Каспара
+Гаузера, так что если “а” – имя такого человека, то истинно <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>Р(а,
+КГ).<u1:p></u1:p></p>
+
+<p>Не имея возможности приписать таким утверждениям, как Р(<span
+style='mso-fareast-language:EN-US'>b</span>,&nbsp;КГ), значение “истинно” или
+“ложно”, будем оценивать их при помощи третьего истинностного значения
+“неопределенно”. Предшествующие рассуждения позволяют заключить, что <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>х(нР(х,&nbsp;КГ)&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>Р(х,&nbsp;КГ)).
+Вместе с тем, несомненно <span style='mso-bidi-font-size:12.0pt;font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>у<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>хР(х,у).
+Снимая квантор общности в последнем предложении на имя “Каспар Гаузер”,
+получаем: <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>$</span></span>хР(х,&nbsp;КГ). Попытавшись применить правило прямого
+удаления квантора существования, приходим к Р(<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span>хР(х,&nbsp;КГ),&nbsp;КГ).
+Теперь в предложении <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>х(нР(х,&nbsp;КГ)&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>Р(х,&nbsp;КГ))
+снимем квантор общности на <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-fareast-language:EN-US'>e</span>-терм <span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span>хР(х,&nbsp;КГ):
+нР(<span style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>хР(х,&nbsp;КГ),&nbsp;КГ)&nbsp;<span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>Р(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>хР(х,&nbsp;КГ),&nbsp;КГ). Поскольку некоторый человек,
+являющийся родителем Каспара Гаузера, не может не быть его родителем, последний
+дизъюнктивный член должен быть оценен как ложный. Следовательно, истинно нР(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>хР(х,&nbsp;КГ),&nbsp;КГ). Но предложения Р(<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>хР(х,&nbsp;КГ),&nbsp;КГ) и нР(<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span>хР(х,&nbsp;КГ),&nbsp;КГ)
+не могут быть вместе истинными!<u1:p></u1:p></p>
+
+<p>Возникшая коллизия является результатом принятия правила прямого удаления
+квантора существования. Ситуация в действительности носит не частный характер,
+а имеет отношение к целому пласту реальных рассуждений в обыденной жизни и
+науке. Что касается науки, то речь идет о дисциплинах, которые (следуя терминологии
+В.&nbsp;Виндельбанда) можно назвать идиографическими в противоположность
+номотетическим. Идеалом науки является стремление к точности. Но как эту
+точность понимать? Не всякие представления о точности оправданы с теоретической
+и практической точек зрения. Например, представление о том, что любой феномен
+допускает строгое описание на языке чисел, в настоящее время уже не находит
+столько приверженцев, как это было раньше. В логике стремление к достижению большей
+строгости нашло выражение в требовании конструктивности рассуждений. Даже их
+формализация здесь не является решающим моментом.<u1:p></u1:p></p>
+
+<p>Конструктивность в интересующем нас аспекте связана с особой трактовкой
+утверждений с квантором существования и дизъюнкцией<a href="#prim2"
+name="2">[2]</a>.
+Классического доказательства формул вида <span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х)
+и (А<span style='mso-fareast-language:EN-US'>&nbsp;</span><span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span><span
+style='mso-fareast-language:EN-US'>&nbsp;</span>В) здесь недостаточно. Неконструктивность
+классической логики легче всего продемонстрировать на примере закона исключенного
+третьего. В классической логике принимается, что формула А&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А<span
+style='text-transform:uppercase'> </span>истинна при любом суждении А<span
+style='text-transform:uppercase'>, </span>причем А либо истинно (тогда <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А
+ложно), либо ложно (тогда истинно <span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>А).
+Однако клас<span style='color:black'>с</span>ическая логика далеко не всегда
+позволяет получить ответ на вопрос, какое именно суждение истинно – само А или <span
+style='color:black'>е</span>го отри<span style='color:black'>ц</span>ание.
+Несмотря на то, что имеются существенные ра<span style='color:black'>з</span>ногласия
+в подходах к анали<span style='color:black'>з</span>у понятия конструктивности,
+<span style='color:black'>наш</span>едшие выражение в создании различных систем
+конструктивных логик, общим остается тр<span style='color:black'>е</span>бование
+считать дизъюнкцию А&nbsp;<span style='mso-bidi-font-size:12.0pt;font-family:
+Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span>В доказанной лишь в том случае,
+если предъявлено доказательство по крайней мере одного из членов дизъюнк<span
+style='color:black'>ц</span>ии. Е<span style='color:black'>щ</span>е один
+источник неконструктивности классической логики свя<span style='color:black'>з</span>ан
+с квантором су<span style='color:black'>щ</span>ествования. Доказательство
+высказывания <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х) с использованием
+классической логики может содержать неопре<span style='color:black'>д</span>еленность
+в отношении того объекта, су<span style='color:black'>щ</span>ествование
+которого утверждается. Речь идет о так называемых “чистых теоремах су<span
+style='color:black'>щ</span>ествования”, <span style='color:black'>из </span>доказательства
+которых невозможно извлечь информа<span style='color:black'>ц</span>ию о способах
+эффективного построения искомого объекта.<u1:p></u1:p></p>
+
+<p>В конструктивных рассуждениях (например, в интуиционистской логике) наличие
+доказательства формулы вида (А&nbsp;<span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span>В) означает, что мы располагаем
+доказательством по крайней мере одного из ее членов (свойство дизъюнктивности),
+а утверждение вида <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х) считается доказанным
+лишь при условии, что имеется терм&nbsp;<span style='mso-fareast-language:EN-US'>t</span>,
+для которого доказано суждение А(<span style='mso-fareast-language:EN-US'>t</span>)
+(свойство экзистенциальности)&nbsp;[10]. Хотя классическая логика не
+удовлетворяет названным свойствам, любую основанную на ней теорию&nbsp;Т всегда
+можно пополнить таким образом, чтобы расширенная теория&nbsp;Т<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&cent;</span></span>
+была дизъюнктивной и экзистенциальной. Правда, само такое расшире­ние
+осуществляется неконструктивным образом и потому интуиционистски неприемлемо. В
+существенно неконструктивных рассуждениях в условиях неопределенности указанное
+расширение в общем случае осуществить невозможно в принципе. Здесь мы
+сталкиваемся с ситуацией, когда неконструктивная со стандартной точки зрения
+классическая логика оказывается слишком конструктивной!</p>
+
+<p>Как было показано выше, доказательство (в рассмотренном примере со ссылкой
+на эмпирический закон) утверждений о существовании некоторых объектов не означает,
+что у нас имеется возможность предъявить эти объекты, даже если область
+рассуждений охватывает только конечное число индивидов. Последнее замечание
+также демонстрирует необычность ситуации, поскольку считается несомненным, что
+коль скоро задано конечное множество объектов&nbsp;<span style='mso-fareast-language:
+EN-US'>K</span>, то тем самым заданы и все подмножества множества&nbsp;<span
+style='mso-fareast-language:EN-US'>K</span> и его декартова произведения <span
+style='mso-fareast-language:EN-US'>K&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&acute;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-fareast-language:
+EN-US'>K</span>, представляющие соответственно всевозможные свойства и бинарные
+отношения на&nbsp;<span style='mso-fareast-language:EN-US'>K</span>. Ясно, в
+частности, что свойство “Родитель(х,&nbsp;КГ)” является подмножеством конечного
+множества людей, обстоятельства и время жизни которых не исключали возможности
+оказаться в роли одного из родителей Каспара Гаузера. Однако, как мы убедились,
+свойство “Родитель(х,&nbsp;КГ)” нельзя задать предъявлением двух его элементов.
+Поэтому стремление к строгости, выраженное идеалом конструктивности,
+оказывается нереализуемым. Представление о реальности как о вполне определенном
+образовании наталкивается на ограничения, поставленные самой природой вещей.
+Тем не менее, это не означает, что не следует стремиться к точности и строгости
+рассуждений в существенно неконструктивном случае. Просто идеал строгости не
+должен быть связан только с конструктивностью. Требуемая строгость, на наш
+взгляд, может быть достигнута за счет применения формальных методов анализа.<u1:p></u1:p></p>
+
+<p>В условиях неопределенности свойство “Родитель(х,&nbsp;КГ)” не может быть
+представлено одним подмножеством универсума людей&nbsp;Л. Есть два <i>сходных</i>
+подмножества этого универсума Р и Р*, в одно из которых попадут аристократы
+герцог Карл и его жена, а в другое – простолюдины Блохманны. Все остальные претенденты
+также должны быть разведены по Р и Р*. Если бы остались реальные следы
+единственной пары родителей {<span style='mso-fareast-language:EN-US'>a</span>,&nbsp;<span
+style='mso-fareast-language:EN-US'>b</span>}, то необходимо было бы положить Р&nbsp;=&nbsp;Р*&nbsp;=&nbsp;{<span
+style='mso-fareast-language:EN-US'>a</span>,&nbsp;<span style='mso-fareast-language:
+EN-US'>b</span>}. Если бы следы оставил один из родителей, но не другой
+(допустим, рассматриваемому свойству удовлетворяет&nbsp;<span style='mso-fareast-language:
+EN-US'>b</span>), то отсюда вытекало бы, что Р&nbsp;<span style='font-family:
+Symbol;mso-bidi-font-family:Symbol'>&sup1;</span>&nbsp;Р*, но Р&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Ccedil;</span></span>&nbsp;Р*&nbsp;=&nbsp;{<span
+style='mso-fareast-language:EN-US'>b</span>}. В анализируемом примере, по
+предположению, нет ни того, ни другого. Остается утверждать, что Р&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&sup1;</span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&AElig;</span>, Р*&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&sup1;</span>&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&AElig;</span>, но при
+этом Р&nbsp;<span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Ccedil;</span></span>&nbsp;Р*&nbsp;=&nbsp;<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&AElig;</span>.<u1:p></u1:p></p>
+
+<p>Высказанные соображения можно обобщить следующим образом. Если для двух
+сходных свойств А(х) и А*(х) верно, что <span style='font-family:Symbol;
+mso-bidi-font-family:Symbol'>$</span>х(А(х)&nbsp;&amp;&nbsp;А*(х)), то можно
+ввести константу <i>с</i>, для которой будет верно (А(<i>с</i>)&nbsp;&amp;&nbsp;А*(<i>с</i>)).
+Назовем такую константу <i>определенной</i> в отношении свойств А(х) и А*(х).
+Если же <span style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;$</span>х(А(х)&nbsp;&amp;&nbsp;А*(х)),
+то будем говорить, что любая константа является <i>неопределенной</i> в
+отношении свойства А(х) и свойства А*(х)).<u1:p></u1:p></p>
+
+<p>Теории с неопределенностью оказываются неконструктивными (или <i>антиконструктивными</i>)
+в следующем смысле. Распространим естественным образом понятие модели теории на
+теории с неопределенностью: н-<i>моделью</i> теории Тн называется структура, в
+которой все предложения Тн определенно истинны.<u1:p></u1:p></p>
+
+<p><b>Предложение 11</b>. Существует теория&nbsp;Тн такая, что а)&nbsp;(P(<i>с</i>)&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>P(<i>с</i>))&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Icirc;</span></span>&nbsp;T,
+б)&nbsp;<span style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>$</span></span>xP(x)&nbsp;<span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Icirc;</span></span>&nbsp;T,
+в)&nbsp;Tн имеет н-модель, но при этом ни теория Тн&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Egrave;</span></span>&nbsp;{P(<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>a</span></span>)}, ни теория Тн&nbsp;<span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Egrave;</span></span>&nbsp;{<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>P(<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>a</span></span>)} не имеют н-моделей, какова бы ни была индивидная
+константа <span style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:
+symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;
+mso-symbol-font-family:Symbol'>a</span></span>.<u1:p></u1:p></p>
+
+<p>Проанализированная выше история с Каспаром Гаузером подводит к построению
+примера требуемой Тн теории. Ведь какую бы индивидную константу <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>a</span></span> мы ни взяли, предложение Р(<span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>a</span></span>,&nbsp;КГ)
+не будет определенно истинным, но может быть либо определенно ложным, либо
+неопределенным. С формальной точки зрения, для получения искомого результата
+требуется еще исключить определенную ложность.<u1:p></u1:p></p>
+
+<p>Пусть Lн&nbsp;=&nbsp;{P, <i>с</i>, <span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>a</span></span>},
+где Р – одноместный предикатный символ, а <i>с</i> и <span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>a</span></span> –
+индивидные константы. Положим Мн&nbsp;=&nbsp;&lt;{a,b},&nbsp;F&gt;, F(<i>с</i>)&nbsp;=&nbsp;a,
+F(P)&nbsp;=&nbsp;{a}, F(P*)&nbsp;=&nbsp;{b}. Ясно, что Мн – н-модель теории Тн&nbsp;=&nbsp;{(P<i>с</i>&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Uacute;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span><span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>P<i>с</i>),&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>xPx,&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>xнPx}.
+Но ни Т&nbsp;<span style='mso-bidi-font-size:12.0pt;font-family:Symbol;
+mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
+mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&Egrave;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span>{P(<span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>a</span></span>)},
+ни T&nbsp;<span style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:
+"Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&Egrave;</span></span><span style='mso-bidi-font-size:12.0pt'>&nbsp;</span>{<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&Oslash;</span></span>P(<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>a</span></span>)}
+н-моделей не имеют, как бы мы ни определяли значение F(<span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>a</span></span>) в
+произвольной структуре Мн для языка&nbsp;Lн.<u1:p></u1:p></p>
+
+<p>Действительно, определенная истинность предложения <span style='mso-bidi-font-size:
+12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&quot;</span></span>xнPx
+в модели Мн&nbsp;=&nbsp;&lt;U,&nbsp;F&gt; теории Тн влечет, что формула нP(<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>a</span></span>) определенно истинна и, значит, н<span
+style='font-family:Symbol;mso-bidi-font-family:Symbol'>&Oslash;</span>Р(<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>a</span></span>) также определенно истинна. Отсюда как Р(<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>a</span></span>), так и <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol'>&Oslash;</span>Р(<span style='mso-bidi-font-size:12.0pt;font-family:
+Symbol;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>a</span></span>)
+являются неопределенными в любой н-модели теории&nbsp;Тн, что и требовалось
+доказать.<u1:p></u1:p></p>
+
+<p>Итак, рассмотренная теория&nbsp;Тн не может быть расширена таким образом,
+чтобы полученные расширения удовлетворяли свойствам дизъюнктивности и
+экзистенциальности в трехзначной семантике неопределенности. Теперь правило
+прямого удаления квантора существования <span style='mso-bidi-font-size:12.0pt;
+font-family:Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:
+"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х)&nbsp;<span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&THORN;</span></span><span
+style='mso-bidi-font-size:12.0pt'>&nbsp;</span>А(<span style='font-family:Symbol;
+mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span>хА(х)),
+принимаемое в натуральных <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-fareast-language:EN-US'>e</span>-исчислениях, уже не воспроизводит
+отношения логического следования при естественном расширении понимания
+семантики выражений с <span style='font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-fareast-language:EN-US'>e</span>-термом. В самом деле, формула вида <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>$</span></span>хА(х)
+теории&nbsp;Тн определенно истинна в построенной н-модели, однако независимо от
+того, какой индивид будет взят в качестве значения <span style='font-family:
+Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:EN-US'>e</span>-выражения
+<span style='font-family:Symbol;mso-bidi-font-family:Symbol;mso-fareast-language:
+EN-US'>e</span>хА(х), утверждение А(<span style='font-family:Symbol;mso-bidi-font-family:
+Symbol;mso-fareast-language:EN-US'>e</span>хА(х)) уже не будет определенно
+истинным, что нарушает общепринятое требование “из истинных посылок – истинное
+заключение”.</p>
+
+<p>Построенная теория&nbsp;Тн, если посмотреть на нее с позиций классической
+двухзначной семантики, никакими интересными особенностями не обладает. И,
+разумеется, эта теория в данной семантике может быть расширена таким образом,
+чтобы появились свойства дизъюнктивности и экзистенциальности.</p>
+
+<p>Но одно не противоречит другому. С метаязыковой точки зрения суть здесь в
+том, что в рассматриваемом случае нельзя ввести <i>определенную</i> константу <span
+style='mso-bidi-font-size:12.0pt;font-family:Symbol;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>a</span></span>. Но ввести <i>неопределенную</i>, конечно, можно.
+Однако классическая логика не проводит различия между определенными и
+неопределенными ситуациями. Зато это позволяет делать логика неопределенности.
+Совмещение в одном (фактически, классическом) синтаксическом аппарате
+возможностей двух разноплановых семантик (классической и неклассической)
+позволяет удержать приятные метасвойства классической логики и, вместе с тем,
+промоделировать рассуждения в условиях неопределенности.</p>
+<p>&nbsp;</p>
+
+<h3>Литература</h3>
+
+<p class=s>1.&nbsp;<i>Анисов&nbsp;А.&nbsp;М.</i> Время и компьютер.
+Негеометрический образ времени. М.,&nbsp;1991.</p>
+
+<p class=s>2.&nbsp;<i>Анисов&nbsp;А.&nbsp;М</i>. Семантика неопределенности&nbsp;//&nbsp;Логические
+исследования. Вып.&nbsp;4. М.,&nbsp;1997.</p>
+
+<p class=s>3.&nbsp;<i>Анисов&nbsp;А.&nbsp;М.</i> Аксиоматическое исчисление
+неопределенности&nbsp;//&nbsp;Логические исследования. Вып.&nbsp;7.
+М.,&nbsp;2000.</p>
+
+<p class=s>4.&nbsp;<i>Анисов&nbsp;А.&nbsp;М.</i> Темпоральный универсум и его
+познание. М.,&nbsp;2000.</p>
+
+<p class=s>5.<i>&nbsp;Аристотель</i>. Соч.: в 4&nbsp;т. М., 1976-1984.
+Т.&nbsp;2. С.&nbsp;99-102.</p>
+
+<p class=s>6.&nbsp;Великие тайны прошлого&nbsp;//&nbsp;Reader’s
+Digest,&nbsp;1996.</p>
+
+<p class=s>7.&nbsp;<i>Гильберт&nbsp;Д.</i>, <i>Бернайс&nbsp;П</i>. Основания
+математики. Логические исчисления и формализация арифметики. М.,&nbsp;1979.</p>
+
+<p class=s>8.<span style='mso-fareast-language:EN-US'>&nbsp;</span><i>Гильберт&nbsp;Д.</i>,
+<i>Бернайс&nbsp;П</i>. Основания математики. Теория доказательств.
+М.,&nbsp;1982.</p>
+
+<p class=s>9.&nbsp;<i>Гранатовский&nbsp;Э.&nbsp;А</i>. Послесловие&nbsp;//&nbsp;<i>Бойс&nbsp;М</i>.
+Зороастрийцы. Верования и обычаи. М.,&nbsp;1988.</p>
+
+<p class=s>10.&nbsp;<i>Драгалин&nbsp;А.&nbsp;Г</i>. Математический
+интуиционизм. М.,&nbsp;1979.</p>
+
+<p class=s>11.<span style='mso-fareast-language:EN-US'>&nbsp;</span><i>Карпенко&nbsp;А.&nbsp;С</i>.
+Фатализм и случайность будущего: Логический анализ. М.,&nbsp;1990.</p>
+
+<p class=s>12.&nbsp;<i>Лейстнер&nbsp;Л.</i>, <i>Буйташ&nbsp;П.</i> Химия в
+криминалистике. M.,&nbsp;1990.</p>
+
+<p class=s>13.&nbsp;Логика и компьютер. Вып.&nbsp;3. Доказательство и его
+поиск. М.,&nbsp;1996.</p>
+
+<p class=s>14.&nbsp;<i>Лукасевич&nbsp;Я.</i> О детерминизме&nbsp;//&nbsp;Логические
+исследования. Вып.&nbsp;2. М.,&nbsp;1993.</p>
+
+<p class=s>15.&nbsp;<i>Молчанов&nbsp;Ю.&nbsp;Б.</i> Проблема времени в
+современной науке. М.,&nbsp;1990.</p>
+
+<p class=s>16.&nbsp;<i>Смирнов&nbsp;В.&nbsp;А</i>. Формальный вывод и
+логические исчисления. М.,&nbsp;1972.</p>
+
+<p class=s>17.&nbsp;<i>Смирнов&nbsp;В.&nbsp;А</i>. Поиск доказательств в
+натуральном интуиционистском исчислении предикатов с <font
+face="Symbol">e</font>-символом и предикатом
+существования&nbsp;//&nbsp;Логические исследования. Вып.&nbsp;3.
+M.,&nbsp;1995.</p>
+<p>&nbsp;</p>
+
+<hr align="left" width="40%">
+
+<p class=s><a href="#0" name="prim0">[*]</a> Работа выполнена при поддержке
+РГНФ, грант №&nbsp;01-03-00300.</p>
+
+<p class=s><a href="#1" name="prim1">[1]</a> Напомним, что имена, в отличие от
+предикатных и функциональных символов, считаются твердыми десигнаторами.</p>
+
+<p class=s><a href="#2" name="prim2">[2]</a> Как известно, в конечном случае
+квантор существования можно элиминировать при помощи дизъюнкции.</p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+</td>
+
+<td width="2%">&nbsp;
+</td>
+<td align="middle" bgcolor="#0000ee" valign="top" width="3%">
+<img src="img/lent1.gif">
+</td>
+</tr>
+</table>
+
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tr>
+<td align="left" bgcolor="#0000ee" valign="bottom" width="3%">
+<a href="#top" title="Вверх">
+<img border="0" src="img/strel2.gif"></a></p>
+<a href="index_ph.htm" target="_top" title="Библиотека Руслана Хазарзара">
+<img border="0" src="img/strel1.gif"></a>
+</td>
+<td align="left" bgcolor="#0000ee" width="90%">
+<a href="index_ph.htm" target="_top" title="Библиотека Руслана Хазарзара">
+<img alt="Библиотека Руслана Хазарзара" border="0" src="img/b_title1.gif"></a>
+</td>
+<td align="middle" bgcolor="#0000ee" width="7%">
+<a href="anisov03.zip" title="Скачать одним ZIP-файлом">
+<img align="center" border="0" src="img/zip.gif"></a></p>
+<font color="#ffffff">31 Kb</font>
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>

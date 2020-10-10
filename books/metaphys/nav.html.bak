@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Аристотель. Метафизика</title>
+<meta name="author" content="Руслан Хазарзар">
+<meta name="keywords" content="Library of Ruslan Khazarzar, The Son of man, Библиотека Руслана Хазарзара, Аристотель, Метафизика">
+<meta name="description" content="Античная философия, Аристотель, Метафизика">
+<link href="metaph.css" rel="stylesheet">
+<base target="nav">
+</head>
+
+<body bgcolor="#c0c0c0">
+
+<p class=l>
+<a href="01.html" name target="text">Книга I</a><br>
+<a href="02.html" name target="text">Книга II</a><br>
+<a href="03.html" name target="text">Книга III</a><br>
+<a href="04.html" name target="text">Книга IV</a><br>
+<a href="05.html" name target="text">Книга V</a><br>
+<a href="06.html" name target="text">Книга VI</a><br>
+<a href="07.html" name target="text">Книга VII</a><br>
+<a href="08.html" name target="text">Книга VIII</a><br>
+<a href="09.html" name target="text">Книга IX</a><br>
+<a href="10.html" name target="text">Книга X</a><br>
+<a href="11.html" name target="text">Книга XI</a><br>
+<a href="12.html" name target="text">Книга XII</a><br>
+<a href="13.html" name target="text">Книга XIII</a><br>
+<a href="14.html" name target="text">Книга XIV</a><br>
+<p class=l>&nbsp;</p>
+<p class=c><a href="metaphys.zip"><img src="../img/zip.gif"
+alt="Скачать одним файлом" align="center" border="0"></a>
+<p class=c>244 Kb</p>
+<p class=l>&nbsp;</p>
+<p class=l>&nbsp;</p>
+<p class=c><a href="../index_ph.htm" target="_top"><img src="../img/khazar_b.gif"
+alt="Библиотека Руслана Хазарзара"
+width="88" height="30" align="center" border="0"></a>
+
+</body>
+</html>

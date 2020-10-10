@@ -1,0 +1,100 @@
+<!-- http://khazarzar.skeptik.net/books/shroud/index.htm -->
+
+<html>
+<head>
+<meta name="author" content="Руслан Хазарзар">
+<meta name="keywords" content="Library of Ruslan Khazarzar, Библиотека  Руслана Хазарзара, Shroud of Turin, Туринская плащаница">
+<meta name="description" content="Bible, Biblia">
+<title>Туринская плащаница</title>
+
+<style type="text/css">
+<!--
+body {background-color:#ffffff;color:#000000;margin:2.0em}
+h1   {font-size:20pt;margin-bottom:24pt;margin-top:24pt;text-align:center;font-style:bold}
+h2   {font-size:14pt;margin-bottom:0pt;margin-top:0pt;text-align:left}
+p    {font-family:Times New Roman;font-size:14pt;margin-bottom:0pt;margin-top:0pt;text-align:left;text-indent:0pt}
+p.m  {font-size:13pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:35pt}
+p.c  {margin-bottom:0pt;margin-top:0pt;text-align:center}
+//-->
+</style>
+
+</head>
+
+<body>
+
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tr>
+<td align="center" bgcolor="#0000ee" valign="top">
+<a href="../index.htm" target="_top" title="Библиотека Руслана Хазарзара">
+<img border="0" src="../img/t.gif"></a></td>
+</tr>
+</table>
+
+<p>&nbsp;</p>
+
+<h1 align="center">Туринская плащаница</h1>
+
+<table width="100%" cellpadding="5" cellspacing="0" border="1">
+<colgroup>
+<col width="30%" align="justify" valign="middle">
+<col width="60%" align="justify" valign="middle">
+<col width="10%" align="center" valign="middle">
+</colgroup>
+
+<tr><td><h2>The Shroud of Turin</h2></td>
+<td><p>Research at McCrone Research Institute.</p></td>
+<td><p><a href="s_ind_r.htm" target="_top"
+title="The Shroud of Turin">Открыть</a></p></td></tr>
+
+<tr><td><h2>Руслан Хазарзар. Туринская плащаница</h2></td>
+<td><p>Глава из книги &#147;Сын Человеческий&#148;.</p></td>
+<td><p><a href="../../bn/13.htm" target="_top"
+title="Руслан Хазарзар. Туринская плащаница">Открыть</a></p></td></tr>
+
+<tr><td><h2>Руслан Хазарзар. Зачем Иисусу обол Харона?</h2></td>
+<td><p>О т.&nbsp;н. <i>Теории монеты</i>.</p></td>
+<td><p><a href="../kh/charon.htm" target="_top"
+title="Руслан Хазарзар. Зачем Иисусу обол Харона?">Открыть</a></p></td></tr>
+
+<tr><td><h2>shroud of Turin</h2></td>
+<td><p>Обзор основных вопросов и ссылки на книги и данные исследований.</p></td>
+<td><p><a href="s_t.htm" target="_top"
+title="shroud of Turin">Открыть</a></p></td></tr>
+
+<tr><td><h2>Амардео Сарма. Туринская плащаница</h2></td>
+<td><p>Журнал &#147;Природа&#148;, №&nbsp;11, 2002&nbsp;г.</p></td>
+<td><p><a href="vv.htm" target="_top"
+title="Амардео Сарма. Туринская плащаница">Открыть</a></p></td></tr> 
+
+<tr><td><h2>В.Г.Сурдин. В фокусе Туринской плащаницы</h2></td>
+<td><p>Статья из журнала &#147;Знание &#150; Сила&#148;.</p></td>
+<td><p><a href="z_s.htm" target="_top"
+title="В.Г.Сурдин. В фокусе Туринской плащаницы">Открыть</a></p></td></tr>
+
+<tr><td><h2>В.Г.Сурдин. Ошибка при решении элементарной задачи</h2></td>
+<td><p>Статья из &#147;Вестника РАН&#148;.</p></td>
+<td><p><a href="surdin01.pdf" target="_top"
+title="В.Г.Сурдин. Ошибка при решении элементарной задачи">Открыть</a></p></td></tr>
+
+<tr><td><h2>В.Г.Сурдин. Туринская плащаница: научное расследование</h2></td>
+<td><p>Статья из сборника &#147;В защиту науки&#148;.</p></td>
+<td><p><a href="surdin02.pdf" target="_top"
+title="В.Г.Сурдин. Туринская плащаница: научное расследование">Открыть</a></p></td></tr>
+
+</table>
+<p>&nbsp;</p>
+
+<div align="center">
+<form>
+<select name="taxi" size="1">
+<option value="../index.htm" selected>Библиотека - Библеистика</option>
+</select>
+<input type="button" value="Перейти"
+onclick="location.href = this.form.taxi.options[this.form.taxi.selectedIndex].value">
+</form>
+</div>
+
+
+
+</body>
+</html>
