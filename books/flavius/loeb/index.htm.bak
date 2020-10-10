@@ -1,0 +1,187 @@
+<html>
+<head>
+<title>Josephus</title>
+<meta name="author" content="Ruslan Khazarzar">
+<meta name="keywords" content="Library of Ruslan Khazarzar, Josephus, Thackeray, Loeb">
+<meta name="description" content="Josephus, Loeb Classical Library">
+<style rel="stylesheet" type="text/css">
+body      {background-color:#ffffff;color:#000000}
+table     {background-color:#ffffff}
+h1        {font-family:"Arial";font-size:16pt;margin-bottom:16pt;margin-top:16pt;text-align:center}
+h2        {font-family:"Arial";font-size:14pt;margin-bottom:14pt;margin-top:14pt;text-align:center}
+h3        {font-family:"Arial";font-size:12pt;margin-bottom:12pt;margin-top:12pt;text-align:center}
+h4        {font-family:"Arial";font-size:11pt;margin-bottom:8pt;margin-top:8pt;text-align:center}
+p         {font-family:"Arial";font-size:10pt;margin-bottom:2pt;margin-top:2pt;text-align:justify;text-indent:0pt}
+p.m       {font-family:"Arial";font-size:9pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:25pt}
+p.r       {font-family:"Arial";font-size:9pt;margin-bottom:0pt;margin-top:0pt;text-align:right;text-indent:0pt}
+p.l       {font-family:"Arial";font-size:9pt;margin-bottom:0pt;margin-top:0pt;text-align:left;text-indent:0pt}
+p.s       {font-family:"Arial";font-size:8pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:0pt}
+p.c       {font-family:"Arial";font-size:9pt;margin-top:0pt;margin-bottom:0pt;text-align:center;text-indent:0pt}
+a:link    {color:#000000;text-decoration:none}
+a:visited {color:#000000;text-decoration:none}
+a:active  {text-decoration:none}
+a:hover   {color:#000000;text-decoration:underline}
+span.g    {font-family:"Arial Unicode MS,Palatino Linotype,Code2000,TITUS Cyberbit Basic,Athena,Vusillus Old Face"}
+span.h    {direction:rtl;font-size:12.0pt;font-family:"David"}
+</style>
+</head>
+
+<body onselectstart="return false" oncopy="return false">
+
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tr>
+<td align="center" bgcolor="#0000ee" valign="top">
+<a href="../../index.htm" target="_top" title="Library of Ruslan Khazarzar">
+<img border="0" src="../../img/t.gif"></a></td>
+</tr>
+</table>
+<p>&nbsp;</p>
+
+<table align=center border=5 cellspacing=10 cellpadding=10>
+<tr>
+<td width=455 align=center valign=top>
+
+<p class=c><img src="jos1loeb.jpg" alt="Josephus. 1 vol.
+With an English translation by H.St.J.Thackeray. //
+Loeb Classical Library. London: Heinemann, 1926" border=1></p>
+
+</td>
+<td align=center valign=top>
+
+<p class=l><br><a href="jos0101.djvu">Introduction</a>
+<br><a href="jos0102.djvu">Life of Josephus</a>
+<br><a href="jos0103.djvu">Against Apion</a>
+<br><a href="jos0104.djvu">Index</a>
+<br><a href="jos0105.djvu">Map of Galilee</a></p>
+
+</td></tr>
+
+<tr>
+<td width=455 align=center valign=top>
+
+<p class=c><img src="jos2loeb.jpg" alt="Josephus. 2 vol.
+With an English translation by H.St.J.Thackeray. //
+Loeb Classical Library. London: Heinemann" border=1></p>
+
+</td>
+<td align=center valign=top>
+
+<p class=l><br><a href="jos0201.djvu">Introduction</a>
+<br><b>The Jewish War</b>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0202.djvu">Book I</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0203.djvu">Book II</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0204.djvu">Book III</a>
+<br><a href="jos0205.djvu">The Herodian Family</a>
+<br><a href="jos0206.djvu">Maps</a></p>
+
+</td></tr>
+
+<tr>
+<td width=455 align=center valign=top>
+
+<p class=c><img src="jos3loeb.jpg" alt="Josephus. 3 vol.
+With an English translation by H.St.J.Thackeray. //
+Loeb Classical Library. London: Heinemann" border=1></p>
+
+</td>
+<td align=center valign=top>
+
+<p class=l><br><a href="jos0301.djvu">List of Josephus&#146; Works</a>
+<br><b>The Jewish War</b>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0302.djvu">Book IV</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0303.djvu">Book V</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0304.djvu">Book VI</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0305.djvu">Book VII</a>
+<br><a href="jos0306.djvu">Appendix</a>
+<br><a href="jos0307.djvu">Index</a>
+<br><a href="jos0308.djvu">Maps</a></p>
+
+</td></tr>
+
+<tr>
+<td width=455 align=center valign=top>
+
+<p class=c><img src="jos4loeb.jpg" alt="Josephus. 4 vol.
+With an English translation by H.St.J.Thackeray. //
+Loeb Classical Library. London: Heinemann" border=1></p>
+
+</td>
+<td align=center valign=top>
+
+<p class=l><br><a href="jos0401.djvu">Introduction</a>
+<br><a href="jos0402.djvu">List of Josephus&#146; Works</a>
+<br><b>The Jewish Antiquities</b>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0403.djvu">Book I</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0404.djvu">Book II</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0405.djvu">Book III</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0406.djvu">Book IV</a>
+<br><a href="jos0407.djvu">Appendix</a></p>
+
+</td></tr>
+
+<tr>
+<td width=455 align=center valign=top>
+
+<p class=c><img src="jos5loeb.jpg" alt="Josephus. 5 vol.
+With an English translation by H.St.J.Thackeray. //
+Loeb Classical Library. London: Heinemann" border=1></p>
+
+</td>
+<td align=center valign=top>
+
+<p class=l><br><a href="jos0501.djvu">Preface</a>
+<br><b>The Jewish Antiquities</b>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0502.djvu">Book V</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0503.djvu">Book VI</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0504.djvu">Book VII</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0505.djvu">Book VIII</a>
+<br><a href="jos0506.djvu">Appendix</a></p>
+
+</td></tr>
+
+<tr>
+<td width=455 align=center valign=top>
+
+<p class=c><img src="jos6loeb.jpg" alt="Josephus. 6 vol.
+With an English translation by H.St.J.Thackeray. //
+Loeb Classical Library. London: Heinemann" border=1></p>
+
+</td>
+<td align=center valign=top>
+
+<p class=l><br><a href="jos0601.djvu">Prefatory Note</a>
+<br><a href="jos0602.djvu">Abbreviations</a>
+<br><a href="jos0603.djvu">List of Josephus&#146; Works</a>
+<br><b>The Jewish Antiquities</b>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0604.djvu">Book IX</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0605.djvu">Book X</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0606.djvu">Book XI</a>
+<br><a href="jos0607.djvu">Appendix</a></p>
+
+</td></tr>
+
+<tr>
+<td width=455 align=center valign=top>
+
+<p class=c><img src="jos7loeb.jpg" alt="Josephus. 7 vol.
+With an English translation by H.St.J.Thackeray. //
+Loeb Classical Library. London: Heinemann" border=1></p>
+
+</td>
+<td align=center valign=top>
+
+<p class=l><br><a href="jos0701.djvu">Prefatory Note</a>
+<br><b>The Jewish Antiquities</b>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0702.djvu">Book XII</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0703.djvu">Book XIII</a>
+<br>&nbsp;&nbsp;&nbsp;<a href="jos0704.djvu">Book XIV</a>
+<br><a href="jos0705.djvu">Appendix</a></p>
+
+</td></tr>
+
+</table>
+
+
+
+</body>
+</html>

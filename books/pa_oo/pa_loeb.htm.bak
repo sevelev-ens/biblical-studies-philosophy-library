@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>The Apostolic Fathers</title>
+<meta content="Ruslan Khazarzar" name="author">
+<meta content="Library of Ruslan Khazarzar, The Apostolic Fathers, Loeb Classical Library, Clemens, Ignatius, Polycarpus, Martyria" name="keywords">
+<meta content="The Apostolic Fathers, Loeb Classical Library" name="description">
+<style rel="stylesheet" type="text/css">
+body      {background-color:#ffffff;color:#000000}
+table     {background-color:#ffffff}
+h1        {font-family:"Arial";font-size:16pt;margin-bottom:16pt;margin-top:16pt;text-align:center}
+h2        {font-family:"Arial";font-size:14pt;margin-bottom:14pt;margin-top:14pt;text-align:center}
+h3        {font-family:"Arial";font-size:12pt;margin-bottom:12pt;margin-top:12pt;text-align:center}
+h4        {font-family:"Arial";font-size:11pt;margin-bottom:8pt;margin-top:8pt;text-align:center}
+p         {font-family:"Arial";font-size:10pt;margin-bottom:2pt;margin-top:2pt;text-align:justify;text-indent:0pt}
+p.m       {font-family:"Arial";font-size:9pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:25pt}
+p.r       {font-family:"Arial";font-size:9pt;margin-bottom:0pt;margin-top:0pt;text-align:right;text-indent:0pt}
+p.l       {font-family:"Arial";font-size:9pt;margin-bottom:0pt;margin-top:0pt;text-align:left;text-indent:0pt}
+p.s       {font-family:"Arial";font-size:8pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:0pt}
+p.c       {font-family:"Arial";font-size:9pt;margin-top:0pt;margin-bottom:0pt;text-align:center;text-indent:0pt}
+a:link    {color:#000000;text-decoration:none}
+a:visited {color:#000000;text-decoration:none}
+a:active  {text-decoration:none}
+a:hover   {color:#000000;text-decoration:underline}
+span.g    {font-family:"Arial Unicode MS,Palatino Linotype,Code2000,TITUS Cyberbit Basic,Athena,Vusillus Old Face"}
+span.h    {direction:rtl;font-size:12.0pt;font-family:"David"}
+</style>
+</head>
+
+<body>
+
+<table border="0" cellPadding="0" cellSpacing="0" width="100%">
+<tr>
+<td align="center" bgcolor="#0000ee" valign="top">
+<a href="../index.htm" target="_top" title="Library of Ruslan Khazarzar">
+<img border="0" src="../img/t.gif"></a></td>
+</tr>
+</table>
+
+<p>&nbsp;</p>
+
+<table align=center width="90%" border=0>
+<tr>
+<td width="50%">
+<p class=c><a href="pa_loeb1.djvu" target="_top"><img src="pa_loeb1.jpg" border=1></a></p>
+<p>&nbsp;</p>
+<p class=c><a href="pa_loeb1.djvu" target="_top">Volume I</a></p>
+</td>
+<td width="50%">
+<p class=c><a href="pa_loeb2.djvu" target="_top"><img src="pa_loeb2.jpg" border=1></a></p>
+<p>&nbsp;</p>
+<p class=c><a href="pa_loeb2.djvu" target="_top">Volume II</a></p>
+</td>
+</tr>
+</table>
+
+
+
+</body>
+</html>
