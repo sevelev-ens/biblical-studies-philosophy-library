@@ -41,4 +41,3 @@
 ./books/qumran/scr_frag/phylac.htm
 ./books/renan/01/index.html
 ./books/renan/01/title.html
-./thalmud/je/html/je.htm

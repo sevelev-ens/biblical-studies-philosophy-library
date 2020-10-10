@@ -1,0 +1,789 @@
+<html>
+<head>
+<title>Hieronymus. Adversus Helvidium</title>
+<meta name="author" content="Ruslan Khazarzar">
+<meta name="keywords" content="Library of Ruslan Khazarzar, Hieronymus">
+<meta name="description" content="Hieronymus, Latin">
+<meta http-equiv="pragma" content="no-cache">
+<style>
+<!--
+body      {background-color:#ffffff;color:#000000}
+table     {background-color:#ffffff}
+h1        {font-family:"Arial";font-size:16pt;margin-bottom:16pt;margin-top:16pt;text-align:center}
+h2        {font-family:"Arial";font-size:14pt;margin-bottom:14pt;margin-top:14pt;text-align:center}
+h3        {font-family:"Arial";font-size:12pt;margin-bottom:12pt;margin-top:12pt;text-align:center}
+h4        {font-family:"Arial";font-size:11pt;margin-bottom:8pt;margin-top:8pt;text-align:center}
+p         {font-family:"Arial";font-size:10pt;margin-bottom:2pt;margin-top:2pt;text-align:justify;text-indent:0pt}
+p.m       {font-family:"Arial";font-size:9pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:25pt}
+p.r       {font-family:"Arial";font-size:9pt;margin-bottom:0pt;margin-top:0pt;text-align:right;text-indent:0pt}
+p.l       {font-family:"Arial";font-size:9pt;margin-bottom:0pt;margin-top:0pt;text-align:left;text-indent:0pt}
+p.s       {font-family:"Arial";font-size:8pt;margin-bottom:0pt;margin-top:0pt;text-align:justify;text-indent:0pt}
+p.c       {font-family:"Arial";font-size:9pt;margin-top:0pt;margin-bottom:0pt;text-align:center;text-indent:0pt}
+a:link    {color:#000000;text-decoration:none}
+a:visited {color:#000000;text-decoration:none}
+a:active  {text-decoration:none}
+a:hover   {color:#000000;text-decoration:underline}
+span.g    {font-family:"Arial Unicode MS,Palatino Linotype,Code2000,TITUS Cyberbit Basic,Athena,Vusillus Old Face"}
+span.h    {direction:rtl;font-size:12.0pt;font-family:"David"}
+//-->
+</style>
+</head>
+
+<body onselectstart="return false" oncopy="return false">
+
+<table style='border:solid black .25pt' align=center cellpadding=15 cellspacing=0 width=700>
+<tr><td>
+
+<h2>Hieronymus Stridonensis</h2>
+
+<h1>De Virginitate B. Mariae</h1>
+
+<h4>(ed. J.-P. Migne, post. R.&nbsp;Khazarzar)</h4>
+
+<p class=r>Patrologiae cursus completus. Series latina. Vol.&nbsp;23.
+<br>Paris: Migne, 1845, pp.&nbsp;181&#150;206.</p>
+<p>&nbsp;</p>
+
+<p>Helvidius ex aliquot sacrae Scripturae testimoniis perperam intellectis, et
+duorum veterum Patrum, Tertulliani scilicet, et Victorini Petabionensis
+auctoritatibus parum perpensis, librum composuerat, in quo illud probare
+contendebat, Mariam Virginem, postquam Jesum Dei Filium nulla hominis opera,
+sed Spiritus sancti peperisset, deinde ex Joseph marito, communi caeterorum
+hominum more, filios aliquot genuisse, qui <i>Fratres Domini</i> appellantur in
+Evangelio. Quam insaniam ut fuco rationis aliquo obliniret, novo errore
+cumulavit: siquidem matrimonio minime praestare virginitatem effutivit,
+adductisque argumentis, immo mendaciis, probare conatus est. Erat ille, ut
+videtur, e populo vulgaris homo, rusticanus, et vix primis quoque imbutus
+litteris, tamque obscuri nominis, ut quamquam Romae eodem ac Hieronymus tempore
+diversaretur, numquam de facie cognitus illi fuerit, qui albus, ut aiunt,
+aterve esset, ignoraret. Addit Gennadius, Auxentii, qui sedem Mediolanensem invaserat,
+Arianorum impiissimi, discipulum, et Symmachi, ejus nempe ethnici senatoris,
+qui idololatriam scriptis defenderat, imitatorem eum exstitisse. Sed me illud
+Gennadii testimonium non una de causa movet et trajectione puto gravissima
+laborare. Ut quid enim in respondendo, Auxentium Helvidii Magistrum Hieronymus
+praeteriret? Symmachum vero, nisi si nocendi animo, atque impietate, qua
+ratione Helvidius fuisset imitatus, <i>qui librum neque sermone, neque ratione
+nitidum,</i> quin etiam soloecis scatentem ediderit? Rursum si impietatem
+aemulatur, quo pacto eum dicit Gennadius scripsisse, <i>Religionis studio?</i>
+Non haec sane rectae rationi consonant, ut pariter referri ad Helvidium
+possint. Ejus libello Hieronymus <i>rogatus a fratribus</i> demum respondit,
+cum diu tamen facere distulisset, <i>ne respondendo dignus ille fieret, qui
+vinceretur.</i> Pedem igitur collaturus, excerptas singulas haeretici
+propositiones ex ordine impugnat, Scripturae locis, atque illo imprimis Matth.
+I, 18, quo maxime adversarius abutebatur, expositis rite in eum sensum, ut
+Deiparam Mariam continuo virginem perstitisse, neque edito Salvatore, virum
+umquam cognovisse, quae catholicae Ecclesiae fides est, manifestissime evincat.
+Eapropter titulum libro fecit, <i>De Beatae Mariae Virginitate perpetua:</i>
+qui rursum a Gennadio dicitur in Corbeiensi codice, <i>egregius, et gratus
+libellus, in quo ostenditur Beatissimam Mariam genitricem Domini nostri Jesu
+Christi sicut virginem ante partum, ita virginem permansisse post partum.</i>
+Quod Veterum spectat auctoritatem, satis habet de Tertulliano dicere, eum
+Ecclesiae hominem non fuisse; sed Victorinum Petabionensem ejusdem ac
+adversarius sententiae esse, pernegat: tum seriem ait Scriptorum infinitam
+commovere se posse, atque opponere. Denique multa de laude virginitatis
+edisserit, cujus praestantiam post luculentissime expositum Pauli ad Corinthios
+testimonium, ex nuptiarum quoque, quae ob oculos ponit, incommodis extollit.
+Qua de re cum ad Pammachium post annos decem scriberet Epist. 48, num. 17, <i>Dum
+adviveret,</i> inquit, <i>sanctae memoriae Damasus, librum contra Helvidium de
+Beatae Mariae virginitate perpetua scripsimus, in quo necesse fuit nobis ad
+virginitatis beatitudinem praedicandam, multa de molestiis dicere nuptiarum.
+Num vir egregius, et eruditus in Scripturis, et virgo Ecclesiae virginis
+Doctor, aliquid in illo sermone reprehendit?</i> Ex hoc testimonio facile etiam
+colligitur, quo tempore conscriptus sit liber. Nempe exeunte anno 384 ex
+veterum martyrologiorum fide Damasus obiit: Hieronymus apud Damasum non ante
+finem anni 382 Romae est diversatus, quemadmodum in epistolarum 19 et 20
+chronologicis argumentis probatum est. Biennii autem, quod intercedit, priorem
+annum sive 383 illi assignandum evincit testimonium hocce alterum ex epist. 22:
+<i>Quantas molestias habeant nuptiae, et quot sollicitudinibus vinciantur, in
+eo libro quem adversus Helvidium de B. Mariae perpetua virginitate edidimus,
+puto breviter expressum.</i> Pertinet enim illa Epistola, ut suo loco
+ostendimus, ad anni 384 priorem partem; huncque adeo, quem laudat contra
+Helvidium librum, jamque ad vulgi manus fuisse indicat, superiori 383 oporteat
+ascribi.</p>
+
+<p>&nbsp;</p>
+
+<h2>Eusebii Hieronymi Stridonensis Presbyteri<br>
+De Perpetua virginitate B. Mariae,<br>
+Adversus Helvidium, liber unus</h2>
+
+<p>1.&nbsp;Nuper rogatus a fratribus, ut adversus libellum cujusdam Helvidii
+responderem, facere distuli: non quod difficile fuerit, hominem rusticanum, et
+vix primis quoque imbutum litteris, super veri assertione convincere; sed ne
+respondendo dignus fieret, qui vinceretur. Huc accedebat quod homo turbulentus,
+et solus in universo mundo sibi et laicus et sacerdos (qui, ut ait ille,
+loquacitatem facundiam existimat [<i>Al.</i> existimet], et maledicere omnibus,
+bonae conscientiae signum arbitratur) accepta materia disputandi, amplius
+inciperet blasphemare, et quasi de sublimi loco in totum orbem ferre
+sententiam: meque quia veritate non posset, laceraret [<i>Al.</i> lacerare]
+conviciis. Verum quia hae omnes tam justae silentii mei causae, ob scandalum
+fratrum, qui ad ejus rabiem movebantur, justiori fine cessarunt, jam ad radices
+infructuosae arboris Evangelii securis est admovenda <i>(Matth. 3, 10)</i>, et
+cum infecunditate foliorum tradenda flammis, ut discat aliquando reticere, qui
+numquam didicit loqui.</p>
+
+<p>2.&nbsp;Igitur sanctus mihi invocandus est Spiritus, ut beatae Mariae
+virginitatem suo sensu, ore meo defendat. Invocandus est Dominus Jesus, ut
+sacri ventris hospitium, cujus decem mensibus inhabitator fuit, ab omni
+concubitus suspicione tueatur. Ipse quoque Deus Pater est imprecandus, ut
+matrem Filii sui, virginem ostendat fuisse post partum, quae fuit mater
+antequam nupta. Non campum rhetorici desideramus eloquii, non Dialecticorum
+tendiculas, nec Aristotelis spineta conquirimus: ipsa Scripturarum verba
+ponenda sunt: ipsis quibus adversum nos usus est testimoniis, revincatur, ut
+intelligat, se et legere potuisse quae scripta sunt, et non potuisse quae
+pietate roborata sunt, cognoscere.</p>
+
+<p>3.&nbsp;<i>Helvidius.</i>—Prima ejus propositio fuit: &quot;Matthaeus
+loquitur: <i>Christi autem generatio sic erat: Cum esset desponsata mater ejus
+Maria Joseph, priusquam convenirent, inventa est habens in utero de Spiritu
+sancto. Joseph autem vir ejus cum esset justus, et nollet eam traducere, voluit
+occulte dimittere eam. Haec autem eo cogitante, ecce Angelus Domini in somnis
+apparuit ei, dicens: Joseph, fili David, ne timeas accipere Mariam conjugem
+tuam. Quod enim natum est in ea, de Spiritu sancto est</i> <i>(Matth. I, 18
+seqq.)</i>. Ecce, inquit, habes <i>desponsatam,</i> non <i>commendatam,</i> ut
+dicis, et utique non ob aliud desponsatam, nisi quandoque nupturam. Neque enim
+de non conventuris Evangelista dixisset: <i>Priusquam convenirent:</i> quia
+nemo de non pransuro dicit, antequam pranderet. Deinde ab Angelo <i>uxorem</i>
+appellatam et <i>conjunctam.</i> Audiamus nunc quid Scriptura pronuntiet: <i>Exsurgens,</i>
+inquit, <i>Joseph a somno, fecit sicut praeceperat ei Angelus Domini: et accepit
+uxorem suam, et non cognovit eam, donec peperit filium suum</i> <i>(Matth. I,
+24, 25)</i>.</p>
+
+<p>4.&nbsp;<i>Hieronymus. Praepositio</i> ante <i>quid ostendit. Maria quare
+virgo sponsata conceperit.</i>—Curramus per singula, et impietatem iisdem,
+quibus ingressa est, vestigiis persequentes, pugnantia inter se dixisse
+doceamus. <i>Desponsatam</i> confitetur: et statim <i>uxorem</i> vult esse quam
+confessus est sponsam. Rursum quam uxorem nominat, dicit non ob aliud
+desponsatam, nisi quandoque nupturam. Et ne parum hoc arbitremur: &quot;Habes,
+inquit, <i>desponsatam,</i> et non <i>commendatam,</i> id est, necdum uxorem,
+necdum maritali vinculo copulatam. In eo vero quod ait, Neque enim de non
+conventuris Evangelista dixisset: <i>Priusquam convenirent:</i> quia nemo de
+non pransuro dicit, antequam pranderet, doleamne, an rideam, nescio.&quot;
+Imperitiae arguam, an temeritatis accusem? Quasi si quis dixerit: Antequam in
+portu pranderem, ad Africam navigavi, non possit stare sententia, nisi ei in
+portu prandendum quandoque sit. Aut si velimus dicere: Paulus apostolus
+antequam ad Hispanias pergeret, Romae in vincula conjectus est. Aut certe
+illud: Helvidius antequam poenitentiam ageret, morte praeventus est: statim aut
+Paulo post vincula ad Hispanias sit eundum: aut Helvidio poenitentia agenda
+post mortem; cum Scriptura dicat: <i>In inferno autem quis confitebitur tibi</i>
+<i>(Psal. VI, 6)</i>? Ac non potius sit intelligendum, quod, <i>ante,</i>
+praepositio, licet saepe consequentiam indicet, tamen nonnumquam ea tantum quae
+prius cogitabantur, ostendat. Unde nec necesse sit ut cogitata fiant, cum aliud
+ideo intervenerit, ne ea quae cogitata sunt, fierent. Igitur cum Evangelista
+dicat: <i>priusquam convenirent,</i> proximum nuptiarum tempus ostendit, et in
+eo jam rem fuisse ut, quae prius sponsa fuerat, esse uxor inciperet. Quasi
+dixerit: Antequam oscula amplexusque miscerent; antequam rem agerent nuptiarum,
+inventa est habens in utero. Inventa est autem a nullo alio, nisi a Joseph, qui
+sponsae uterum tumentem pene jam licentia maritali, et curiosis oculis
+deprehendit. Non tamen sequitur, ut prioribus docuimus exemplis, eum cum Maria
+convenisse post partum, cujus conveniendi desiderium, uteri conceptione
+sublatum est. Quod autem in somnis dicitur ad Joseph: <i>Ne timeas accipere
+Mariam uxorem tuam.</i> Et rursum: <i>Exsurgens autem Joseph a somno, fecit
+sicut praecepit ei Angelus Domini, et accepit uxorem suam,</i> nullum movere
+debet, quasi ex eo quod <i>uxor</i> est appellata, <i>sponsa</i> esse desierit:
+cum hanc esse Scripturae divinae consuetudinem noverimus, ut <i>sponsas</i>
+appellet <i>uxores.</i> Sicut in sequentibus Deuteronomii testimoniis
+approbatur: <i>Si quis,</i> inquit, <i>invenerit virginem desponsatam viro in
+campo, et vim faciens dormierit cum ea, morte moriatur, quia humiliavit uxorem
+proximi sui</i> <i>(Deut. XXII, 25)</i>. Et in alio loco: <i>Si autem fuerit
+adolescentula desponsata viro, et invenerit homo eam in civitate, et dormierit
+cum ea, educetis utrumque ad portas civitatis illius, et lapidabuntur
+lapidibus, et morientur. Adolescentula quidem, quia non proclamavit, cum esset
+in civitate: vir autem, quia humiliavit uxorem proximi sui: et eradicabitis
+malum [Al.</i> malignum] <i>ex vobismetipsis</i> <i>(Ibid., 23, 24)</i>. Necnon
+et alibi: <i>Et quis ille homo, cui desponsata est uxor, et non accepit [Al.
+accipiet] eam? Vadat et revertatur in domum suam, ne forte moriatur in bello,
+et homo alius accipiat eam</i> <i>(Deut. XX, 7)</i>. Si cui autem scrupulus
+commovetur, quare desponsata, et non potius sine sponso, sive (ut Scriptura
+appellat) marito, virgo conceperit, sciat triplicem fuisse rationem. Primo, ut
+per genealogiam Joseph, cujus Maria cognata erat, origo quoque Mariae
+monstraretur. Secundo, ne juxta legem Moysi ut adultera lapidaretur a populo.
+Tertio, ut ad Aegyptum fugiens haberet solatium, custodis potius quam mariti.
+Quis enim in tempore illo credidisset Virgini de sancto eam Spiritu concepisse;
+venisse angelum Gabriel, Dei detulisse mandatum; ac non magis quasi adulteram,
+juxta exemplum Susannae, sententiae omnium condemnassent, cum hodie, toto jam
+credente mundo, argumententur Judaei, Isaia dicente, <i>Ecce virgo in utero
+concipiet, et pariet filium</i> <i>(Isai. VII, 14)</i>, in Hebraeo <i>juvenculam</i>
+scriptum esse, non <i>virginem,</i> id est, AALMA, non BETHULA? Adversus quos
+in alio loco competentius disseremus. Denique excepto Joseph, et Elisabeth, et
+ipsa Maria, paucisque admodum, si quos ab his audisse possumus aestimare, omnes
+Jesum filium aestimabant Joseph: intantum, ut etiam Evangelistae opinionem
+vulgi exprimentes, quae vera historiae lex est, patrem cum dixerint Salvatoris,
+ut ibi, <i>Et venit in spiritu in Templum</i> (haud dubium quin Simeon) <i>et
+cum inducerent parentes ejus puerum Jesum, ut facerent de illo secundum
+consuetudinem legis</i> <i>(Luc. II, 27)</i>. Et alibi: <i>Et erant pater
+illius et mater admirantes super his quae dicebantur de eo</i> <i>(Ibid., 33)</i>.
+Et rursum: <i>Et ibant parentes ejus per annum in Jerusalem in solemni die
+Paschae</i> <i>(Ibid., 41)</i>. Ac deinde: <i>Et completis diebus cum
+reverterentur, remansit puer Jesus in Jerusalem, et non cognoverunt parentes
+ejus</i> <i>(Ibid., 43)</i>. Ipsa quoque Maria quae ad Gabrielem responderat,
+dicens, <i>Quomodo erit hoc, quia virum non cognovi,</i> quid de Joseph
+loquitur, ausculta: <i>Fili, quid fecisti nobis sic? Ecce pater tuus et ego,
+dolentes quaerebamus te</i> <i>(Ibid., 48)</i>. Non hic Judaeorum, ut plerique
+argumentantur, non illudentium vox est. Evangelistae patrem Joseph dicunt:
+patrem Maria confitetur. Non quod (ut superius indicavi) vere pater Joseph
+fuerit Salvatoris; sed quod ad famam Mariae conservandam, pater sit ab omnibus
+aestimatus, qui antequam moneretur ab Angelo: <i>Joseph, fili David, ne
+timueris accipere Mariam conjugem tuam; quod enim in ea natum est, de Spiritu
+sancto est</i> <i>(Matth. I, 20)</i>, cogitabat occulte dimittere eam. Intantum
+suum non esse, qui conceptus fuerat, confidebat. Sed jam satis docendi magis,
+quam respondendi studio disputatum est, cur Joseph pater Domini, cur Maria
+appellata sit conjux: in quo et hoc breviter continetur, cur fratres ejus
+quidam esse dicantur.</p>
+
+<p>5.&nbsp;<i>Helvidius.</i>—Verum quia suum locum huic quaestiunculae
+reservamus, et ad reliqua festinat oratio: nunc illud est disserendum, quomodo
+Scriptura dicat: <i>Exsurgens autem Joseph a somno, fecit sicut praecepit ei
+Angelus Domini, et accepit uxorem suam, et non cognoscebat eam, donec peperit
+filium, et vocavit nomen ejus Jesum</i> <i>(Matth. I, 24, 25)</i>. In quo
+primum adversarius superfluo labore desudat, cognoscendi verbum ad coitum
+magis, quam ad scientiam referendum: quasi hoc quisquam negaverit, et eas
+ineptias quas redarguit, aliquando prudens quispiam potuerit suspicari. Deinde
+vult docere, quod <i>donec,</i> sive <i>usque</i>, adverbium, certum tempus
+significet: quo completo fiat id, quod usque ad illud temporis quod
+praescriptum est, non fiebat, velut in praesenti: <i>Et non cognoscebat eam,
+donec peperit filium.</i> Apparet, inquit, cognitam esse post partum, cujus
+cognitionem filii tantum differebat generatio. Et ad hoc approbandum congerit
+de Scripturis exempla quamplurima, more Andabatarum gladium in tenebris
+ventilans, et linguae sonum ad confodienda sui tantum corporis membra
+concutiens.</p>
+
+<p>6.&nbsp;<i>Hieronymus.</i>—Ad quod nos breviter respondemus, <i>et
+cognoscebat, et usque,</i> sermonem, in Scripturis sanctis, dupliciter
+intelligi. Et de eo quidem quod scriptum est, <i>cognoscebat,</i> ad coitum
+esse referendum, ipse disseruit: nullo dubitante, quin ad scientiam saepe
+referatur, ut ibi: <i>Remansit puer Jesus in Jerusalem, et non cognoverunt
+parentes ejus.</i> Nunc illud est ostendendum, ut quomodo ibi consuetudinem
+Scripturae secutus est, sic etiam in <i>donec,</i> ejusdem Scripturae
+auctoritate frangatur, quae saepe certum tempus (ut ipse disseruit) in ejus
+assumptione significat, saepe infinitum, ut est illud, quod Deus ad quosdam
+loquitur in Propheta: <i>Ego sum, ego sum, et donec senescatis ego sum</i> <i>(Isai.
+XLIII; Jerem. VII)</i>. Numquid postquam illi senuerint, Deus esse desistet? Et
+Salvator in Evangelio ad Apostolos, <i>Ecce ego,</i> inquit, <i>vobiscum sum
+omnibus diebus usque ad consummationem saeculi</i> <i>(Matt. XXVIII, 20)</i>.
+Ergo post consummationem saeculi a discipulis suis Dominus abscedet, et tunc
+quando in duodecim soliis judicaturi sunt duodecim tribus Israel <i>(Matth.
+XIX, 38)</i>, Domini consortio fraudabuntur? Paulus quoque apostolus Corinthiis
+scribens: <i>Primitiae,</i> ait, <i>Christus: deinde hi qui sunt Christi, qui
+in adventu ejus crediderunt: deinde finis, cum tradiderit regnum Deo et Patri,
+cum destruxerit omnem principatum et omnem potestatem et virtutem. Oportet enim
+illum regnare, donec ponat omnes inimicos sub pedibus ejus, omnia enim sub pedibus
+ejus subjecit</i> <i>(I Cor. XV, 23, 26)</i>. Esto, de homine dictum sit, non
+negamus de eo qui passus est crucem, qui postea sedere jubetur a dextris. Quid
+sibi vult hoc quod ait, <i>Oportet enim illum regnare, donec ponat omnes
+inimicos sub pedibus ejus?</i> Numquid tamdiu regnaturus est Dominus, donec
+incipiant esse inimici sub pedibus ejus; et postquam illi sub pedibus fuerint,
+regnare desistet: cum utique tunc magis regnare incipiet, cum inimici coeperint
+esse sub pedibus? David quoque in quarto graduum psalmo: <i>Sicut oculi
+ancillae in manibus dominae suae, ita oculi nostri ad Dominum Deum nostrum,
+donec misereatur nostri</i> <i>(Psal. CXXII, 3)</i>. Ergo tamdiu Propheta
+oculos habebit ad Dominum, quamdiu misericordiam impetret, et post impetratam
+misericordiam, oculos torquebit in terram? Qui in alio loco dicit: <i>Oculi mei
+defecerunt in salutare tuum, et in verbum justitiae tuae</i> <i>(Psal. CXVIII,
+123)</i>. Poteram super hoc innumerabilia exempla congerere, et omnem
+lacessentis procacitatem, testimoniorum nube celare; verum adhuc pauca
+subjiciam, ut his similia ipse sibi lector inveniat.</p>
+
+<p>7.&nbsp;Loquitur in Genesi sermo divinus: <i>Et tradiderunt Jacob deos
+alienos, qui erant in manibus eorum, et inaures quae erant in auriculis eorum.
+Et abscondit ea Jacob subter terebinthum, quae est in Sichimis, et perdidit ea
+usque in hodiernum diem</i> <i>(Gen. XXXV, 4 seq.)</i>. Item in fine
+Deuteronomii: <i>Et defunctus est Moyses servus Domini in terra Moab per verbum
+Domini, et sepelierunt eum in Geth, prope domum Phegor, et nemo scit sepulcrum
+ejus usque in diem istum</i> <i>(Deut. XXXIV, 6, sec. LXX)</i>. Certe hodiernus
+dies illius temporis aestimandus est, quo historia ipsa contexta est, sive
+Moysen dicere volueris auctorem Pentateuchi, sive Ezram ejusdem instauratorem
+operis, non recuso. Nunc hoc quaeritur, an id quod dictum est, <i>usque in diem
+istum,</i> ad illam referatur aetatem, qua libri editi sive conscripti sunt.
+Doceat igitur post illam diem tot jam annorum usque ad nos voluminibus exactis,
+aut idola, quae sub terebintho condita fuerant, reperta, aut Moysi tumulum
+investigatum, quia obnixe asserit, post <i>donec</i> et <i>usque,</i> esse
+incipere, quod tamdiu non fuit quamdiu <i>usque</i> compleretur et <i>donec.</i>
+Quin potius animadvertat Scripturae sanctae idioma, et nobiscum, in quo
+haesitabat, intelligat ea, de quibus posset ambigi, si non fuissent scripta,
+signari, caetera vero nostrae intelligentiae derelinqui. Si enim adhuc recenti
+tempore, viventibus his qui viderant Moysen, sepulcrum ejus potuit ignorari,
+multo magis tot saeculis praetereuntibus. Juxta quod et illud intelligitur de
+Joseph, Evangelistam id indicasse, de quo scandalum poterat moveri, non eam
+cognitam esse a vito suo usque ad partum, ut multo magis intelligeremus
+cognitam non fuisse post partum, a qua tunc se abstinuit, cum adhuc de visione
+poterat fluctuare.</p>
+
+<p>8.&nbsp;Ad summam, illud requiro, quare se abstinuerit Joseph usque ad
+partus diem. Respondebit utique, quia Angelum audierit dicentem: <i>Quod enim
+in ea natum est, de Spiritu sancto est</i> <i>(Matth. I, 20)</i>. Ad quod nos
+inferimus, et certe audierat, <i>Joseph, fili David, ne timeas accipere Mariam
+uxorem tuam</i> <i>(Ibid., 20)</i>. Prohibitum ei fuerat, ne relinqueret, ne
+adulteram existimaret uxorem. Numquid et a congressu conjugis separatus fuerat,
+cum utique ne separaretur magis fuisset admonitus? Et audebat, inquit, vir
+justus, Dei in utero audiens filium, de uxoris coitu cogitare? Pulchre. Qui
+ergo somnio tantum credidit, ut uxorem non auderet attingere: is postquam
+pastorum voce cognoverat, Angelum Domini venisse de coelis, et dixisse ad eos: <i>Nolite
+timere; ecce evangelizo vobis gaudium magnum, quod erit omni populo, quia natus
+est vobis hodie Salvator, qui est Christus Dominus in civitate David</i> <i>(Luc.
+II, 10, et seq.)</i>; et cum eo laudes militiae concinuisse coelestis: <i>Gloria
+in excelsis Deo, et super terram pax hominibus bonae voluntatis:</i> qui Simeonem
+justum inter amplexus parvuli viderat praedicantem, <i>Nunc dimittis servum
+tuum, Domine, secundum verbum tuum in pace: quia viderunt oculi mei salutare
+tuum</i> <i>(Ibid., 27)</i>: qui Annam prophetissam, Magos, stellam, Herodem,
+Angelos viderat; qui, inquam, miracula tanta cognoverat, Dei templum, Spiritus
+sancti sedem, Domini sui matrem audebat attingere? Et certe <i>Maria
+conservabat omnia verba haec, conferens in corde suo</i> <i>(Ibid., 51)</i>. Ac
+ne impudenter [<i>Al.</i> imprudenter] neges, ista ignorasse Joseph: <i>Et
+erant,</i> inquit Lucas, <i>pater illius, et mater admirantes super his, quae
+dicebantur de eo.</i> Licet tu mira impudentia haec in Graecis codicibus
+falsata contendas, quae non solum omnes pene Graeciae Tractatores in suis
+voluminibus reliquerunt; sed nonnulli quoque e Latinis, ita ut in Graecis
+habetur, assumpserint. Nec necesse est nunc de exemplariorum varietate
+tractare, cum omne et veteris et novae Scripturae instrumentum in Latinum
+sermonem exinde translatum sit, et multo purior manare credenda sit fontis
+unda, quam rivi.</p>
+
+<p>7.&nbsp;<i>Helvidius.</i>—&quot;Haec, ais, apud me nugae sunt. et
+argumentationes superfluae, et disputatio magis curiosa, quam vera. Numquid non
+potuit Scriptura dicere: <i>Et accepit uxorem suam, et non fuit amplius ausus
+contingere eam</i> <i>(Gen. XXXVIII, 26)</i>: sicut de Thamar dixit et Juda?
+Aut defuerunt Matthaeo verba quibus id quod intelligi volebat, posset effari? <i>Non
+cognovit,</i> inquit, <i>eam donec peperit filium</i> <i>(Matth. I, 25)</i>.
+Post partum ergo cognovit, cujus cognitionem ad partum usque distulerat.&quot;</p>
+
+<p>8.&nbsp;<i>Hieronymus.</i>—Si tam contentiosus es, jam nunc tua mente
+superaberis. Nolo mihi aliquod inter partum et coitum tempus interseras. Nolo
+dicas: <i>Mulier quaecumque concepit et peperit masculum, immunda erit septem
+diebus, secundum dies secessionis et purgationis suae immundata erit: et octavo
+die circumcidet carnem praeputii ejus, et triginta tribus diebus sedebit in
+sanguine puro, et omne sanctum non tanget,</i> et reliqua <i>(Levit. XII, 2, 3)</i>.
+Statim eam invadat Joseph: statim audiat per Jeremiam: <i>Equi insanientes in
+feminas facti sunt mihi, unusquisque ad uxorem proximi sui hinniebat</i> <i>(Jerem.
+V, 8)</i>. Alioqui quomodo stare poterit, <i>Non cognovit eam, donec peperit
+filium:</i> si post purgationis tempus exspectat: si quadraginta rursum diebus
+tanto tempore dilata libido differtur? Polluatur cruore puerpera: obstetrices
+suscipiant parvulum vagientem: maritus lassam teneat uxorem. Sic incipiant
+nuptiae, ne Evangelista mentitus sit. Sed absit, ut hoc de matre Salvatoris et
+viro justo sit aestimandum. Nulla ibi obstetrix: nulla muliercularum sedulitas intercessit.
+Ipsa pannis involvit infantem, ipsa et mater et obstetrix fuit. <i>Et
+collocavit eum,</i> inquit, <i>in praesepio, quia non erat ei locus in
+diversorio</i> <i>(Luc. II, 7)</i>. Quae sententia et apocryphorum deliramenta
+convincit, dum Maria ipsa pannis involvit infantem; et Helvidii expleri non
+patitur voluptatem, dum in diversorio locus non fuit nuptiarum.</p>
+
+<p>9.&nbsp;<i>Helvidius.</i>—Verum quia jam satis abundeque respondimus ad id
+quod proposuerat, <i>Antequam convenirent,</i> et <i>Non cognovit eam, donec
+peperit filium,</i> ad tertiam veniendum est quaestionem, ut juxta
+disputationis ejus ordinem, etiam nostrae responsionis ordo procedat. Vult enim
+alios quoque filios Mariam procreasse; et ex eo quod scriptum est: <i>Ascendit
+autem Joseph in civitatem David, ut profiteretur cum Maria uxore sua
+praegnante. Factum est autem cum ibi essent, impleti sunt dies, ut pareret, et
+peperit filium suum primogenitum</i> <i>(Luc. II, 4 et seqq.)</i>: nititur
+approbare <i>primogenitum</i> non posse dici, nisi eum qui habeat et fratres:
+sicut unigenitus ille vocatur, qui parentibus solus sit filius.</p>
+
+<p>10.&nbsp;<i>Hieronymus.</i>—Nos autem ita definimus: Omnis unigenitus est
+primogenitus: non omnis primogenitus est unigenitus. Primogenitus est, non
+tantum post quem et alii: sed ante quem nullus. <i>Omne</i>, inquit Dominus ad
+Aaron, <i>quod aperit vulvam, ab omni carne quae offertur Domino, ab homine
+usque ad pecus, tibi erunt: tantummodo pretiis redimant primogenita hominum, et
+primogenita pecorum immundorum</i> <i>(Exod. XXXIV, 19, 20, et Num. XVIII, 15)</i>.
+Definivit sermo Dei, quid sit primogenitum, <i>Omne,</i> inquit, <i>quod aperit
+vulvam.</i> Alioqui si non est primogenitus, nisi is tantum, quem sequuntur
+fratres, tamdiu sacerdotibus primogenita non debentur quamdiu et alia fuerint
+procreata; ne forte partu postea non sequente, unigenitus sit, et non
+primogenitus. <i>Redemptio,</i> inquit, <i>ejus erit ab uno mense, aestimatio
+quinque siclorum. Siclus, secundum siclum sanctuarii, viginti oboli sunt.
+Tantummodo primogenita vitulorum, et primogenita ovium, et primogenita caprarum
+non redimes, quia sancta sunt</i> <i>(Num. XVIII, 16, 17)</i>. Cogit me sermo
+Dei, ut omne quod aperit vulvam, si de mundis animalibus sit, Deo voveam; si de
+immundis, redimam: dans pretium sacerdoti. Possum respondere, et dicere. Quid
+me in unius mensis stringis articulo? Quid primogenitum vocas, quem an fratres
+sequantur, ignoro? Exspecta donec nascatur secundus. Nihil debeo sacerdoti,
+nisi et ille fuerit procreatus, per quem is qui ante natus est, incipiat esse
+primogenitus. Nonne mihi ipsi apices loquentur, et me stultitiae redarguent,
+eum esse dictum primogenitum, qui aperiat vulvam, non qui habeat et fratres?
+Denique interrogo de Joanne, quem constat esse unigenitum, an et primogenitus
+fuerit? Utrumne et ipse secundum Legem, pro toto ei legi fuerit obnoxius?
+Ambigi non potest. Certe de Salvatore Scriptura sic loquitur: <i>Cum expleti
+essent dies purgationis eorum, secundum Legem Moysi, duxerunt eum in Jerusalem,
+ut offerrent eum Domino: sicut scriptum est in Lege Domini: Quia omne
+masculinum adaperiens vulvam, sanctum Domino vocabitur, et ut darent hostias
+secundum quod dictum est in Lege Domini, par turturum, aut duos pullos
+columbarum</i> <i>(Luc. II, 22 seqq.)</i>. Si haec lex tantum ad primogenitos
+pertinet, primogenitum autem sequentes faciunt, non debuit lege primogeniti
+teneri, qui de sequentibus ignorabat. Sed quia tenetur lege primogeniti, etiam
+ille quem fratres caeteri non sequuntur: colligitur eum primogenitum vocari,
+qui vulvam aperiat et ante quem nullus sit, non eum quem frater post genitus
+subsequatur. Moyses scribit in Exodo: <i>Factum est autem circa mediam noctem
+et, Dominus percussit omne primogenitum in terra Aegypti, a primogenito
+Pharaonis, qui sedebat super thronum ejus, usque ad primogenitum captivae, quae
+est ad lacum, et omne primogenitum pecoris</i> <i>(Exod. XII, 29)</i>. Responde
+mihi, Qui tunc ab exterminatore fuerant interempti, primogeniti fuerunt an et
+unigeniti? Si primogeniti tantum illi vocantur, qui fratres habent, ergo ab
+internecione unigeniti liberati sunt. Si autem ut unigeniti caesi sunt, contra
+sententiam factum est, et inter primogenitos et unigeniti morerentur. Aut
+unigenitos liberabis a poena, et ridiculus eris: aut si confiteberis
+interfectos, ingratis obtinebimus, et unigenitos primogenitos appellari.</p>
+
+<p>11.&nbsp;<i>Helvidii ultima propositio.</i>—Extrema propositio fuit (licet
+id ipsum in primogenito voluerit ostendere), fratres Domini in Evangeliis
+nominari, ut ibi: <i>Ecce mater ejus et fratres ejus stabant foris, quaerentes
+loqui cum eo</i> <i>(Luc. VIII, 20)</i>. Et alibi: <i>Post haec descendit
+Capharnaum, ipse et mater ejus, et fratres ejus</i> <i>(Joan. II, 12)</i>. Et
+ibi: <i>Dixerunt ergo fratres ejus ad eum: Transi hinc, et vade in Judaeam, ut
+et discipuli tui videant opera tua quae facis. Nemo enim aliquid in occulto
+faciens, quaerit ipse in palam esse. Si haec facis, manifesta teipsum mundo</i>
+<i>(Joan. VII, 3, 4)</i>. Joanne desuper inferente: <i>Neque enim fratres ejus
+tunc credebant in eum</i> <i>(Ibid. 5)</i>. Item Marcus et Matthaeus: <i>Et
+docebat eos in synagoga eorum in patria sua, ita ut stuperent, et dicerent:
+Unde huic omnis haec sapientia et virtutes? Nonne hic est fabri filius? nonne
+mater ejus dicitur Maria, et fratres ejus Jacobus et Joseph, et Simon et Judas,
+et sorores ejus omnes apud nos sunt</i> <i>(Marc. XIII, 5; V, 24)</i>? Lucas
+quoque in Actibus Apostolorum ita refert: <i>Hi omnes erant instantes unanimes
+in oratione cum mulieribus et Maria matre Jesu, et fratribus ipsius</i> <i>(Act.
+I, 14)</i>. Necnon et Paulus Apostolus in eadem historiae veritate pari voce
+concordat: <i>Ascendi autem secundum revelationem, et neminem vidi, nisi Petrum
+et Jacobum fratrem Domini</i> <i>(Galat. II, 2)</i>. Et rursum in alio loco: <i>Numquid
+non habemus potestatem manducandi et bibendi? Numquid non habemus potestatem</i>
+<i>uxores circumducendi, sicut et caeteri Apostoli, et fratres Domini, et
+Cephas</i> <i>(I Cor. IX, 4, 5)</i>? Et ne forte aliquis Judaeorum testimonium
+non admitteret, qui etiam nomina fratrum illius ediderunt, simili eos asserens
+[<i>Al.</i> asseris] in fratribus errore deceptos, quo &quot;in patre
+aestimando sunt lapsi, argute praecavit, et ait: Haec eadem vocabula ab
+Evangelistis in alio loco nominari, et eosdem esse fratres Domini, filios
+Mariae.&quot; Matthaeus loquitur: <i>Erant autem ibi </i>(haud dubium quin ante
+crucem Domini) <i>et mulieres multae a longe spectantes, quae secutae fuerant
+Jesum a Galilaea, ministrantes illi. Inter quas erant Maria Magdalene, et Maria
+Jacobi, et Joseph mater, et mater filiorum Zebedaei</i> <i>(Matth. XXVII, 55,
+56)</i>. Item Marcus: <i>Erant autem et mulieres a longe aspicientes, inter
+quas erant Maria Magdalene, et Maria Jacobi minoris, et Joseph mater, et Salome</i>
+<i>(Marc. XV, 40)</i>: ibique post modicum: <i>Et aliae multae quae ascenderant
+cum eo in Jerusalem.</i> Necnon et Lucas: <i>Erant autem Maria Magdalene et
+Joanna, et Maria Jacobi, et caeterae cum eis</i> <i>(Luc. ult. 10)</i>.</p>
+
+<p>12.&nbsp;<i>Hieronymus.</i>—Haec idcirco replicavimus, ne calumnietur et
+clamitet, ea quae pro se faciant, a nobis esse subtracta, et sententiam suam,
+non testimoniis Scripturarum, sed lubrica disputatione convulsam. &quot;Ecce,
+inquit, Jacobus et Joseph filii Mariae, iidem quos Judaei fratres
+appellaverunt. Ecce Maria Jacobi minoris et Josetis mater. Minoris autem
+Jacobi, ad distinctionem majoris, qui erat filius Zebedaei, sicut et in alio
+loco Marcus ponit: <i>Maria autem Magdalene, et Maria Jacobi, et Josetis,
+viderunt ubi poneretur: et transacto sabbato, emerunt aromata, et venerunt ad
+monumentum.</i> Et utique ait: Quam miserum erit et impium de Maria hoc
+sentire, ut cum aliae feminae curam sepulturae Jesu habuerint, matrem ejus
+dicamus absentem: aut alteram esse Mariam, nescio quam, confingamus: praesertim
+cum Evangelium Joannis testetur praesentem eam illic fuisse, quando illam de
+cruce Dominus jam viduam, ut matrem Joanni commendabat. Aut numquid
+Evangelistae et falluntur et fallunt, ut eorum Mariam matrem dicerent, quos
+Judaei fratres Jesu esse dixerunt?&quot;</p>
+
+<p>13.&nbsp;O furor caecus, et in proprium exitium mens vesana! Dicis ad crucem
+Domini matrem ejus fuisse praesentem, dicis Joanni discipulo ob viduitatem et
+solitudinem commendatam: quasi juxta te non haberet quatuor filios, et
+innumeras filias, quarum consortio frueretur? Viduam quoque nominas, quod
+Scriptura non loquitur. Et cum omnia Evangelistarum exempla proponas, solius
+tibi Joannis verba non placent. Dicis transitorie, ad crucem Domini eam fuisse
+praesentem, ne consulto praeterisse videaris: et tamen quae cum illa mulieres
+fuerint, siles. Ignoscerem nescienti, nisi viderem consulto reticentem. Audi,
+itaque, Joannes quid dicat: <i>Stabant autem juxta crucem Jesu mater ejus, et
+soror matris ejus Maria Cleophae, et Maria Magdalene</i> <i>(Joan. XIX, 25)</i>.
+Nulli dubium est, duos fuisse Apostolos Jacobi vocabulo nuncupatos, Jacobum
+Zebedaei, et Jacobum Alphaei. Istum, nescio quem minorem Jacobum, quem Mariae
+filium, nec tamen matris Domini Scriptura commemorat, Apostolum vis esse, an
+non? Si Apostolus est, Alphaei filius erit; et credet in Jesum; et non erit de
+illis fratribus, de quibus, scriptum est: <i>Neque enim tunc fratres ejus credebant
+in eum.</i> Si non est Apostolus, sed tertius nescio quis Jacobus, quomodo est
+frater Domini putandus, et quomodo tertius ad distinctionem majoris
+appellabitur minor, cum major et minor, non inter tres, sed inter duos soleant
+praebere distantiam; et frater Domini Apostolus sit, Paulo dicente: <i>Deinde
+post triennium veni Jerusalem videre Petrum, et mansi apud illum diebus
+quindecim. Alium autem Apostolorum vidi neminem, nisi Jacobum fratrem Domini</i>
+<i>(Galat. I, 18, 19)</i>? Et in eadem Epistola: <i>Et cognita gratia, quae
+data est mihi, Petrus et Jacobus et Joannes, qui videbantur columnae esse</i> <i>(Gal.
+II, 9)</i>. Ne autem hunc putes Jacobum filium Zebedaei, lege Actus
+Apostolorum. Jam ab Herode fuerat interemptus. Restat conclusio, ut Maria ista
+quae Jacobi minoris scribitur mater, fuerit uxor Alphaei, et soror Mariae
+matris Domini, quam Mariam Cleophae Joannes Evangelista cognominat, sive a
+patre, sive gentilitate familiae aut quacumque alia causa ei nomen imponens. Si
+[<i>Al.</i> Sin] autem inde tibi alia atque alia videtur, quod alibi dicatur: <i>Maria
+Jacobi minoris mater:</i> et hic <i>Maria Cleophae [Al.</i> Cleophe]: disce
+Scripturae consuetudinem, eumdem hominem diversis nominibus nuncupari. <i>Raguel</i>
+socer Moysi, et <i>Jethro</i> dicitur. <i>Gedeon,</i> nullis causis immutati
+nominis ante praemissis, subito <i>Jerobaal</i> legitur. <i>Ozias</i> rex Juda,
+vicissim <i>Azarias</i> vocatur. Mons <i>Thabor, Itabyrium</i> dicitur. Rursum <i>Hermon</i>
+Phoenices cognominant <i>Sanior,</i> et Amorraeus cognominat eum <i>Sanir.</i>
+Eadem coeli plaga tribus nominibus appellatur, <i>Nageb, Theman, Darom,</i>
+lege Ezechiel. <i>Petrus,</i> et <i>Simon</i> dicitur, et <i>Cephas.</i> Judas <i>zelotes,</i>
+in alio Evangelio <i>Thaddaeus</i> dicitur: multaque alia quae ad exemplum
+horum pertinent ipse sibi de omnibus Scripturis lector poterit congregare.</p>
+
+<p>14.&nbsp;Nunc illud est quod conamur ostendere, quemadmodum fratres Domini
+appellentur filii materterae ejus, Mariae, qui antea non credentes, postea
+crediderunt. Licet fieri potuerit, ut uno statim credente, alii diu increduli
+fuerint, et hanc fuisse matrem Jacobi et Josetis, id est, Mariam Cleophae
+uxorem Alphaei, et hanc dictam Mariam Jacobi minoris. Quae si esset mater
+Domini, magis eam, ut in omnibus locis, matrem illius appellasset, et non
+aliorum dicendo matrem, alterius voluisset intelligi. Verum in hac parte
+contentiosum funem non traho, alia fuerit Maria Cleophae, alia Maria Jacobi et
+Josetis, dummodo constet, non eamdem Mariam Jacobi et Josetis esse, quam matrem
+Domini. Et unde, ais, fratres Domini dicti sunt, qui non erant fratres? Jam
+nunc doceberis, quatuor modis in Scripturis divinis fratres dici, natura,
+gente, cognatione, affectu. Natura, Esau, Jacob, duodecim Patriarchae, Andreas
+et Petrus, Jacobus et Joannes. Gente, qua omnes Judaei inter se fratres
+vocantur, ut in Deuteronomio: <i>Si autem emeris fratrem tuum, qui est
+Hebraeus, vel quae est Hebraea, serviet tibi sex annis: et septimo anno
+dimittes eum liberum abs te</i> <i>(Deut. XV, 12)</i>. Et in eodem: <i>Constituendo
+constitues super te principem, quem elegerit Dominus Deus tuus, eum qui ex
+fratribus tuis sit. Non enim poteris constituere super te hominem alienigenam,
+quia [Fort.</i> qui] <i>non est frater tuus</i> <i>(Deut. XXII, 1, 2)</i>. Et
+rursum: <i>Ne viso vitulo fratris tui, vel ove ejus errantibus per viam,
+negligas ea: Reversione reduces ea fratri tuo. Quod si non appropinquat tibi
+frater tuus, neque noveris eum, colliges ea intra domum tuam: et erunt tecum
+donec quaerat ea frater tuus, et reddes ei</i> <i>(Deut. XVII, 11)</i>. Et
+Apostolus Paulus, <i>Optabam,</i> inquit, <i>ego ipse anathema esse a Christo
+pro fratribus meis, cognatis secundum carnem, qui sunt Israelitae</i> <i>(Rom.
+IX, 3, 4)</i>. Porro cognatione fratres vocantur, qui sunt de una familia, id
+est, <i>patria:</i> quas Latini <i>paternitates</i> interpretantur; cum ex una
+radice multa generis turba diffunditur, ut in Genesi. <i>Dixit autem Abraham ad
+Lot: Non sit rixa inter me et te, et inter pastores meos et pastores tuos, quia
+homines fratres nos sumus.</i> Ibique, <i>et elegit sibi Lot regionem Jordanis,
+et elevavit Lot ab Oriente, et discesserunt unusquisque a fratre suo</i> <i>(Gen.
+XIII, 8)</i>. Et certe Lot non est frater Abrahae, sed filius fratris ejus
+Aram. Thara quippe genuit Abraham et Nachor et Aram: et Aram genuit Lot. Et
+rursum: <i>Abraham autem erat annorum septuaginta quinque, cum exiret de
+Charan. Et sumpsit Abraham Saram uxorem suam, et Lot filium fratris sui</i> <i>(Gen.
+XII, 4)</i>. Quod si adhuc dubitas fratrem, fratris filium nuncupari, accipe
+exemplum. <i>Cum autem audisset Abraham, quia captivus ductus est Lot frater
+suus, numeravit vernaculos suos trecentos decem et octo</i> <i>(Gen. XIV, 14)</i>.
+Et cum caedem nocturni impetu descripsisset, adjecit: <i>Et reduxit omnem
+equitatum Sodomorum, et Lot fratrem suum revocavit (Ibid. 16)</i>. Sufficiebant
+haec ad ea quae diximus approbanda. Sed ne in aliquo cavilleris, et te quasi
+lubricus anguis evolvas, testimoniorum stringendus es vinculis, ne querulus
+sibiles, et dicas, te magis argumentationibus tortuosis, quam Scripturarum
+veritate superatum. Jacob, Isaac filius ac Rebeccae, cum fratris insidias
+metuens, Mesopotamiam perrexisset, accessit et devolvit lapidem ab ore putei,
+et adaquavit oves Laban fratris matris suae <i>(Genes. XXVIII et XXIX)</i>. <i>Et
+osculatus est Jacob Rachel, et exclamans voce sua, ploravit, et indicavit
+Rachel, quia frater est patris ejus, et quia filius Rebeccae est</i> <i>(Gen.
+XXIX, 11)</i>. Ecce et hic eadem lege qua supra, frater, sororis filius
+appellatur. Et iterum: <i>Dixit autem Laban ad Jacob: Quoniam frater meus es,
+non servies mihi gratis</i> <i>(Gen. XXIX, 19)</i>. Dic mihi, quae sit merces
+tua. Expletis itaque viginti annis, cum ignorante socero, uxoribus filiisque
+comitatus reverteretur ad patriam, consecutus est eum Laban in monte Galaad. Et
+cum idola quae Rachel occultabat quaesita non invenisset in sarcinis, respondit
+Jacob, et dixit ad Laban: <i>Quae culpa mea est, et quod delictum meum, quod
+persecutus es me? et quare scrutatus es omnia vasa mea? Quid invenisti de
+omnibus tuis? Pone hic in conspectu fratrum tuorum et fratrum meorum: et
+redarguent inter nos duos</i> <i>(Gen. XXXI, 36, 37)</i>. Responde, qui sint
+isti fratres Jacob et Laban, qui tunc fuerant in praesenti. Esau certe frater
+Jacob absens erat, et Laban filius Bathuel fratres, excepta sorore Rebecca, non
+habuit.</p>
+
+<p>15.&nbsp;Innumerabilia sunt istiusmodi, libris inserta divinis. Sed ne
+longum faciam, ad extremam divisionis partem revertar, id est, et affectu
+fratres dici, qui in duo scinditur, in spiritale et in commune. In spiritale,
+quia omnes Christiani fratres vocamur, ut ibi: <i>Ecce quam bonum et quam
+jucundum habitare fratres in unum</i> <i>(Ps. CXXXIII, 1)</i>. Et in alio
+psalmo Salvator: <i>Narrabo,</i> inquit, <i>nomen tuum fratribus meis</i> <i>(Ps.
+XI, 23)</i>. Et alibi: <i>Vade dic fratribus meis</i> <i>(Joan. XX, 17)</i>.
+Porro in commune, quia omnes ex uno patre nati, pari inter nos germanitate
+conjungimur. <i>Dicite,</i> ait, <i>his qui oderunt vos, fratres nostri estis</i>
+<i>(Isa. ult. cap. sec. LXX)</i>. Et Apostolus ad Corinthios: <i>Si quis frater
+nominatur fornicator, aut avarus, aut idolis serviens, aut maledicus, aut
+ebriosus, aut rapax, cum ejusmodi nec cibum sumere</i> <i>(I Cor. V, 11)</i>,
+et caetera his similia. Interrogo nunc, juxta quem modum fratres Domini in
+Evangelio intelligas appellari. Juxta naturam? Sed Scriptura non dicit, nec
+Mariae eos vocans filios, nec Joseph. Juxta gentem? Sed absurdum est, ut pauci
+ex Judaeis vocati sint fratres, quum omnes qui ibi erant hac lege Judaei,
+fratres potuerint appellari. Juxta affectum humani juris ac spiritus? Verum si
+sic, qui magis fratres quam Apostoli, quos docebat intrinsecus, quos matres
+vocabat et fratres? Aut si omnes quia homines, fratres, stultum fuit nuntiari
+quasi proprium <i>Ecce fratres tui quaerentes [Al.</i> quaerunt] <i>te;</i> cum
+generaliter omnes homines hoc jure sint fratres. Restat igitur, ut juxta superiorem
+expositionem fratres eos intelligas appellatos, cognatione, non affectu; non
+gentis privilegio, non natura. Quomodo Lot Abrahae, quomodo Jacob Laban est
+appellatus frater, quomodo et filiae Salphaad accipiunt Clerum inter fratres
+suos, quomodo et Abraham ipse Saram sororem suam habuit uxorem. Etenim ait, <i>Vere
+soror mea est de patre, sed non de matre</i> <i>(Genes. XX, 11)</i>, id est,
+fratris est filia, non sororis. Alioqui quale est, ut Abraham vir justus,
+patris sui filiam conjugem sumpserit, cum in primis hominibus propter aurium
+sanctitatem idipsum Scriptura non nominet, malens intelligi, quam proferri; et
+Deus lege postea sanciat, ac minetur: <i>Qui acceperit sororem suam de patre
+suo, vel de matre sua, et viderit turpitudinem ejus, et ipsa viderit
+turpitudinem illius, opprobrium est: et exterminabuntur coram filiis generis
+sui. Turpitudinem sororis suae detexit, peccatum suum recipiet</i> <i>(Levit.
+XVIII, 9)</i>.</p>
+
+<p>16.&nbsp;Imperitissime hominum, ista non legeras, et toto Scripturarum
+pelago derelicto, ad injuriam Virginis tuam rabiem contulisti, in exemplum ejus
+quem fabulae ferunt, cum vulgo esset ignotus, et nihil boni posset facinoris
+excogitare, quo nobilis fieret, Dianae incendisse templum; et nullo prodente
+sacrilegium, fertur ipse in medium processisse, clamitans sese incendium
+subjecisse: sciscitantibus Ephesi principibus, quam ob causam hoc facere
+voluisset, respondisse: Ut quia bene non poteram, male omnibus innotescerem. Et
+hoc quidem Graeca narrat historia. Tu vero templum Dominici corporis
+succendisti, tu contaminasti sanctuarium Spiritus Sancti, ex quo vis quadrigam
+fratrum, et sororum processisse congeriem. Denique cum Judaeis voce sociata,
+dicis: <i>Nonne hic est fabri filius? Nonne mater ejus dicitur Maria, et
+fratres ejus Jacobus, et Joses, et Simon, et Judas, et sorores omnes apud nos
+sunt</i> <i>(Matth. XIII, 55, et Marc. VI, 3)</i>? Omnes, nisi de turba, non
+dicitur. Quis, te oro, ante hanc blasphemiam noverat, quis dupondii supputabat?
+Consecutus es quod volebas, nobilis es factus in scelere. Ego ipse qui contra
+te scribo, cum in eadem tecum Urbe consistam albus, ut aiunt, aterve sis,
+nescio. Praetermitto vitia sermonis, quibus omnis liber tuus scatet. Taceo
+ridiculum exordium. O tempora! o mores! Non quaero eloquentiam; quam ipse non
+habens, in fratre Craterio requisisti. Non, inquam, flagito linguae nitorem,
+animae quaero puritatem. Apud Christianos enim soloecismus est magnus et
+vitium, turpe quid vel narrare, vel facere. Ad calcem venio, et te cornuta
+interrogatione concludo, sicque tecum agam, quasi superius nihil egerim: Eodem
+modo dictos esse fratres Domini, quo Joseph dictus est pater, <i>Ego,</i>
+inquit, <i>et pater tuus, dolentes quaerebamus te</i> <i>(Luc. I, 48)</i>.
+Mater haec loquitur, non Judaei. Et ipse Evangelista referens: <i>Et erant
+pater et mater illius admirantes super his quae dicebantur de eo</i> <i>(Ibid.,
+33)</i>, et his similia, quae jam enumeravimus, in quibus parentes vocantur. Ac
+ne forte de exemplariorum varietate causeris, quia tibi stultissime persuasisti
+Graecos codices esse falsatos, ad Joannis Evangelium venio, in quo planissime
+scribitur: <i>Invenit Philippus Nathanael, et ait illi: Quem scripsit Moyses in
+Lege, et Prophetae, invenimus Jesum filium Joseph a Nazareth</i> <i>(Joan. I,
+45)</i>. Certe hoc in tuo codice continetur. Responde mihi, quomodo Jesus sit
+filius Joseph, quem constat de Spiritu sancto esse procreatum? Vere Joseph
+pater fuit? Quamvis sis hebes, dicere non audebis? An putabatur? Eodem modo
+aestimentur et fratres, quo aestimatus est et pater.</p>
+
+<p>17.&nbsp;Sed quoniam jam e cautibus et confragosis locis enavigavit oratio,
+pandenda sunt vela, et in epilogos illius irruendum, in quibus sciolus sibi
+visus, Tertullianum in testimonium vocat, et Victorini Petabionensis episcopi
+verba proponit. Et de Tertulliano quidem nihil amplius dico, quam Ecclesiae
+hominem non fuisse. De Victorino vero id assero, quod et de Evangelistis,
+fratres eum dixisse Domini, non filios Mariae. Fratres autem eo sensu, quem
+superius exposuimus, propinquitate, non natura. Verum nugas terimus, et fonte
+veritatis omisso, opinionum rivulos consectamur. Numquid non possum tibi totam
+veterum Scriptorum seriem commovere: Ignatium, Polycarpum, Irenaeum, Justinum
+Martyrem, multosque alios apostolicos et eloquentes viros, qui adversus
+Ebionem, et Theodotum, Byzantium, Valentinum, haec eadem sentientes, plena
+sapientiae volumina conscripserunt? Quae si legisses aliquando, plus saperes.
+Sed melius puto breviter ad singula respondere, quam diutius immorando, volumen
+extendere.</p>
+
+<p>18.&nbsp;In illud nunc impetum facio, in quo tu virginitatem et nuptias
+comparando, disertus esse voluisti. Risimus in te proverbium, <i>Camelum
+vidimus saltitantem.</i> Dicis: &quot;Numquid meliores sunt virgines Abraham,
+Isaac, et Jacob, qui habuere conjugia? Numquid non quotidie Dei manibus,
+parvuli finguntur in ventribus, ut merito erubescere debeamus, Mariam nupsisse
+post partum? Quod si hoc illis turpe videtur, superest ut non credant, etiam
+Deum per genitalia virginis natum. Turpius est enim juxta eos, Deum per
+virginis pudenda genitum, quam virginem suo viro nupsisse post partum.&quot;
+Junge si libet et alias naturae contumelias, novem mensibus uterum
+insolescentem, fastidia, partum, sanguinem, pannos. Ipse tibi describatur
+infans, tegmine membranorum solito convolutus. Ingerantur dura praesepia,
+vagitus parvuli, octavae diei circumcisio, tempus purgationis, ut probetur immundus.
+Non erubescimus, non silemus. Quanto sunt humiliora quae pro me passus est,
+tanto plus illi debeo. Et cum omnia replicaveris, cruce nihil contumeliosius
+proferes: quam profitemur, et credimus, et in qua de hostibus triumphamus.</p>
+
+<p>19.&nbsp;Sed ut haec quae scripta sunt, non negamus, ita ea quae non sunt
+scripta, renuimus. Natum Deum esse de Virgine credimus, quia legimus. Mariam
+nupsisse post partum, non credimus, quia non legimus. Nec hoc ideo dicimus, quo
+nuptias condemnemus, ipsa quippe virginitas fructus est nuptiarum: sed quod
+nobis de sanctis viris temere aestimare nihil liceat. Possumus enim hac
+aestimatione possibilitatis contendere, plures quoque uxores habuisse Joseph,
+quia plures habuerit Abraham, plures habuerit Jacob; et de his esse uxoribus
+fratres Domini, quod plerique non tam pia quam audaci temeritate confingunt. Tu
+dicis Mariam virginem non permansisse: ego mihi plus vindico, etiam ipsum
+Joseph virginem fuisse per Mariam, ut ex virginali conjugio virgo filius
+nasceretur. Si enim in virum sanctum fornicatio non cadit, et aliam eum uxorem
+habuisse non scribitur: Mariae autem, quam putatus est habuisse, custos potius
+fuit, quam maritus: relinquitur, virginem eum mansisse cum Maria, qui pater
+Domini meruit appellari.</p>
+
+<p>20.&nbsp;Et quia de comparatione virginitatis et nuptiarum sum aliqua
+dicturus, obsecro lecturos ne me putent nuptiis detraxisse in virginum laude,
+et aliquam fecisse distantiam inter sanctos veteris Testamenti et novi, id est,
+inter eos qui habuere conjugia, et hos qui a complexu mulierum penitus
+recesserunt, verum pro conditione temporum alii eos tunc subjacuisse
+sententiae, et alii nos, in quos fines saeculorum decurrerunt. Quamdiu lex illa
+permansit: <i>Crescite, et multiplicamini, et replete terram</i> <i>(Gen. I,
+28)</i>; et, <i>Maledicta sterilis, quae non parit semen in Israel</i> <i>(Isai.
+ultimo sec. LXX)</i>, nubebant omnes, et nubebantur, et derelictis parentibus,
+fiebant una caro. Quando vero vox illa pertonuit: <i>Tempus breviatum est:
+reliquum est, ut et qui habent uxores, sic sint, quasi non habeant; adhaerentes
+Domino, unus cum eo efficimur spiritus</i> <i>(I Cor. VII, 29)</i>. Et quare? <i>Quia
+qui sine uxore est, cogitat ea quae Dei sunt, quomodo placeat Deo. Qui autem
+cum uxore est, sollicitus est, quae sunt hujus mundi, quomodo placeat uxori. Et
+divisa est mulier, et virgo: quae non est nupta, cogitat quae sunt Dei, ut sit
+sancta corpore et spiritu. Nam quae nupta est, cogitat, quae sunt mundi,
+quomodo placeat viro</i> <i>(Ibid., 32, 33 et seqq.)</i>. Quid oblatras? quid
+repugnas? Vas electionis haec loquitur, <i>Divisa est,</i> dicens, <i>mulier,
+et virgo.</i> Vide quantae felicitatis sit, quae et nomen sexus amiserit. Virgo
+jam mulier non vocatur. <i>Quae non est nupta, cogitat quae sunt Domini, ut sit
+sancta corpore et spiritu.</i> Virginis definitio, sanctam esse corpore et
+spiritu; quia nihil prosit carnem habere virginem, si mente quis nupserit. <i>Quae
+vero nupta est, cogitat quae sunt mundi, quomodo placeat viro.</i> Idem tu
+putas esse diebus et noctibus vacare orationi, vacare jejuniis; et ad adventum
+mariti expolire faciem, gressum frangere, simulare blanditias? Illa hoc agit,
+ut turpior appareat, et naturae bonum infuscet injuria. Haec ad speculum
+pingitur, et in contumeliam artificis conatur pulchrior esse quam nata est.
+Inde infantes garriunt, familia perstrepit, liberi ab osculis et ab ore dependent,
+computantur sumptus, impendia praeparantur. Hinc cocorum accincta manus carnes
+terit, hinc textricum turba commurmurat: nuntiatur interim vir venisse cum
+sociis. Illa ad hirundinis modum lustrat universa penetralia, si torus rigeat,
+si pavimenta verrerint, si ornata sint pocula, si prandium praeparatum.
+Responde, quaeso, inter ista ubi sit Dei cogitatio? Et hae felices domus?
+Caeterum ubi tympana sonant, tibia clamitat, lyra garrit, cymbalum concrepat,
+quis ibi Dei timor? Parasitus in contumeliis gloriatur: ingrediuntur expositae
+libidinum victimae, et tenuitate vestium nudae impudicis oculis ingeruntur. His
+infelix uxor, aut laetatur, et perit: aut offenditur, et maritus in jurgia
+concitatur. Hinc discordia, seminarium repudii. Aut si aliqua invenitur domus,
+in qua ista non fiant, quae rara avis est; tamen ipsa dispensatio domus,
+liberorum educatio, necessitates mariti, correctio servulorum, quam a Dei
+cogitatione non avocent? <i>Defecerunt,</i> inquit Scriptura, <i>Sarae
+muliebria</i> <i>(Gen. XVIII, 11)</i>: post quod dicitur ad Abraham: <i>Omnia
+quaecumque dicit tibi Sara, audi vocem ejus</i> <i>(Gen. XXI, 12)</i>. Quae non
+est in partus anxietatibus et dolore, quae deficientibus menstrui cruoris
+officiis, mulier esse desiit, a Dei maledictione fit libera: nec est ad virum
+conversio ejus, sed e contrario vir subjicitur ei, et Domini ei voce
+praecipitur: <i>Omnia quaecumque tibi dicit Sara, audi vocem ejus</i> <i>(Genes.
+III)</i>: et sic incipiunt vacare orationi. Quia quamdiu in conjugio debitum
+solvitur, orandi praeteritur instantia.</p>
+
+<p>21.&nbsp;Non negamus viduas, non negamus maritatas [<i>Al.</i> maritas],
+sanctas mulieres inveniri; sed quae uxores esse desierint, quae in ipsa
+necessitate conjugii virginum imitentur castitatem. Hoc est, quod Apostolus
+breviter, Christo in se loquente, testatus est: <i>Innupta cogitat quae Dei
+sunt, quomodo placeat Deo: nupta vero cogitat quae sunt mundi, quomodo placeat
+viro</i> <i>(I Cor. VII, 34)</i>: nobis super hoc campum intelligentiae
+derelinquens. Neque tamen alicui necessitatem imponit aut laqueum, sed id quod
+honestum est, suadet, volens omnes esse sicut seipsum. Et quamquam de
+virginitate praeceptum Domini non habeat: quia ultra homines est; et quodammodo
+impudentis erat, adversum naturam cogere, alioque modo dicere, Volo vos esse,
+quod Angeli sunt: unde et virgo majoris est mercedis, dum id contemnit, quod si
+fecerit, non delinquit; nihilominus in cohaerentibus infert: <i>Consilium autem
+do, tamquam misericordiam consecutus a Domino, ut sim fidelis. Existimo ergo
+hoc bonum esse propter instantem necessitatem; quia bonum est homini sic esse.</i>
+Quae est ista necessitas? <i>Vae praegnantibus et nutrientibus in illa die</i> <i>(Matt.
+XXIV, 19, et Marc. XIII, 17)</i>. Ideo silva succrescit, ut postea recidatur.
+Ideo ager seritur, ut metatur. Jam plenus est orbis, terra nos non capit.
+Quotidie bella nos secant, morbi subtrahunt, naufragia absorbent, et
+nihilominus de terminis litigamus? De hoc numero sunt illi, qui Agnum sequuntur
+<i>(Apoc. II)</i>, qui vestimenta sua non coinquinaverunt, virgines enim
+permanserunt. Observa quid significet, <i>coinquinaverunt.</i> Ego non audeo
+exponere, ne Helvidius calumnietur. Quod autem ais quasdam esse virgines
+tabernarias; ego tibi plus dico, esse in his et adulteras, et, quo magis
+mireris, clericos esse caupones, et monachos impudicos. Sed quis non statim
+intelligat, nec tabernariam virginem, nec adulterum monachum, nec clericum
+posse esse cauponem? Numquid virginitatis [<i>Al.</i> virginitas] est culpa, si
+simulator virginitatis in crimine est? Ego certe, ut aliis personis
+praetermissis ad Virginem veniam: quae institorias exercet artes, nescio an
+corpore, quod scio, spiritu virgo non permanet.</p>
+
+<p>22.&nbsp;Rhetoricati sumus, et in morem declamatorum, paululum lusimus. Tu
+nos, Helvidi, coegisti, qui jam Evangelio coruscante, ejusdem vis esse gloriae
+virgines et maritatas [<i>Al.</i> maritas]. Et quia arbitror te veritate
+superatum, ad detractionem vitae meae et ad maledicta converti (solent enim hoc
+et mulierculae facere, quae victoribus dominis male optant in angulis), illud
+dico praeveniens, gloriae mihi fore tua convicia, cum eodem quo Mariae
+detraxisti, ore me laceres, et caninam facundiam servus Domini pariter
+experiatur et mater.</p>
+
+</td></tr>
+</table>
+
+</body>
+</html>
