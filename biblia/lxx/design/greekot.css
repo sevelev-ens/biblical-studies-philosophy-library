@@ -1,0 +1,9 @@
+SPAN.sc {
+	FONT-VARIANT: small-caps
+}
+P.noindent {
+	TEXT-INDENT: 0in
+}
+P.center {
+	MARGIN-LEFT: -0.25in; TEXT-ALIGN: center
+}

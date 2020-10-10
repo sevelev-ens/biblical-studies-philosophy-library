@@ -1,0 +1,464 @@
+BODY {
+     MARGIN: 0pt 0.75in; FONT-FAMILY: Times New Roman
+}
+P {
+     MARGIN-TOP: 0pt; MARGIN-BOTTOM: 0pt; TEXT-INDENT: 0.25in
+}
+H1 {
+     FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+H2 {
+     FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+H3 {
+     FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+H4 {
+     FONT-WEIGHT: bold; TEXT-ALIGN: center
+}
+H5 {
+     FONT-WEIGHT: normal; FONT-STYLE: italic; TEXT-ALIGN: left
+}
+H6 {
+     FONT-WEIGHT: normal; FONT-STYLE: italic; TEXT-ALIGN: left
+}
+H1 {
+     MARGIN-TOP: 18pt; FONT-SIZE: x-large; MARGIN-BOTTOM: 12pt
+}
+H2 {
+     MARGIN-TOP: 12pt; FONT-SIZE: large; MARGIN-BOTTOM: 12pt
+}
+H3 {
+     MARGIN-TOP: 9pt; FONT-SIZE: medium; MARGIN-BOTTOM: 9pt
+}
+H4 {
+     MARGIN-TOP: 6pt; FONT-SIZE: small; MARGIN-BOTTOM: 6pt
+}
+H5 {
+     MARGIN-TOP: 6pt; MARGIN-BOTTOM: 6pt
+}
+H6 {
+     MARGIN-TOP: 6pt; MARGIN-BOTTOM: 6pt
+}
+I {
+     FONT-STYLE: italic
+}
+EM {
+     FONT-STYLE: italic
+}
+CITE {
+     FONT-STYLE: italic
+}
+ADDRESS {
+     FONT-STYLE: italic
+}
+B {
+     FONT-WEIGHT: bold
+}
+STRONG {
+     FONT-WEIGHT: bold
+}
+SUB {
+     VERTICAL-ALIGN: sub
+}
+SUP {
+     VERTICAL-ALIGN: super
+}
+CODE {
+     FONT-FAMILY: courier; WHITE-SPACE: pre
+}
+TT {
+     FONT-FAMILY: courier; WHITE-SPACE: pre
+}
+PRE {
+     FONT-FAMILY: courier; WHITE-SPACE: pre
+}
+BIG {
+     FONT-SIZE: larger
+}
+SMALL {
+     FONT-SIZE: smaller
+}
+BLOCKQUOTE {
+     MARGIN: 12pt 0.5in
+}
+.blockquote {
+     MARGIN-TOP: 12pt; MARGIN-LEFT: 0.5in; TEXT-INDENT: 0in; MARGIN-RIGHT: 0.5in
+}
+A.TOC {
+     TEXT-DECORATION: none
+}
+A.TOC:hover {
+     TEXT-DECORATION: underline
+}
+A.Note {
+     TEXT-DECORATION: none
+}
+A.Note:hover {
+     TEXT-DECORATION: underline
+}
+A.scripRef {
+     TEXT-DECORATION: none
+}
+A.scripRef:link {
+     COLOR: #e00000
+}
+A.scripRef:hover {
+     TEXT-DECORATION: underline
+}
+A.scripRef:visited {
+     COLOR: #800000
+}
+P.First {
+     TEXT-INDENT: 0in
+}
+P.First:first-letter {
+     MARGIN-TOP: -10px; FONT-SIZE: 270%; FLOAT: left
+}
+P.dropcap {
+     TEXT-INDENT: 0in
+}
+P.dropcap:first-letter {
+     FONT-SIZE: 200%; FLOAT: left
+}
+P.smallcap {
+     TEXT-INDENT: 0in
+}
+P.smallcap:unknown {
+     FONT-VARIANT: small-caps
+}
+P.smallcap:first-letter {
+     FONT-SIZE: 200%
+}
+.sc {
+     FONT-VARIANT: small-caps
+}
+P.indent {
+     
+}
+P.Normal {
+     
+}
+P.Continue {
+     TEXT-INDENT: 0in
+}
+P.ChapterSummary {
+     FONT-STYLE: italic; TEXT-ALIGN: center
+}
+P.Attribution {
+     TEXT-ALIGN: right
+}
+P.Argument {
+     FONT-STYLE: italic; TEXT-ALIGN: center
+}
+P.meter {
+     MARGIN-TOP: -12pt; TEXT-ALIGN: right
+}
+P.SectionInfo {
+     MARGIN-LEFT: 1in; TEXT-INDENT: -0.5in; MARGIN-RIGHT: 0.5in; FONT-STYLE: italic
+}
+P.footnote {
+     TEXT-INDENT: 0.25in
+}
+P.endnote {
+     TEXT-INDENT: 0.35in
+}
+.pagebreak {
+     PAGE-BREAK-BEFORE: always
+}
+SUP.Note {
+     FONT-SIZE: 75%
+}
+SUP.NoteRef {
+     FONT-SIZE: 85%
+}
+DIV.Note {
+     FONT-SIZE: 88%; TEXT-INDENT: 0.35in
+}
+P.noteMark {
+     MARGIN-BOTTOM: -12pt; TEXT-INDENT: 0in
+}
+P.pages {
+     FONT-SIZE: smaller; TEXT-INDENT: 0in
+}
+.List1 {
+     TEXT-INDENT: -0.25in; MARGIN-RIGHT: 0.25in
+}
+.List2 {
+     TEXT-INDENT: -0.25in; MARGIN-RIGHT: 0.25in
+}
+.List3 {
+     TEXT-INDENT: -0.25in; MARGIN-RIGHT: 0.25in
+}
+.List4 {
+     TEXT-INDENT: -0.25in; MARGIN-RIGHT: 0.25in
+}
+.List5 {
+     TEXT-INDENT: -0.25in; MARGIN-RIGHT: 0.25in
+}
+.List6 {
+     TEXT-INDENT: -0.25in; MARGIN-RIGHT: 0.25in
+}
+.List7 {
+     TEXT-INDENT: -0.25in; MARGIN-RIGHT: 0.25in
+}
+.List1 {
+     MARGIN-LEFT: 0.5in
+}
+.List2 {
+     MARGIN-LEFT: 0.75in
+}
+.List3 {
+     MARGIN-LEFT: 1in
+}
+.List4 {
+     MARGIN-LEFT: 1.25in
+}
+.List5 {
+     MARGIN-LEFT: 1.5in
+}
+.List6 {
+     MARGIN-LEFT: 1.75in
+}
+.List7 {
+     MARGIN-LEFT: 2in
+}
+.ListCont1 {
+     TEXT-INDENT: 0in; MARGIN-RIGHT: 0.5in
+}
+.ListCont2 {
+     TEXT-INDENT: 0in; MARGIN-RIGHT: 0.5in
+}
+.ListCont3 {
+     TEXT-INDENT: 0in; MARGIN-RIGHT: 0.5in
+}
+.ListCont4 {
+     TEXT-INDENT: 0in; MARGIN-RIGHT: 0.5in
+}
+.ListCont5 {
+     TEXT-INDENT: 0in; MARGIN-RIGHT: 0.5in
+}
+.ListCont6 {
+     TEXT-INDENT: 0in; MARGIN-RIGHT: 0.5in
+}
+.ListCont1 {
+     MARGIN-LEFT: 0.5in
+}
+.ListCont2 {
+     MARGIN-LEFT: 0.75in
+}
+.ListCont3 {
+     MARGIN-LEFT: 1in
+}
+.ListCont4 {
+     MARGIN-LEFT: 1.25in
+}
+.ListCont5 {
+     MARGIN-LEFT: 1.5in
+}
+.ListCont6 {
+     MARGIN-LEFT: 1.75in
+}
+LI.wwec {
+     FONT-SIZE: 83%; MARGIN-LEFT: 16pt; TEXT-INDENT: -16pt; font-face: Arial
+}
+DIV.Verse {
+     MARGIN-TOP: 12pt; MARGIN-LEFT: 1.25in; MARGIN-RIGHT: 0.5in
+}
+.t0 {
+     MARGIN-LEFT: 5em; TEXT-INDENT: -5em
+}
+.t1 {
+     MARGIN-LEFT: 5em; TEXT-INDENT: -4em
+}
+.t {
+     MARGIN-LEFT: 5em; TEXT-INDENT: -4em
+}
+.t2 {
+     MARGIN-LEFT: 5em; TEXT-INDENT: -3em
+}
+.t3 {
+     MARGIN-LEFT: 5em; TEXT-INDENT: -2em
+}
+.t4 {
+     MARGIN-LEFT: 5em; TEXT-INDENT: -1em
+}
+.t5 {
+     MARGIN-LEFT: 5em
+}
+.TOC1 {
+     TEXT-INDENT: -0.3in; TEXT-ALIGN: left
+}
+.TOC2 {
+     TEXT-INDENT: -0.3in; TEXT-ALIGN: left
+}
+.TOC3 {
+     TEXT-INDENT: -0.3in; TEXT-ALIGN: left
+}
+.TOC4 {
+     TEXT-INDENT: -0.3in; TEXT-ALIGN: left
+}
+.TOC1 {
+     MARGIN-TOP: 4pt; FONT-WEIGHT: bold; FONT-SIZE: 110%; MARGIN-LEFT: 0.3in
+}
+.TOC2 {
+     MARGIN-TOP: 3pt; FONT-SIZE: 100%; MARGIN-LEFT: 0.6in
+}
+.TOC3 {
+     MARGIN-TOP: 2pt; FONT-SIZE: 90%; MARGIN-LEFT: 0.9in
+}
+.TOC4 {
+     MARGIN-TOP: 1pt; FONT-SIZE: 90%; MARGIN-LEFT: 1.2in
+}
+.TOC5 {
+     MARGIN-TOP: 0pt; FONT-SIZE: 90%; MARGIN-LEFT: 1.5in
+}
+.TOC6 {
+     MARGIN-TOP: 0pt; FONT-SIZE: 90%; MARGIN-LEFT: 1.8in
+}
+.editbox {
+     FONT-SIZE: 83%; FONT-FAMILY: Arial,sans-serif
+}
+.Center {
+     TEXT-INDENT: 0in; TEXT-ALIGN: center
+}
+.Centered {
+     TEXT-INDENT: 0in; TEXT-ALIGN: center
+}
+SPAN.Italic {
+     FONT-STYLE: italic
+}
+SPAN.Bold {
+     FONT-WEIGHT: bold
+}
+SPAN.Sub {
+     VERTICAL-ALIGN: sub
+}
+SPAN.Super {
+     VERTICAL-ALIGN: super
+}
+.left {
+     TEXT-ALIGN: left
+}
+UL.Index1 {
+     FONT-WEIGHT: bold
+}
+UL.Index2 {
+     FONT-WEIGHT: normal
+}
+P.index1 {
+     MARGIN-TOP: 0in; TEXT-INDENT: -2em
+}
+P.index2 {
+     MARGIN-TOP: 0in; TEXT-INDENT: -2em
+}
+P.index3 {
+     MARGIN-TOP: 0in; TEXT-INDENT: -2em
+}
+P.index4 {
+     MARGIN-TOP: 0in; TEXT-INDENT: -2em
+}
+P.index1 {
+     MARGIN-LEFT: 2em
+}
+P.index2 {
+     MARGIN-LEFT: 3em
+}
+P.index3 {
+     MARGIN-LEFT: 4em
+}
+P.index4 {
+     MARGIN-LEFT: 5em
+}
+P.bbook {
+     FONT-WEIGHT: bold; TEXT-INDENT: 0in; TEXT-ALIGN: center
+}
+P.bref {
+     TEXT-INDENT: 0in; TEXT-ALIGN: center
+}
+P.by {
+     MARGIN-TOP: 12pt; FONT-SIZE: medium; TEXT-INDENT: 0in; TEXT-ALIGN: center
+}
+.whitehead {
+     MARGIN-TOP: 0pt; FONT-WEIGHT: bold; FONT-SIZE: 83%; COLOR: #ffffff; FONT-FAMILY: arial,sans-serif
+}
+TABLE.marg {
+     PADDING-LEFT: 1pt; LEFT: 0.1in; POSITION: absolute
+}
+SPAN.pb {
+     PADDING-LEFT: 1pt; FONT-SIZE: 8pt; LEFT: 0.1in; COLOR: #ffffff; TEXT-INDENT: 0in; FONT-FAMILY: arial,sans-serif; POSITION: absolute; BACKGROUND-COLOR: #660000
+}
+TD P {
+     TEXT-INDENT: 0in
+}
+P.thin {
+     MARGIN-TOP: 0pt; FONT-SIZE: 1pt
+}
+.page {
+     FONT-SIZE: 8pt; COLOR: #ffffff; TEXT-INDENT: 0in; FONT-FAMILY: arial,sans-serif
+}
+.chap {
+     DISPLAY: none; FONT-SIZE: 200%; FLOAT: left; MARGIN-LEFT: -0.3in; POSITION: absolute
+}
+SPAN.Note {
+     COLOR: blue
+}
+HR.W30 {
+     WIDTH: 30%
+}
+HR.Note {
+     WIDTH: 30%; TEXT-ALIGN: left
+}
+IMG.page {
+     MARGIN-LEFT: -0.5in
+}
+P.bib {
+     MARGIN-LEFT: 0.5in; TEXT-INDENT: -0.25in
+}
+.mnote {
+     CLEAR: right; PADDING-RIGHT: 6pt; MARGIN-TOP: 0pt; DISPLAY: inline; PADDING-LEFT: 6pt; FONT-SIZE: smaller; FLOAT: right; PADDING-BOTTOM: 6pt; WIDTH: 33%; TEXT-INDENT: 0in; PADDING-TOP: 6pt; BACKGROUND-COLOR: #ffffb0
+}
+.argument {
+     MARGIN-BOTTOM: 12pt; TEXT-INDENT: 0in; FONT-STYLE: italic; TEXT-ALIGN: center
+}
+.attr {
+     TEXT-ALIGN: right
+}
+.author {
+     
+}
+.composer {
+     
+}
+.incipit {
+     
+}
+.l {
+     
+}
+.meter {
+     MARGIN-TOP: -12pt; TEXT-ALIGN: right
+}
+.music {
+     
+}
+.tune {
+     
+}
+SPAN.foreign {
+     COLOR: #003300
+}
+SPAN.unclear {
+     COLOR: #808080
+}
+SPAN.Greek {
+     FONT-FAMILY: 'Gentium', 'GentiumAlt', 'Palatino Linotype','Code2000'
+            'Arial Unicode MS','Vusillus Old Face'
+}
+SPAN.Hebrew {
+     FONT-FAMILY: 'Ezra SIL','Arial Unicode MS','Lucida Sans Unicode',
+            'Times New Roman','Code2000'
+}
+.navbarfixed {
+     FONT-SIZE: 83%; Z-INDEX: 1; BACKGROUND: #660000; LEFT: 0px; WIDTH: 100%; COLOR: white; BORDER-BOTTOM: #fff0e6 4pt solid; FONT-FAMILY: Arial, sans-serif; POSITION: fixed; TOP: 0px; HEIGHT: 24pt
+}
