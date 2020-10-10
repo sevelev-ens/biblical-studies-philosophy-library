@@ -1,0 +1,632 @@
+    271 ascii with confidence 1.0
+      1 ./books/eusebius/he/01.html: windows-1251 with confidence 0.9771993439186858
+      1 ./books/eusebius/he/02.html: windows-1251 with confidence 0.983017777920217
+      1 ./books/eusebius/he/03.html: windows-1251 with confidence 0.9851725077528181
+      1 ./books/eusebius/he/04.html: windows-1251 with confidence 0.9823622437759852
+      1 ./books/eusebius/he/05.html: windows-1251 with confidence 0.9880466577076251
+      1 ./books/eusebius/he/06.html: windows-1251 with confidence 0.9846674279542995
+      1 ./books/eusebius/he/07.html: windows-1251 with confidence 0.9879008976067499
+      1 ./books/eusebius/he/08.html: windows-1251 with confidence 0.9992656094692278
+      1 ./books/eusebius/he/09.html: windows-1251 with confidence 0.99
+      1 ./books/eusebius/he/0.html: windows-1251 with confidence 0.7406175396008198
+      1 ./books/eusebius/he/10.html: windows-1251 with confidence 0.996092591984066
+      1 ./books/eusebius/he/11.html: windows-1251 with confidence 0.9567867226007808
+      1 ./books/eusebius/he/index.html: windows-1251 with confidence 0.9077854985392906
+      1 ./books/eusebius/he/nav.html: windows-1251 with confidence 0.8796014114296088
+      1 ./books/eusebius/he/title.html: windows-1251 with confidence 0.9102127324926041
+      1 ./books/eusebius/vc/01.html: windows-1251 with confidence 0.9953349579733106
+      1 ./books/eusebius/vc/02.html: windows-1251 with confidence 0.9999628294790488
+      1 ./books/eusebius/vc/03.html: windows-1251 with confidence 0.9946980929741444
+      1 ./books/eusebius/vc/04.html: windows-1251 with confidence 0.99
+      1 ./books/eusebius/vc/0.html: windows-1251 with confidence 0.9180439331503091
+      1 ./books/eusebius/vc/index.html: windows-1251 with confidence 0.8842066544213869
+      1 ./books/eusebius/vc/nav.html: windows-1251 with confidence 0.8752752740736962
+      1 ./books/eusebius/vc/title.html: windows-1251 with confidence 0.8842066544213869
+      1 ./books/feyerab/liber/00.html: MacCyrillic with confidence 0.9971109044919759
+      1 ./books/feyerab/liber/01.html: windows-1251 with confidence 0.9931383482149906
+      1 ./books/feyerab/liber/02.html: windows-1251 with confidence 0.9914062739770361
+      1 ./books/feyerab/liber/03.html: windows-1251 with confidence 0.6833936040848169
+      1 ./books/feyerab/liber/0.html: windows-1251 with confidence 0.5841445568366191
+      1 ./books/feyerab/liber/index.html: windows-1251 with confidence 0.9293463334759322
+      1 ./books/feyerab/liber/nav.html: windows-1251 with confidence 0.8950165667187255
+      1 ./books/feyerab/liber/title.html: windows-1251 with confidence 0.9149616684882178
+      1 ./books/feyerab/metod/00.html: windows-1251 with confidence 0.5688120689657832
+      1 ./books/feyerab/metod/01.html: windows-1251 with confidence 0.9963772548434602
+      1 ./books/feyerab/metod/02.html: windows-1251 with confidence 0.9960131748584433
+      1 ./books/feyerab/metod/03.html: windows-1251 with confidence 0.9874047623689456
+      1 ./books/feyerab/metod/04.html: windows-1251 with confidence 0.9949114852185257
+      1 ./books/feyerab/metod/05.html: windows-1251 with confidence 0.9872345752673617
+      1 ./books/feyerab/metod/06.html: windows-1251 with confidence 0.9883170186733351
+      1 ./books/feyerab/metod/07.html: windows-1251 with confidence 0.9876998858118606
+      1 ./books/feyerab/metod/08.html: MacCyrillic with confidence 0.9962404808344486
+      1 ./books/feyerab/metod/09.html: windows-1251 with confidence 0.9921696643420017
+      1 ./books/feyerab/metod/10.html: windows-1251 with confidence 0.9902472796020587
+      1 ./books/feyerab/metod/11.html: windows-1251 with confidence 0.9876266547497414
+      1 ./books/feyerab/metod/12.html: MacCyrillic with confidence 0.981954002926616
+      1 ./books/feyerab/metod/13.html: windows-1251 with confidence 0.9755813089456977
+      1 ./books/feyerab/metod/14.html: windows-1251 with confidence 0.9877760161380723
+      1 ./books/feyerab/metod/15.html: MacCyrillic with confidence 0.9904568916792866
+      1 ./books/feyerab/metod/16.html: windows-1251 with confidence 0.9946162241443804
+      1 ./books/feyerab/metod/17.html: MacCyrillic with confidence 0.9911535251615038
+      1 ./books/feyerab/metod/18.html: MacCyrillic with confidence 0.9878351517624052
+      1 ./books/feyerab/metod/19.html: windows-1251 with confidence 0.9963405536184936
+      1 ./books/feyerab/metod/20.html: MacCyrillic with confidence 0.9972509509983627
+      1 ./books/feyerab/metod/21.html: windows-1251 with confidence 0.9902220153566315
+      1 ./books/feyerab/metod/22.html: MacCyrillic with confidence 0.9993438916789285
+      1 ./books/feyerab/metod/23.html: windows-1251 with confidence 0.99
+      1 ./books/feyerab/metod/24.html: windows-1251 with confidence 0.9876550763966269
+      1 ./books/feyerab/metod/25.html: windows-1251 with confidence 0.9939960866698663
+      1 ./books/feyerab/metod/26.html: windows-1251 with confidence 0.9952133291999969
+      1 ./books/feyerab/metod/27.html: windows-1251 with confidence 0.6888264312786216
+      1 ./books/feyerab/metod/index.html: windows-1251 with confidence 0.9322376331800795
+      1 ./books/feyerab/metod/nav.html: windows-1251 with confidence 0.9594686006451066
+      1 ./books/feyerab/metod/title.html: windows-1251 with confidence 0.9259801971499563
+      1 ./books/flavius/00.html: windows-1251 with confidence 0.7064042293475212
+      1 ./books/flavius/01.html: windows-1251 with confidence 0.9769502085561927
+      1 ./books/flavius/02.html: windows-1251 with confidence 0.9869801511518318
+      1 ./books/flavius/03.html: windows-1251 with confidence 0.9969705463698126
+      1 ./books/flavius/aj/000.html: windows-1251 with confidence 0.99
+      1 ./books/flavius/aj/00.html: windows-1251 with confidence 0.979230274268554
+      1 ./books/flavius/aj/01.html: windows-1251 with confidence 0.9848084871911842
+      1 ./books/flavius/aj/02.html: windows-1251 with confidence 0.9928205391683295
+      1 ./books/flavius/aj/03.html: MacCyrillic with confidence 0.9957266314177204
+      1 ./books/flavius/aj/04.html: MacCyrillic with confidence 0.9915971776980312
+      1 ./books/flavius/aj/05.html: windows-1251 with confidence 0.9926391080522231
+      1 ./books/flavius/aj/06.html: windows-1251 with confidence 0.996814096011703
+      1 ./books/flavius/aj/07.html: windows-1251 with confidence 0.9926958088034019
+      1 ./books/flavius/aj/08.html: MacCyrillic with confidence 0.9941235382920048
+      1 ./books/flavius/aj/09.html: windows-1251 with confidence 0.9906657027131456
+      1 ./books/flavius/aj/0.html: windows-1251 with confidence 0.7378622660159954
+      1 ./books/flavius/aj/10.html: windows-1251 with confidence 0.9945790272057028
+      1 ./books/flavius/aj/11.html: windows-1251 with confidence 0.9941164841808189
+      1 ./books/flavius/aj/12.html: windows-1251 with confidence 0.9911592692531286
+      1 ./books/flavius/aj/13.html: MacCyrillic with confidence 0.993093752103148
+      1 ./books/flavius/aj/14.html: MacCyrillic with confidence 0.9880158129020212
+      1 ./books/flavius/aj/15.html: windows-1251 with confidence 0.9926201273235659
+      1 ./books/flavius/aj/16.html: windows-1251 with confidence 0.9956496537763814
+      1 ./books/flavius/aj/17.html: MacCyrillic with confidence 0.9983892483424504
+      1 ./books/flavius/aj/18.html: windows-1251 with confidence 0.9848687074120603
+      1 ./books/flavius/aj/19.html: windows-1251 with confidence 0.9940915252173155
+      1 ./books/flavius/aj/20.html: windows-1251 with confidence 0.9861718144022723
+      1 ./books/flavius/aj/21.html: MacCyrillic with confidence 0.880894723187624
+      1 ./books/flavius/aj/index.html: windows-1251 with confidence 0.8927086414831311
+      1 ./books/flavius/aj/nav.html: windows-1251 with confidence 0.8720526110616428
+      1 ./books/flavius/aj/title.html: windows-1251 with confidence 0.8927086414831311
+      1 ./books/flavius/bj/00.html: windows-1251 with confidence 0.9993949918453463
+      1 ./books/flavius/bj/01.html: windows-1251 with confidence 0.9888236151542765
+      1 ./books/flavius/bj/02.html: MacCyrillic with confidence 0.9926243556784303
+      1 ./books/flavius/bj/03.html: windows-1251 with confidence 0.9971669858309292
+      1 ./books/flavius/bj/04.html: windows-1251 with confidence 0.9968447337010289
+      1 ./books/flavius/bj/05.html: windows-1251 with confidence 0.9981532665992604
+      1 ./books/flavius/bj/06.html: MacCyrillic with confidence 0.9982484069247288
+      1 ./books/flavius/bj/07.html: windows-1251 with confidence 0.9961441012160612
+      1 ./books/flavius/bj/0.html: windows-1251 with confidence 0.7333849464406555
+      1 ./books/flavius/bj/index.html: windows-1251 with confidence 0.8842066544213868
+      1 ./books/flavius/bj/nav.html: windows-1251 with confidence 0.8735855534673763
+      1 ./books/flavius/bj/title.html: windows-1251 with confidence 0.8842066544213868
+      1 ./books/flavius/index.html: windows-1251 with confidence 0.9160996805137006
+      1 ./books/flavius/jos_oo_n/index.html: ascii with confidence 1.0
+      1 ./books/flavius/nav.html: windows-1251 with confidence 0.9136802095687664
+      1 ./books/flavius/title.html: windows-1251 with confidence 0.9160996805137006
+      1 ./books/hieronym/index.html: windows-1251 with confidence 0.9361892396698734
+      1 ./books/irenaeus/ah/00.html: MacCyrillic with confidence 0.9843784913322254
+      1 ./books/irenaeus/ah/01.html: windows-1251 with confidence 0.9835479830999766
+      1 ./books/irenaeus/ah/02.html: windows-1251 with confidence 0.9901874082672057
+      1 ./books/irenaeus/ah/03.html: MacCyrillic with confidence 0.9861639037726488
+      1 ./books/irenaeus/ah/04.html: MacCyrillic with confidence 0.9848413225388248
+      1 ./books/irenaeus/ah/05.html: MacCyrillic with confidence 0.9901634662454755
+      1 ./books/irenaeus/ah/0.html: windows-1251 with confidence 0.7575624721474904
+      1 ./books/irenaeus/ah/index.html: windows-1251 with confidence 0.9192247397450062
+      1 ./books/irenaeus/ah/nav.html: windows-1251 with confidence 0.9043022602036912
+      1 ./books/irenaeus/ah/preface.html: Windows-1252 with confidence 0.73
+      1 ./books/irenaeus/ah/title.html: windows-1251 with confidence 0.9192247397450062
+      1 ./books/metaphys/01.html: MacCyrillic with confidence 0.9918627554245739
+      1 ./books/metaphys/02.html: windows-1251 with confidence 0.99
+      1 ./books/metaphys/03.html: windows-1251 with confidence 0.99
+      1 ./books/metaphys/04.html: windows-1251 with confidence 0.99
+      1 ./books/metaphys/05.html: MacCyrillic with confidence 0.9923593396124287
+      1 ./books/metaphys/06.html: windows-1251 with confidence 0.99
+      1 ./books/metaphys/07.html: MacCyrillic with confidence 0.9932566731560328
+      1 ./books/metaphys/08.html: windows-1251 with confidence 0.99
+      1 ./books/metaphys/09.html: windows-1251 with confidence 0.99
+      1 ./books/metaphys/10.html: MacCyrillic with confidence 0.9916841552942467
+      1 ./books/metaphys/11.html: windows-1251 with confidence 0.99
+      1 ./books/metaphys/12.html: windows-1251 with confidence 0.99
+      1 ./books/metaphys/13.html: windows-1251 with confidence 0.99
+      1 ./books/metaphys/14.html: MacCyrillic with confidence 0.9930179300855703
+      1 ./books/metaphys/index.html: windows-1251 with confidence 0.9224655961992354
+      1 ./books/metaphys/nav.html: windows-1251 with confidence 0.8700653022042097
+      1 ./books/metaphys/t.html: windows-1251 with confidence 0.787075670666706
+      1 ./books/metaphys/title.html: windows-1251 with confidence 0.9224655961992354
+      1 ./books/renan/01/0000.html: MacCyrillic with confidence 0.987112045010963
+      1 ./books/renan/01/000.html: windows-1251 with confidence 0.9945286568315453
+      1 ./books/renan/01/00.html: windows-1251 with confidence 0.9866330241619214
+      1 ./books/renan/01/01.html: windows-1251 with confidence 0.9872167640867735
+      1 ./books/renan/01/02.html: windows-1251 with confidence 0.9821188955834298
+      1 ./books/renan/01/03.html: windows-1251 with confidence 0.9818851556512269
+      1 ./books/renan/01/04.html: windows-1251 with confidence 0.9839684239572989
+      1 ./books/renan/01/05.html: windows-1251 with confidence 0.9784053096743187
+      1 ./books/renan/01/06.html: windows-1251 with confidence 0.9788313141713212
+      1 ./books/renan/01/07.html: windows-1251 with confidence 0.9903446792854124
+      1 ./books/renan/01/08.html: windows-1251 with confidence 0.9779100094770882
+      1 ./books/renan/01/09.html: MacCyrillic with confidence 0.9797420123799078
+      1 ./books/renan/01/0.html: MacCyrillic with confidence 0.8284082332747037
+      1 ./books/renan/01/10.html: windows-1251 with confidence 0.9814907286238455
+      1 ./books/renan/01/11.html: windows-1251 with confidence 0.984501101260095
+      1 ./books/renan/01/12.html: windows-1251 with confidence 0.9772779469355686
+      1 ./books/renan/01/13.html: windows-1251 with confidence 0.9836260535988425
+      1 ./books/renan/01/14.html: windows-1251 with confidence 0.976255571401529
+      1 ./books/renan/01/15.html: windows-1251 with confidence 0.9754368975032921
+      1 ./books/renan/01/16.html: windows-1251 with confidence 0.9847813129189483
+      1 ./books/renan/01/17.html: windows-1251 with confidence 0.9830773904909794
+      1 ./books/renan/01/18.html: windows-1251 with confidence 0.9752325903114276
+      1 ./books/renan/01/19.html: windows-1251 with confidence 0.9896848968384205
+      1 ./books/renan/01/20.html: windows-1251 with confidence 0.9810473491368272
+      1 ./books/renan/01/21.html: windows-1251 with confidence 0.9816706620373096
+      1 ./books/renan/01/22.html: windows-1251 with confidence 0.985731306555871
+      1 ./books/renan/01/23.html: windows-1251 with confidence 0.9860737756362437
+      1 ./books/renan/01/24.html: windows-1251 with confidence 0.9855230200584125
+      1 ./books/renan/01/25.html: windows-1251 with confidence 0.9831177989937544
+      1 ./books/renan/01/26.html: MacCyrillic with confidence 0.9853163426096615
+      1 ./books/renan/01/27.html: windows-1251 with confidence 0.9812982043854674
+      1 ./books/renan/01/28.html: windows-1251 with confidence 0.9909201105926214
+      1 ./books/renan/01/29.html: windows-1251 with confidence 0.9888623495863534
+      1 ./books/renan/01/index.html: MacCyrillic with confidence 0.839311173291386
+      1 ./books/renan/01/nav.html: MacCyrillic with confidence 0.8397810200264737
+      1 ./books/renan/01/title.html: MacCyrillic with confidence 0.8328205002179326
+      1 ./books/renan/02/00.html: windows-1251 with confidence 0.9910885243099006
+      1 ./books/renan/02/01.html: MacCyrillic with confidence 0.9883263717277768
+      1 ./books/renan/02/02.html: windows-1251 with confidence 0.9863645726834247
+      1 ./books/renan/02/03.html: windows-1251 with confidence 0.9768541128221613
+      1 ./books/renan/02/04.html: MacCyrillic with confidence 0.9814475969735083
+      1 ./books/renan/02/05.html: MacCyrillic with confidence 0.9864563122413309
+      1 ./books/renan/02/06.html: windows-1251 with confidence 0.9813137575583958
+      1 ./books/renan/02/07.html: windows-1251 with confidence 0.9937141631804156
+      1 ./books/renan/02/08.html: windows-1251 with confidence 0.9830430261882819
+      1 ./books/renan/02/09.html: windows-1251 with confidence 0.9792818944699698
+      1 ./books/renan/02/0.html: windows-1251 with confidence 0.8916920439684705
+      1 ./books/renan/02/10.html: windows-1251 with confidence 0.9881701395935718
+      1 ./books/renan/02/11.html: windows-1251 with confidence 0.9869472034498077
+      1 ./books/renan/02/12.html: windows-1251 with confidence 0.9759548841254446
+      1 ./books/renan/02/13.html: windows-1251 with confidence 0.983351248017112
+      1 ./books/renan/02/14.html: windows-1251 with confidence 0.9798882012597955
+      1 ./books/renan/02/15.html: windows-1251 with confidence 0.9815450133705773
+      1 ./books/renan/02/16.html: windows-1251 with confidence 0.9839630215496091
+      1 ./books/renan/02/17.html: MacCyrillic with confidence 0.9816856831816216
+      1 ./books/renan/02/18.html: MacCyrillic with confidence 0.9786359493886356
+      1 ./books/renan/02/19.html: windows-1251 with confidence 0.9953631946979582
+      1 ./books/renan/02/index.html: windows-1251 with confidence 0.8559387615630655
+      1 ./books/renan/02/nav.html: MacCyrillic with confidence 0.8348282642011002
+      1 ./books/renan/02/title.html: windows-1251 with confidence 0.837016973181349
+      1 ISO-8859-1 with confidence 0.7284575913069725
+      7 ISO-8859-1 with confidence 0.73
+      1 MacCyrillic with confidence 0.6800180203124098
+      1 MacCyrillic with confidence 0.790557068372254
+      1 MacCyrillic with confidence 0.8191677051323929
+      1 MacCyrillic with confidence 0.8838750006189691
+      1 MacCyrillic with confidence 0.8888927509561512
+      3 MacCyrillic with confidence 0.8959646774885547
+      1 MacCyrillic with confidence 0.8962658420860298
+      1 MacCyrillic with confidence 0.9078105383155182
+      1 MacCyrillic with confidence 0.9112583816834419
+      1 MacCyrillic with confidence 0.9203436801476845
+      1 MacCyrillic with confidence 0.920377960158036
+      1 MacCyrillic with confidence 0.9291485544325752
+      1 MacCyrillic with confidence 0.933823700500644
+      1 MacCyrillic with confidence 0.9388889548974856
+      1 MacCyrillic with confidence 0.9425092888995588
+      1 MacCyrillic with confidence 0.9458197289322382
+      1 MacCyrillic with confidence 0.95133854296847
+      1 MacCyrillic with confidence 0.9530474282994066
+      1 MacCyrillic with confidence 0.9540617979558017
+      1 MacCyrillic with confidence 0.9543095854207317
+      1 MacCyrillic with confidence 0.9565290816832838
+      1 MacCyrillic with confidence 0.9569129891088931
+      1 MacCyrillic with confidence 0.9571756298959548
+      1 MacCyrillic with confidence 0.9575355839005363
+      1 MacCyrillic with confidence 0.957703025140804
+      1 MacCyrillic with confidence 0.9577064121676555
+      1 MacCyrillic with confidence 0.9582765631919172
+      1 MacCyrillic with confidence 0.9586926137670118
+      1 MacCyrillic with confidence 0.9608071961801552
+      1 MacCyrillic with confidence 0.9616316538510699
+      1 MacCyrillic with confidence 0.9624200302058046
+      1 MacCyrillic with confidence 0.9642751665868027
+      1 MacCyrillic with confidence 0.9681333413502945
+      1 MacCyrillic with confidence 0.9684024526369299
+      1 MacCyrillic with confidence 0.9693006337610838
+      1 MacCyrillic with confidence 0.9713663170136472
+      1 MacCyrillic with confidence 0.9768678763863964
+      1 MacCyrillic with confidence 0.9771524141151517
+      1 MacCyrillic with confidence 0.9775661579227389
+      1 MacCyrillic with confidence 0.9777511443226458
+      1 MacCyrillic with confidence 0.9796191147174893
+      1 MacCyrillic with confidence 0.9815061041934889
+      1 MacCyrillic with confidence 0.9848203220368463
+      1 MacCyrillic with confidence 0.9874123123559205
+      1 MacCyrillic with confidence 0.9899666235319577
+      1 MacCyrillic with confidence 0.9901631051193504
+      1 MacCyrillic with confidence 0.9918844784816937
+      1 MacCyrillic with confidence 0.9920578705628081
+      1 MacCyrillic with confidence 0.9928298978546751
+      1 MacCyrillic with confidence 0.9928567830675902
+      1 MacCyrillic with confidence 0.9934261701288405
+      1 MacCyrillic with confidence 0.9944497586692056
+      1 MacCyrillic with confidence 0.9946776310618092
+      1 MacCyrillic with confidence 0.9954456450947338
+      1 MacCyrillic with confidence 0.9978425202308282
+      1 MacCyrillic with confidence 0.9991484401180826
+      1 MacCyrillic with confidence 0.999194090121115
+      1 windows-1251 with confidence 0.8126663741392786
+      1 windows-1251 with confidence 0.8405421282771208
+      1 windows-1251 with confidence 0.8443996154847042
+      1 windows-1251 with confidence 0.866013101861276
+      1 windows-1251 with confidence 0.8818297548127272
+      1 windows-1251 with confidence 0.8819573420078258
+      1 windows-1251 with confidence 0.8840621525984712
+      2 windows-1251 with confidence 0.8842066544213869
+      1 windows-1251 with confidence 0.8846671791592823
+      1 windows-1251 with confidence 0.8871867253863472
+      1 windows-1251 with confidence 0.8880636534298856
+      1 windows-1251 with confidence 0.8900414209511198
+      1 windows-1251 with confidence 0.8929880506530445
+      1 windows-1251 with confidence 0.893322186941195
+      1 windows-1251 with confidence 0.893918414540294
+      1 windows-1251 with confidence 0.8947329241168795
+      1 windows-1251 with confidence 0.8950560369569883
+      1 windows-1251 with confidence 0.895160553823259
+      4 windows-1251 with confidence 0.8970212436158997
+      1 windows-1251 with confidence 0.8982628652416432
+      1 windows-1251 with confidence 0.8991083033721758
+      1 windows-1251 with confidence 0.9013461145758427
+      1 windows-1251 with confidence 0.9049778570342933
+      1 windows-1251 with confidence 0.9052104102182728
+      1 windows-1251 with confidence 0.908087955954014
+      1 windows-1251 with confidence 0.910186339035992
+      1 windows-1251 with confidence 0.9130561227866935
+      1 windows-1251 with confidence 0.9134185348422279
+      1 windows-1251 with confidence 0.9136935219242983
+      1 windows-1251 with confidence 0.9138892865756388
+      1 windows-1251 with confidence 0.9148171733525869
+      1 windows-1251 with confidence 0.9159770004195041
+      1 windows-1251 with confidence 0.9210485983556115
+      1 windows-1251 with confidence 0.9226888986381349
+      1 windows-1251 with confidence 0.924853498415036
+      1 windows-1251 with confidence 0.9257717326282133
+      1 windows-1251 with confidence 0.9271674274508426
+      1 windows-1251 with confidence 0.9278999072275899
+      1 windows-1251 with confidence 0.9296363504655892
+      1 windows-1251 with confidence 0.9319439767898983
+      1 windows-1251 with confidence 0.9333292463336862
+      1 windows-1251 with confidence 0.9333783556146641
+      1 windows-1251 with confidence 0.9350443693037818
+      1 windows-1251 with confidence 0.9359269029227565
+      1 windows-1251 with confidence 0.9361892396698734
+      1 windows-1251 with confidence 0.9404451267366654
+      1 windows-1251 with confidence 0.9426804261859956
+      1 windows-1251 with confidence 0.9435659822706549
+      1 windows-1251 with confidence 0.944463700500474
+      1 windows-1251 with confidence 0.9448347940880854
+      1 windows-1251 with confidence 0.9479020522358003
+      1 windows-1251 with confidence 0.9500012043244433
+      1 windows-1251 with confidence 0.9506155357369964
+      1 windows-1251 with confidence 0.9511083164675682
+      1 windows-1251 with confidence 0.9512001351919572
+      1 windows-1251 with confidence 0.9521028151758073
+      1 windows-1251 with confidence 0.9525205873632474
+      1 windows-1251 with confidence 0.9541163420216577
+      1 windows-1251 with confidence 0.9549882572786963
+      1 windows-1251 with confidence 0.9555088748181051
+      1 windows-1251 with confidence 0.9555346222560176
+      1 windows-1251 with confidence 0.9555383657218292
+      1 windows-1251 with confidence 0.9557628071550995
+      1 windows-1251 with confidence 0.9560907621966872
+      1 windows-1251 with confidence 0.9562442875765674
+      1 windows-1251 with confidence 0.9564595437208261
+      1 windows-1251 with confidence 0.9564898915159212
+      1 windows-1251 with confidence 0.9576083599032019
+      1 windows-1251 with confidence 0.9582449280529585
+      1 windows-1251 with confidence 0.9587205982417825
+      1 windows-1251 with confidence 0.9587592937890503
+      1 windows-1251 with confidence 0.9595059955093054
+      1 windows-1251 with confidence 0.9598120939476419
+      1 windows-1251 with confidence 0.9601300113092386
+      1 windows-1251 with confidence 0.9608966422297937
+      1 windows-1251 with confidence 0.9610373813909973
+      1 windows-1251 with confidence 0.9616176539312158
+      1 windows-1251 with confidence 0.9617901023947388
+      1 windows-1251 with confidence 0.9627519595325245
+      1 windows-1251 with confidence 0.9630969037736093
+      1 windows-1251 with confidence 0.9642521549156893
+      1 windows-1251 with confidence 0.964736010799148
+      1 windows-1251 with confidence 0.9653030476118454
+      1 windows-1251 with confidence 0.9653163933713074
+      1 windows-1251 with confidence 0.9656247359187412
+      1 windows-1251 with confidence 0.9657411908333395
+      1 windows-1251 with confidence 0.9659164172133881
+      1 windows-1251 with confidence 0.9663876039463469
+      1 windows-1251 with confidence 0.9668430104721051
+      1 windows-1251 with confidence 0.9676254631443613
+      1 windows-1251 with confidence 0.9676572350466628
+      1 windows-1251 with confidence 0.9680559208138393
+      1 windows-1251 with confidence 0.9683328567650218
+      1 windows-1251 with confidence 0.9687922617950437
+      1 windows-1251 with confidence 0.9692520982455519
+      1 windows-1251 with confidence 0.9694428156515573
+      1 windows-1251 with confidence 0.9695705484292828
+      1 windows-1251 with confidence 0.9698326673923879
+      1 windows-1251 with confidence 0.9700670192357282
+      1 windows-1251 with confidence 0.9705351621910376
+      1 windows-1251 with confidence 0.9706530644092041
+      1 windows-1251 with confidence 0.9707083595295753
+      1 windows-1251 with confidence 0.970790733812896
+      1 windows-1251 with confidence 0.9710613478737312
+      1 windows-1251 with confidence 0.9710741766250881
+      1 windows-1251 with confidence 0.9714674298022044
+      1 windows-1251 with confidence 0.971897568116907
+      1 windows-1251 with confidence 0.9719815504096422
+      1 windows-1251 with confidence 0.9721870351578331
+      1 windows-1251 with confidence 0.9722691369659003
+      1 windows-1251 with confidence 0.9724301736411837
+      1 windows-1251 with confidence 0.9728666882765937
+      1 windows-1251 with confidence 0.9730517342342293
+      1 windows-1251 with confidence 0.9730884016639348
+      1 windows-1251 with confidence 0.9732156385772722
+      1 windows-1251 with confidence 0.9732986490015123
+      1 windows-1251 with confidence 0.9736185198291646
+      1 windows-1251 with confidence 0.974206803833585
+      1 windows-1251 with confidence 0.9745101968863955
+      1 windows-1251 with confidence 0.9747046103267173
+      1 windows-1251 with confidence 0.9747519462977133
+      1 windows-1251 with confidence 0.9747760905953753
+      1 windows-1251 with confidence 0.9749940061383572
+      1 windows-1251 with confidence 0.9751307683266605
+      1 windows-1251 with confidence 0.9753332527424369
+      1 windows-1251 with confidence 0.9753477828734963
+      1 windows-1251 with confidence 0.9753745926863145
+      1 windows-1251 with confidence 0.9754863499742621
+      1 windows-1251 with confidence 0.9755041692822962
+      1 windows-1251 with confidence 0.9756596488015529
+      1 windows-1251 with confidence 0.9759813758166417
+      1 windows-1251 with confidence 0.9760476713163588
+      1 windows-1251 with confidence 0.9764311379238667
+      1 windows-1251 with confidence 0.9768195307726052
+      1 windows-1251 with confidence 0.9768404856843949
+      1 windows-1251 with confidence 0.976982713649758
+      1 windows-1251 with confidence 0.9770966276756895
+      1 windows-1251 with confidence 0.9771597143408843
+      1 windows-1251 with confidence 0.977268599505951
+      1 windows-1251 with confidence 0.9775780790713612
+      1 windows-1251 with confidence 0.977587135122577
+      1 windows-1251 with confidence 0.9775914249599208
+      1 windows-1251 with confidence 0.9777621817312461
+      1 windows-1251 with confidence 0.9777647549954751
+      1 windows-1251 with confidence 0.9778817111456257
+      1 windows-1251 with confidence 0.9779699381995541
+      1 windows-1251 with confidence 0.9782723974126416
+      1 windows-1251 with confidence 0.9783871222965956
+      1 windows-1251 with confidence 0.9789248911420088
+      1 windows-1251 with confidence 0.9789421141686199
+      1 windows-1251 with confidence 0.9790645882461881
+      1 windows-1251 with confidence 0.9791405082093796
+      1 windows-1251 with confidence 0.9792590945881796
+      1 windows-1251 with confidence 0.9794665480765142
+      1 windows-1251 with confidence 0.9795936933398873
+      1 windows-1251 with confidence 0.9796451231565563
+      1 windows-1251 with confidence 0.9796548064809086
+      1 windows-1251 with confidence 0.9798172408190542
+      1 windows-1251 with confidence 0.9798730892363409
+      1 windows-1251 with confidence 0.9798860436943204
+      1 windows-1251 with confidence 0.9799497255332206
+      1 windows-1251 with confidence 0.9801703406536524
+      1 windows-1251 with confidence 0.980203283951175
+      1 windows-1251 with confidence 0.9802468766425739
+      1 windows-1251 with confidence 0.980251237481655
+      1 windows-1251 with confidence 0.980264905751772
+      1 windows-1251 with confidence 0.9804291940225135
+      1 windows-1251 with confidence 0.9805286830956845
+      1 windows-1251 with confidence 0.9805568029896873
+      1 windows-1251 with confidence 0.9806675443211071
+      1 windows-1251 with confidence 0.9807900409245269
+      1 windows-1251 with confidence 0.9808438364771724
+      1 windows-1251 with confidence 0.980965090777854
+      1 windows-1251 with confidence 0.9810436316932938
+      1 windows-1251 with confidence 0.9811654087484697
+      1 windows-1251 with confidence 0.98117471824686
+      1 windows-1251 with confidence 0.981205623155779
+      1 windows-1251 with confidence 0.9812909342808698
+      1 windows-1251 with confidence 0.9814028206331131
+      1 windows-1251 with confidence 0.9814299413477163
+      1 windows-1251 with confidence 0.9815409036477656
+      1 windows-1251 with confidence 0.9816467684099789
+      1 windows-1251 with confidence 0.9818825830459594
+      1 windows-1251 with confidence 0.9819959408490748
+      1 windows-1251 with confidence 0.9820649117679143
+      1 windows-1251 with confidence 0.9821171558228466
+      1 windows-1251 with confidence 0.98216068658304
+      1 windows-1251 with confidence 0.9823909010436666
+      1 windows-1251 with confidence 0.9826049377685014
+      1 windows-1251 with confidence 0.982663113172241
+      1 windows-1251 with confidence 0.9828249546871787
+      1 windows-1251 with confidence 0.9828362091809314
+      1 windows-1251 with confidence 0.9832614213667416
+      1 windows-1251 with confidence 0.983345431211613
+      1 windows-1251 with confidence 0.9833638574958072
+      1 windows-1251 with confidence 0.9834179208659739
+      1 windows-1251 with confidence 0.9834301991014164
+      1 windows-1251 with confidence 0.9834809098448793
+      1 windows-1251 with confidence 0.9834864336948544
+      1 windows-1251 with confidence 0.9835773853285068
+      1 windows-1251 with confidence 0.983958769821122
+      1 windows-1251 with confidence 0.9841565453372815
+      1 windows-1251 with confidence 0.9846846833329083
+      1 windows-1251 with confidence 0.9848002034215536
+      1 windows-1251 with confidence 0.9851621346343815
+      1 windows-1251 with confidence 0.985199431244501
+      1 windows-1251 with confidence 0.9853535071420602
+      1 windows-1251 with confidence 0.9854818149869806
+      1 windows-1251 with confidence 0.9854836373035745
+      1 windows-1251 with confidence 0.9855202715451296
+      1 windows-1251 with confidence 0.9855651698501896
+      1 windows-1251 with confidence 0.9856807133868541
+      1 windows-1251 with confidence 0.9856807666896783
+      1 windows-1251 with confidence 0.985765563569461
+      1 windows-1251 with confidence 0.9857959902353626
+      1 windows-1251 with confidence 0.9858115053901009
+      1 windows-1251 with confidence 0.9860505267131643
+      1 windows-1251 with confidence 0.9860545346214878
+      1 windows-1251 with confidence 0.9861119592370547
+      1 windows-1251 with confidence 0.9862167969528074
+      1 windows-1251 with confidence 0.9862616798796808
+      1 windows-1251 with confidence 0.9862935461344717
+      1 windows-1251 with confidence 0.9863498360870101
+      1 windows-1251 with confidence 0.9863642479040647
+      1 windows-1251 with confidence 0.9864556852171058
+      1 windows-1251 with confidence 0.986470426987184
+      1 windows-1251 with confidence 0.9866010477815577
+      1 windows-1251 with confidence 0.9867337175658778
+      1 windows-1251 with confidence 0.9867821544766571
+      1 windows-1251 with confidence 0.9869071331447975
+      1 windows-1251 with confidence 0.9870507846750399
+      1 windows-1251 with confidence 0.9874175469077437
+      1 windows-1251 with confidence 0.9874420359479155
+      1 windows-1251 with confidence 0.9877038928939699
+      1 windows-1251 with confidence 0.9879184993881696
+      1 windows-1251 with confidence 0.9879593526685599
+      1 windows-1251 with confidence 0.9879756005266244
+      1 windows-1251 with confidence 0.9879846703211277
+      1 windows-1251 with confidence 0.9880737542571532
+      1 windows-1251 with confidence 0.9883518713017698
+      1 windows-1251 with confidence 0.9884681621640287
+      1 windows-1251 with confidence 0.9885777446155232
+      1 windows-1251 with confidence 0.9886244381911097
+      1 windows-1251 with confidence 0.9887112187868571
+      1 windows-1251 with confidence 0.9887766194742241
+      1 windows-1251 with confidence 0.9888075255449061
+      1 windows-1251 with confidence 0.9888639065878093
+      1 windows-1251 with confidence 0.9889510964121765
+      1 windows-1251 with confidence 0.9890653128685207
+      1 windows-1251 with confidence 0.9890987650389025
+      1 windows-1251 with confidence 0.989181291314358
+      1 windows-1251 with confidence 0.989242578442808
+      1 windows-1251 with confidence 0.9892879973879208
+      1 windows-1251 with confidence 0.9893685362240316
+      1 windows-1251 with confidence 0.9894062209343554
+      1 windows-1251 with confidence 0.9895026167270402
+      1 windows-1251 with confidence 0.9895273900086504
+      1 windows-1251 with confidence 0.9895966779702914
+      1 windows-1251 with confidence 0.9896877572928883
+      1 windows-1251 with confidence 0.9897148178254638
+      1 windows-1251 with confidence 0.9898074650115235
+      1 windows-1251 with confidence 0.9898271183567395
+      1 windows-1251 with confidence 0.9899653430332988
+      1 windows-1251 with confidence 0.9899938156372599
+     24 windows-1251 with confidence 0.99
+      1 windows-1251 with confidence 0.9900226442377731
+      1 windows-1251 with confidence 0.9900378990264708
+      1 windows-1251 with confidence 0.9900565481635798
+      1 windows-1251 with confidence 0.9900719071525992
+      1 windows-1251 with confidence 0.9901114775476363
+      1 windows-1251 with confidence 0.9901318064437931
+      1 windows-1251 with confidence 0.9901346739765298
+      1 windows-1251 with confidence 0.9901392436409133
+      1 windows-1251 with confidence 0.9901654108432109
+      1 windows-1251 with confidence 0.9902115818236298
+      1 windows-1251 with confidence 0.990272381238398
+      1 windows-1251 with confidence 0.9903885723602077
+      1 windows-1251 with confidence 0.9904228405761802
+      1 windows-1251 with confidence 0.9904749197160444
+      1 windows-1251 with confidence 0.9904956855737717
+      1 windows-1251 with confidence 0.9905456596100474
+      1 windows-1251 with confidence 0.9905566692392485
+      1 windows-1251 with confidence 0.990589185527494
+      1 windows-1251 with confidence 0.9906815806646748
+      1 windows-1251 with confidence 0.9907058123579863
+      1 windows-1251 with confidence 0.9907218146566652
+      1 windows-1251 with confidence 0.9908230807102038
+      1 windows-1251 with confidence 0.9910590430111318
+      1 windows-1251 with confidence 0.9912566400591938
+      1 windows-1251 with confidence 0.9913117962704816
+      1 windows-1251 with confidence 0.991379698353634
+      1 windows-1251 with confidence 0.9915199522533158
+      1 windows-1251 with confidence 0.991570004071691
+      1 windows-1251 with confidence 0.9916853950642427
+      1 windows-1251 with confidence 0.9918940752289951
+      1 windows-1251 with confidence 0.991950692181072
+      1 windows-1251 with confidence 0.9920665949309623
+      1 windows-1251 with confidence 0.9920889156600741
+      1 windows-1251 with confidence 0.9922321114512563
+      1 windows-1251 with confidence 0.9923249035223329
+      1 windows-1251 with confidence 0.9924247900483728
+      1 windows-1251 with confidence 0.9929734604785618
+      1 windows-1251 with confidence 0.9930846249226678
+      1 windows-1251 with confidence 0.9931833622044178
+      1 windows-1251 with confidence 0.9934562806556468
+      1 windows-1251 with confidence 0.9937343268204388
+      1 windows-1251 with confidence 0.9938047918590384
+      1 windows-1251 with confidence 0.9938599058107178
+      1 windows-1251 with confidence 0.9939733718270586
+      1 windows-1251 with confidence 0.9940125651717283
+      1 windows-1251 with confidence 0.9941336219044189
+      1 windows-1251 with confidence 0.9943708665970983
+      1 windows-1251 with confidence 0.9943851425390046
+      1 windows-1251 with confidence 0.9944964690496668
+      1 windows-1251 with confidence 0.9945047396326739
+      1 windows-1251 with confidence 0.9946303910682328
+      1 windows-1251 with confidence 0.9946833824406464
+      1 windows-1251 with confidence 0.9947117832962316
+      1 windows-1251 with confidence 0.9947339924289993
+      1 windows-1251 with confidence 0.9948671014158107
+      1 windows-1251 with confidence 0.9949032143245383
+      1 windows-1251 with confidence 0.9949643709361329
+      1 windows-1251 with confidence 0.9951312727864494
+      1 windows-1251 with confidence 0.9952682193545505
+      1 windows-1251 with confidence 0.9952935169444098
+      1 windows-1251 with confidence 0.9954042814153532
+      1 windows-1251 with confidence 0.9955910128344548
+      1 windows-1251 with confidence 0.9961887175540413
+      1 windows-1251 with confidence 0.9962012214794215
+      1 windows-1251 with confidence 0.9962512945265356
+      1 windows-1251 with confidence 0.9962815805160584
+      1 windows-1251 with confidence 0.9967051264555661
+      1 windows-1251 with confidence 0.996927772543967
+      1 windows-1251 with confidence 0.9969682055364377
+      1 windows-1251 with confidence 0.9969775060099165
+      1 windows-1251 with confidence 0.997075342117889
+      1 windows-1251 with confidence 0.9971872594716663
+      1 windows-1251 with confidence 0.9972369362251057
+      1 windows-1251 with confidence 0.9973771022010676
+      1 windows-1251 with confidence 0.9974419504267921
+      1 windows-1251 with confidence 0.9974535804785801
+      1 windows-1251 with confidence 0.9975350066445048
+      1 windows-1251 with confidence 0.9976844990268476
+      1 windows-1251 with confidence 0.9977321459775965
+      1 windows-1251 with confidence 0.9978542702356256
+      1 windows-1251 with confidence 0.9979110660565306
+      1 windows-1251 with confidence 0.9980828082400588
+      1 windows-1251 with confidence 0.9982224116956109
+      1 windows-1251 with confidence 0.998238618514996
+      1 windows-1251 with confidence 0.9984729969439713
+      1 windows-1251 with confidence 0.9986477616307757
+      1 windows-1251 with confidence 0.9987168306657739
+      1 windows-1251 with confidence 0.9987421164692607
+      1 windows-1251 with confidence 0.9987542732942384
+      1 windows-1251 with confidence 0.9988831226034641
+      1 windows-1251 with confidence 0.9989917405570161
+      1 windows-1251 with confidence 0.99908518168067
+      1 windows-1251 with confidence 0.9990993843321611
+      1 windows-1251 with confidence 0.9992437894773449
+      1 windows-1251 with confidence 0.9993766954742407
+      1 windows-1251 with confidence 0.9993863892267498
+      1 windows-1251 with confidence 0.9994529322693191
+      1 windows-1251 with confidence 0.999585300144399
+      1 windows-1251 with confidence 0.9996133166316604
+      1 windows-1251 with confidence 0.9996425474422077
+      1 windows-1251 with confidence 0.9997199327094881
+      1 windows-1251 with confidence 0.9998073374751091
+      1 windows-1251 with confidence 0.9998529665790201
+      1 windows-1251 with confidence 0.999918201283592
+      1 Windows-1252 with confidence 0.7182877914264226
+      1 Windows-1252 with confidence 0.7289741015860269
+      1 Windows-1252 with confidence 0.7298905531598937
+     52 Windows-1252 with confidence 0.73
