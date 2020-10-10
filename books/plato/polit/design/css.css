@@ -1,0 +1,68 @@
+a  {
+	color : gray;
+	text-decoration : none;
+}
+
+A.top  {
+	text-decoration : none;
+	color : #c0c0c0;
+}
+
+A.name  {
+	text-decoration : none;
+	color : gray;
+}
+
+A:Visited  {
+	text-decoration : none;
+}
+
+A:Active  {
+	color : #ff9933;
+}
+
+A:Hover  {
+	color : #ff9933;
+}
+
+p  {
+	text-align : justify;
+	margin-left : 2 em;
+	margin-right : 2 em;
+	margin-top : 1 ex;
+	margin-bottom : 0 ex;
+}
+
+dir  {
+	margin-left : 4 em;
+}
+
+sup  {
+	font-size : small;
+	font-weight : bold;
+}
+
+span.num  {
+	margin-left : -2 em;
+	width : 2 em;
+	float : left;
+}
+
+div.comm  {
+	font-size : x-small;
+	font-weight : bold;
+}
+
+div.left  {
+	margin-left : 2 em;
+}
+
+div.right  {
+	margin-right : 2 em;
+}
+
+h2 {font-size: ; font-style: normal; font-weight: normal; text-align: right; text-indent:20pt; margin-top: 20px; margin-right: 20px; margin-bottom: 40px; margin-left: 20px}
+
+h1 {font-size: ; font-style: normal; font-weight: bold; text-align: center; text-indent:20pt; margin-top: 20px; margin-right: 20px; margin-bottom: 40px; margin-left: 20px}
+
+h3 {h3 {font-size: 12pt; font-style: normal; font-weight: normal; text-align: center; margin-top: 20px; margin-right: 20px; margin-bottom: 40px; margin-left: 20pxtext-align: center}
