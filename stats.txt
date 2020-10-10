@@ -1,4 +1,3 @@
-    271 ascii with confidence 1.0
       1 ISO-8859-1 with confidence 0.7284575913069725
       7 ISO-8859-1 with confidence 0.73
       1 MacCyrillic with confidence 0.6800180203124098
