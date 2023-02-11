@@ -1,4 +1,5 @@
-Library on Biblical Studies and Philosophy
+# Library on Biblical Studies and Philosophy
+# Библиотека по библеистике и философии
 
 ### Оглавление
 [**ФИЛОСОФИЯ**](#философия)  
